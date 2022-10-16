@@ -1,0 +1,57 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="de">
+  <siteinfo>
+    <sitename>ahrensburg.dev</sitename>
+    <dbname>wiki</dbname>
+    <base>https://ahrensburg.dev/index.php/Hauptseite</base>
+    <generator>MediaWiki 1.38.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">Ahrensburg.dev</namespace>
+      <namespace key="5" case="first-letter">Ahrensburg.dev Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hauptseite</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>1</id>
+      <timestamp>2022-10-16T19:46:51Z</timestamp>
+      <contributor>
+        <username>MediaWiki default</username>
+        <id>2</id>
+      </contributor>
+      <origin>1</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="826" sha1="0lkcyjyt2ihzggdz7ty1vuskhmn0zt7" xml:space="preserve">&lt;strong&gt;MediaWiki wurde installiert.&lt;/strong&gt;
+
+Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Benutzerhandbuch].
+
+== Starthilfen ==
+
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Liste der Konfigurationsparameter]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ Häufige Fragen zu MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Mailingliste zu neuen Versionen von MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Übersetze MediaWiki für deine Sprache]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Erfahre, wie du Spam auf deinem Wiki bekämpfen kannst]</text>
+      <sha1>0lkcyjyt2ihzggdz7ty1vuskhmn0zt7</sha1>
+    </revision>
+  </page>
+</mediawiki>
