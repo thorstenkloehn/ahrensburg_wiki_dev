@@ -53,5 +53,20 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
 * [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Erfahre, wie du Spam auf deinem Wiki bekämpfen kannst]</text>
       <sha1>0lkcyjyt2ihzggdz7ty1vuskhmn0zt7</sha1>
     </revision>
+    <revision>
+      <id>2</id>
+      <parentid>1</parentid>
+      <timestamp>2022-10-16T21:25:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Der Seiteninhalt wurde durch einen anderen Text ersetzt: „==Test Seite==“</comment>
+      <origin>2</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="14" sha1="eb3xsjxmwyea7g4qfs2o3cnkprfj1bd" xml:space="preserve">==Test Seite==</text>
+      <sha1>eb3xsjxmwyea7g4qfs2o3cnkprfj1bd</sha1>
+    </revision>
   </page>
 </mediawiki>
