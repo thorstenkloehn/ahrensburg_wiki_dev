@@ -68,6 +68,55 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <text bytes="14" sha1="eb3xsjxmwyea7g4qfs2o3cnkprfj1bd" xml:space="preserve">==Test Seite==</text>
       <sha1>eb3xsjxmwyea7g4qfs2o3cnkprfj1bd</sha1>
     </revision>
+    <revision>
+      <id>15</id>
+      <parentid>2</parentid>
+      <timestamp>2022-10-17T19:37:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Test Seite */</comment>
+      <origin>15</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="53" sha1="awpw4wcth6gcsl8oe9q48qu9d6g03an" xml:space="preserve">==Weblink==
+
+* [https://ahrensburg.city Kartendienst]</text>
+      <sha1>awpw4wcth6gcsl8oe9q48qu9d6g03an</sha1>
+    </revision>
+    <revision>
+      <id>16</id>
+      <parentid>15</parentid>
+      <timestamp>2022-10-17T19:41:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>16</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="79" sha1="sdzjpfhsh0n2dt8dja4d8f1knfy4p4c" xml:space="preserve">==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [Probleme Kartendienst]</text>
+      <sha1>sdzjpfhsh0n2dt8dja4d8f1knfy4p4c</sha1>
+    </revision>
+    <revision>
+      <id>17</id>
+      <parentid>16</parentid>
+      <timestamp>2022-10-17T19:41:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>17</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="81" sha1="b8ov9fmjdoz1hqqv1gkvj926rz2slqt" xml:space="preserve">==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]</text>
+      <sha1>b8ov9fmjdoz1hqqv1gkvj926rz2slqt</sha1>
+    </revision>
   </page>
   <page>
     <title>Ahrensburg.dev:Impressum</title>
@@ -770,6 +819,123 @@ Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder 
 
 ''Die Datenschutzerklärung wurde mit dem'' [https://www.activemind.de/datenschutz/datenschutzhinweis-generator/ ''Datenschutzerklärungs-Generator der activeMind AG erstellt''] *(Version 2018-09-24).</text>
       <sha1>dzdbrk51iup35lo18gxfl0u7ahvhtbl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Probleme Kartendienst</title>
+    <ns>0</ns>
+    <id>4</id>
+    <revision>
+      <id>18</id>
+      <timestamp>2022-10-17T19:48:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Render fehler Test  &lt;pre&gt; sudo -u thorsten renderd -f -c /etc/renderd.conf &lt;/pre&gt;  ==socket bind failed for: /run/renderd/renderd.sock  &lt;pre&gt; sudo chown thorsten /run/renderd sudo chown thorsten /var/cache/renderd/tiles  &lt;/pre&gt;“</comment>
+      <origin>18</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="t1yd37mbiz74qs5ov8gid345o8rafkt" xml:space="preserve">==Render fehler Test
+
+&lt;pre&gt;
+sudo -u thorsten renderd -f -c /etc/renderd.conf
+&lt;/pre&gt;
+
+==socket bind failed for: /run/renderd/renderd.sock
+
+&lt;pre&gt;
+sudo chown thorsten /run/renderd
+sudo chown thorsten /var/cache/renderd/tiles
+
+&lt;/pre&gt;</text>
+      <sha1>t1yd37mbiz74qs5ov8gid345o8rafkt</sha1>
+    </revision>
+    <revision>
+      <id>19</id>
+      <parentid>18</parentid>
+      <timestamp>2022-10-17T19:48:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>19</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="231" sha1="ap3pak75buqrc3glo6w17h2sxp59afg" xml:space="preserve">==Render fehler Test
+
+&lt;pre&gt;
+sudo -u thorsten renderd -f -c /etc/renderd.conf
+&lt;/pre&gt;
+
+==socket bind failed for: /run/renderd/renderd.sock==
+
+&lt;pre&gt;
+sudo chown thorsten /run/renderd
+sudo chown thorsten /var/cache/renderd/tiles
+
+&lt;/pre&gt;</text>
+      <sha1>ap3pak75buqrc3glo6w17h2sxp59afg</sha1>
+    </revision>
+    <revision>
+      <id>20</id>
+      <parentid>19</parentid>
+      <timestamp>2022-10-17T19:48:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>20</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="mrggs9yk63cr6kr4wjulsvm4yhnrcjz" xml:space="preserve">==Render fehler Test==
+
+&lt;pre&gt;
+sudo -u thorsten renderd -f -c /etc/renderd.conf
+&lt;/pre&gt;
+
+==socket bind failed for: /run/renderd/renderd.sock==
+
+&lt;pre&gt;
+sudo chown thorsten /run/renderd
+sudo chown thorsten /var/cache/renderd/tiles
+
+&lt;/pre&gt;</text>
+      <sha1>mrggs9yk63cr6kr4wjulsvm4yhnrcjz</sha1>
+    </revision>
+    <revision>
+      <id>21</id>
+      <parentid>20</parentid>
+      <timestamp>2022-10-17T19:50:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>21</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="355" sha1="fzzk84qlmilfm8m2wxsg0u896cfhdrv" xml:space="preserve">==Render fehler Test==
+
+&lt;pre&gt;
+sudo -u thorsten renderd -f -c /etc/renderd.conf
+&lt;/pre&gt;
+
+==socket bind failed for: /run/renderd/renderd.sock==
+
+&lt;pre&gt;
+sudo chown thorsten /run/renderd
+sudo chown thorsten /var/cache/renderd/tiles
+
+&lt;/pre&gt;
+
+== Restarten ==
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl restart renderd
+sudo systemctl restart apache2
+&lt;/pre&gt;</text>
+      <sha1>fzzk84qlmilfm8m2wxsg0u896cfhdrv</sha1>
     </revision>
   </page>
 </mediawiki>
