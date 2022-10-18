@@ -2,7 +2,7 @@
   <siteinfo>
     <sitename>ahrensburg.dev</sitename>
     <dbname>wiki</dbname>
-    <base>https://ahrensburg.dev/index.php/Hauptseite</base>
+    <base>https://ahrensburg.dev/Hauptseite</base>
     <generator>MediaWiki 1.38.4</generator>
     <case>first-letter</case>
     <namespaces>
@@ -24,6 +24,8 @@
       <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
       <namespace key="14" case="first-letter">Kategorie</namespace>
       <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
     </namespaces>
   </siteinfo>
   <page>
@@ -116,6 +118,24 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
 
 * [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]</text>
       <sha1>b8ov9fmjdoz1hqqv1gkvj926rz2slqt</sha1>
+    </revision>
+    <revision>
+      <id>22</id>
+      <parentid>17</parentid>
+      <timestamp>2022-10-18T14:04:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>22</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="113" sha1="a0xc4qx3xzjjkhwiijlbd1n5iq3pp83" xml:space="preserve">==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* 3D-Stadtmodelle</text>
+      <sha1>a0xc4qx3xzjjkhwiijlbd1n5iq3pp83</sha1>
     </revision>
   </page>
   <page>
