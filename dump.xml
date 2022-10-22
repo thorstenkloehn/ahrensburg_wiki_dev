@@ -137,6 +137,348 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
 * 3D-Stadtmodelle</text>
       <sha1>a0xc4qx3xzjjkhwiijlbd1n5iq3pp83</sha1>
     </revision>
+    <revision>
+      <id>23</id>
+      <parentid>22</parentid>
+      <timestamp>2022-10-19T11:37:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>23</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="150" sha1="nsdd6mo8lmaggo4vnxp8lc7cpsfbtx5" xml:space="preserve">==Installieren==
+
+* [[qgis Server]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* 3D-Stadtmodelle</text>
+      <sha1>nsdd6mo8lmaggo4vnxp8lc7cpsfbtx5</sha1>
+    </revision>
+    <revision>
+      <id>27</id>
+      <parentid>23</parentid>
+      <timestamp>2022-10-19T18:23:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Installieren */</comment>
+      <origin>27</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="213" sha1="9xgk8yonwkmul2pbbrm1ll3w7tsghs0" xml:space="preserve">==Installieren==
+
+* [[qgis Server]] - [[deegree] - [[geoserver]] - [[mapServrt]]
+
+
+* [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* 3D-Stadtmodelle</text>
+      <sha1>9xgk8yonwkmul2pbbrm1ll3w7tsghs0</sha1>
+    </revision>
+    <revision>
+      <id>28</id>
+      <parentid>27</parentid>
+      <timestamp>2022-10-19T18:23:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Installieren */</comment>
+      <origin>28</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="198" sha1="195o3wl9hbddw3juijypl9o0zf9zmzc" xml:space="preserve">==Installieren==
+
+* [[qgis Server]] - [[deegree]] - [[geoserver]]
+
+
+* [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* 3D-Stadtmodelle</text>
+      <sha1>195o3wl9hbddw3juijypl9o0zf9zmzc</sha1>
+    </revision>
+    <revision>
+      <id>29</id>
+      <parentid>28</parentid>
+      <timestamp>2022-10-20T13:18:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Literatur */</comment>
+      <origin>29</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="270" sha1="dopfmjott6g7ri61bsin2iiyfr1rztu" xml:space="preserve">==Installieren==
+
+* [[qgis Server]] - [[deegree]] - [[geoserver]]
+
+
+* [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS]</text>
+      <sha1>dopfmjott6g7ri61bsin2iiyfr1rztu</sha1>
+    </revision>
+    <revision>
+      <id>30</id>
+      <parentid>29</parentid>
+      <timestamp>2022-10-20T13:22:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Literatur */</comment>
+      <origin>30</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" sha1="7wxyzr0tyt18gz5mgmeimpqimaziovb" xml:space="preserve">==Installieren==
+
+* [[qgis Server]] - [[deegree]] - [[geoserver]]
+
+
+* [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>7wxyzr0tyt18gz5mgmeimpqimaziovb</sha1>
+    </revision>
+    <revision>
+      <id>31</id>
+      <parentid>30</parentid>
+      <timestamp>2022-10-22T21:28:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Installieren */</comment>
+      <origin>31</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="263" sha1="qpu1ps47wshtq5tlbtb6uw2fs4r6ox9" xml:space="preserve">==Installieren==
+
+* [[geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>qpu1ps47wshtq5tlbtb6uw2fs4r6ox9</sha1>
+    </revision>
+    <revision>
+      <id>32</id>
+      <parentid>31</parentid>
+      <timestamp>2022-10-22T21:32:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>32</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="392" sha1="fjpav4cmmrixn20jmdvxgklhj8z5rn8" xml:space="preserve">==Projekte==
+* [https://https://ahrensburg.city ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Installieren==
+
+* [[geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>fjpav4cmmrixn20jmdvxgklhj8z5rn8</sha1>
+    </revision>
+    <revision>
+      <id>33</id>
+      <parentid>32</parentid>
+      <timestamp>2022-10-22T21:33:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Projekte */</comment>
+      <origin>33</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="386" sha1="8xlw8hz7fye2zmqdoouj9n468yaxe86" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+
+==Installieren==
+
+* [[geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>8xlw8hz7fye2zmqdoouj9n468yaxe86</sha1>
+    </revision>
+    <revision>
+      <id>34</id>
+      <parentid>33</parentid>
+      <timestamp>2022-10-22T21:37:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Projekte */</comment>
+      <origin>34</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="400" sha1="5u8k1ijum9joyin6fj3yelv9ljwy8z9" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Dokumente==
+
+==Installieren==
+
+* [[geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>5u8k1ijum9joyin6fj3yelv9ljwy8z9</sha1>
+    </revision>
+    <revision>
+      <id>35</id>
+      <parentid>34</parentid>
+      <timestamp>2022-10-22T21:39:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Dokumente */</comment>
+      <origin>35</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="505" sha1="3oov0quanvb16umt9omhosffjgqrxpj" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+
+==Installieren==
+
+* [[geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>3oov0quanvb16umt9omhosffjgqrxpj</sha1>
+    </revision>
+    <revision>
+      <id>36</id>
+      <parentid>35</parentid>
+      <timestamp>2022-10-22T22:30:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Dokumente */</comment>
+      <origin>36</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="587" sha1="h6siobfjgdckldu9osbt73o4n69pd6q" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [
+
+==Installieren==
+
+* [[geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>h6siobfjgdckldu9osbt73o4n69pd6q</sha1>
+    </revision>
+    <revision>
+      <id>37</id>
+      <parentid>36</parentid>
+      <timestamp>2022-10-22T22:35:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Dokumente */</comment>
+      <origin>37</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="651" sha1="hupjokn3mjm81y5jrglzqvvz8qbukp4" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+
+==Installieren==
+
+* [[geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>hupjokn3mjm81y5jrglzqvvz8qbukp4</sha1>
+    </revision>
+    <revision>
+      <id>38</id>
+      <parentid>37</parentid>
+      <timestamp>2022-10-22T22:41:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Dokumente */</comment>
+      <origin>38</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="767" sha1="jupn703i7fgp0a0xibev00xf65w0bkf" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+
+==Installieren==
+
+* [[geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>jupn703i7fgp0a0xibev00xf65w0bkf</sha1>
+    </revision>
   </page>
   <page>
     <title>Ahrensburg.dev:Impressum</title>
@@ -956,6 +1298,62 @@ sudo systemctl restart renderd
 sudo systemctl restart apache2
 &lt;/pre&gt;</text>
       <sha1>fzzk84qlmilfm8m2wxsg0u896cfhdrv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Qgis Server</title>
+    <ns>0</ns>
+    <id>5</id>
+    <revision>
+      <id>24</id>
+      <timestamp>2022-10-19T11:39:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; sudo apt install gnupg software-properties-common &lt;/pre&gt;“</comment>
+      <origin>24</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="62" sha1="6m8coe9qq9qh8n8fqbraoa8iw2ptkda" xml:space="preserve">&lt;pre&gt;
+sudo apt install gnupg software-properties-common
+&lt;/pre&gt;</text>
+      <sha1>6m8coe9qq9qh8n8fqbraoa8iw2ptkda</sha1>
+    </revision>
+    <revision>
+      <id>25</id>
+      <parentid>24</parentid>
+      <timestamp>2022-10-19T11:39:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>25</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="100" sha1="93l2wtdl8jrquf2hy7cvnd47tedk9el" xml:space="preserve">&lt;pre&gt;
+sudo apt install gnupg software-properties-common
+sudo mkdir -m755 -p /etc/apt/keyrings
+&lt;/pre&gt;</text>
+      <sha1>93l2wtdl8jrquf2hy7cvnd47tedk9el</sha1>
+    </revision>
+    <revision>
+      <id>26</id>
+      <parentid>25</parentid>
+      <timestamp>2022-10-19T11:40:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>26</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="217" sha1="lu7q9h923b6hs1d4wnas2em5g1i7xg1" xml:space="preserve">&lt;pre&gt;
+sudo apt install gnupg software-properties-common
+sudo mkdir -m755 -p /etc/apt/keyrings
+sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
+&lt;/pre&gt;</text>
+      <sha1>lu7q9h923b6hs1d4wnas2em5g1i7xg1</sha1>
     </revision>
   </page>
 </mediawiki>
