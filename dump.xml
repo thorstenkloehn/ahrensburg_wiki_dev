@@ -1,7 +1,7 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="de">
   <siteinfo>
     <sitename>ahrensburg.dev</sitename>
-    <dbname>wiki</dbname>
+    <dbname>mediawiki</dbname>
     <base>https://ahrensburg.dev/Hauptseite</base>
     <generator>MediaWiki 1.38.4</generator>
     <case>first-letter</case>
@@ -24,8 +24,6 @@
       <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
       <namespace key="14" case="first-letter">Kategorie</namespace>
       <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
-      <namespace key="420" case="first-letter">GeoJson</namespace>
-      <namespace key="421" case="first-letter">GeoJson talk</namespace>
     </namespaces>
   </siteinfo>
   <page>
@@ -34,7 +32,7 @@
     <id>1</id>
     <revision>
       <id>1</id>
-      <timestamp>2022-10-16T19:46:51Z</timestamp>
+      <timestamp>2022-10-23T19:01:12Z</timestamp>
       <contributor>
         <username>MediaWiki default</username>
         <id>2</id>
@@ -57,29 +55,52 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
     </revision>
     <revision>
       <id>2</id>
-      <parentid>1</parentid>
+      <timestamp>2022-10-16T19:46:51Z</timestamp>
+      <contributor>
+        <username>MediaWiki default</username>
+        <id>2</id>
+      </contributor>
+      <origin>2</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="826" sha1="0lkcyjyt2ihzggdz7ty1vuskhmn0zt7" xml:space="preserve">&lt;strong&gt;MediaWiki wurde installiert.&lt;/strong&gt;
+
+Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Benutzerhandbuch].
+
+== Starthilfen ==
+
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Liste der Konfigurationsparameter]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ Häufige Fragen zu MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Mailingliste zu neuen Versionen von MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Übersetze MediaWiki für deine Sprache]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Erfahre, wie du Spam auf deinem Wiki bekämpfen kannst]</text>
+      <sha1>0lkcyjyt2ihzggdz7ty1vuskhmn0zt7</sha1>
+    </revision>
+    <revision>
+      <id>3</id>
+      <parentid>2</parentid>
       <timestamp>2022-10-16T21:25:06Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>Der Seiteninhalt wurde durch einen anderen Text ersetzt: „==Test Seite==“</comment>
-      <origin>2</origin>
+      <origin>3</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="14" sha1="eb3xsjxmwyea7g4qfs2o3cnkprfj1bd" xml:space="preserve">==Test Seite==</text>
       <sha1>eb3xsjxmwyea7g4qfs2o3cnkprfj1bd</sha1>
     </revision>
     <revision>
-      <id>15</id>
-      <parentid>2</parentid>
+      <id>4</id>
+      <parentid>3</parentid>
       <timestamp>2022-10-17T19:37:44Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Test Seite */</comment>
-      <origin>15</origin>
+      <origin>4</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="53" sha1="awpw4wcth6gcsl8oe9q48qu9d6g03an" xml:space="preserve">==Weblink==
@@ -88,14 +109,14 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>awpw4wcth6gcsl8oe9q48qu9d6g03an</sha1>
     </revision>
     <revision>
-      <id>16</id>
-      <parentid>15</parentid>
+      <id>5</id>
+      <parentid>4</parentid>
       <timestamp>2022-10-17T19:41:04Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
-      <origin>16</origin>
+      <origin>5</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="79" sha1="sdzjpfhsh0n2dt8dja4d8f1knfy4p4c" xml:space="preserve">==Weblink==
@@ -104,14 +125,14 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>sdzjpfhsh0n2dt8dja4d8f1knfy4p4c</sha1>
     </revision>
     <revision>
-      <id>17</id>
-      <parentid>16</parentid>
+      <id>6</id>
+      <parentid>5</parentid>
       <timestamp>2022-10-17T19:41:29Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
-      <origin>17</origin>
+      <origin>6</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="81" sha1="b8ov9fmjdoz1hqqv1gkvj926rz2slqt" xml:space="preserve">==Weblink==
@@ -120,14 +141,14 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>b8ov9fmjdoz1hqqv1gkvj926rz2slqt</sha1>
     </revision>
     <revision>
-      <id>22</id>
-      <parentid>17</parentid>
+      <id>7</id>
+      <parentid>6</parentid>
       <timestamp>2022-10-18T14:04:22Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
-      <origin>22</origin>
+      <origin>7</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="113" sha1="a0xc4qx3xzjjkhwiijlbd1n5iq3pp83" xml:space="preserve">==Weblink==
@@ -138,14 +159,14 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>a0xc4qx3xzjjkhwiijlbd1n5iq3pp83</sha1>
     </revision>
     <revision>
-      <id>23</id>
-      <parentid>22</parentid>
+      <id>8</id>
+      <parentid>7</parentid>
       <timestamp>2022-10-19T11:37:31Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
-      <origin>23</origin>
+      <origin>8</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="150" sha1="nsdd6mo8lmaggo4vnxp8lc7cpsfbtx5" xml:space="preserve">==Installieren==
@@ -160,15 +181,15 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>nsdd6mo8lmaggo4vnxp8lc7cpsfbtx5</sha1>
     </revision>
     <revision>
-      <id>27</id>
-      <parentid>23</parentid>
+      <id>9</id>
+      <parentid>8</parentid>
       <timestamp>2022-10-19T18:23:02Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Installieren */</comment>
-      <origin>27</origin>
+      <origin>9</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="213" sha1="9xgk8yonwkmul2pbbrm1ll3w7tsghs0" xml:space="preserve">==Installieren==
@@ -186,15 +207,15 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>9xgk8yonwkmul2pbbrm1ll3w7tsghs0</sha1>
     </revision>
     <revision>
-      <id>28</id>
-      <parentid>27</parentid>
+      <id>10</id>
+      <parentid>9</parentid>
       <timestamp>2022-10-19T18:23:26Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Installieren */</comment>
-      <origin>28</origin>
+      <origin>10</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="198" sha1="195o3wl9hbddw3juijypl9o0zf9zmzc" xml:space="preserve">==Installieren==
@@ -212,15 +233,15 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>195o3wl9hbddw3juijypl9o0zf9zmzc</sha1>
     </revision>
     <revision>
-      <id>29</id>
-      <parentid>28</parentid>
+      <id>11</id>
+      <parentid>10</parentid>
       <timestamp>2022-10-20T13:18:30Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Literatur */</comment>
-      <origin>29</origin>
+      <origin>11</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="270" sha1="dopfmjott6g7ri61bsin2iiyfr1rztu" xml:space="preserve">==Installieren==
@@ -238,15 +259,15 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>dopfmjott6g7ri61bsin2iiyfr1rztu</sha1>
     </revision>
     <revision>
-      <id>30</id>
-      <parentid>29</parentid>
+      <id>12</id>
+      <parentid>11</parentid>
       <timestamp>2022-10-20T13:22:29Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Literatur */</comment>
-      <origin>30</origin>
+      <origin>12</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="297" sha1="7wxyzr0tyt18gz5mgmeimpqimaziovb" xml:space="preserve">==Installieren==
@@ -264,15 +285,15 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>7wxyzr0tyt18gz5mgmeimpqimaziovb</sha1>
     </revision>
     <revision>
-      <id>31</id>
-      <parentid>30</parentid>
+      <id>13</id>
+      <parentid>12</parentid>
       <timestamp>2022-10-22T21:28:32Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Installieren */</comment>
-      <origin>31</origin>
+      <origin>13</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="263" sha1="qpu1ps47wshtq5tlbtb6uw2fs4r6ox9" xml:space="preserve">==Installieren==
@@ -287,14 +308,14 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>qpu1ps47wshtq5tlbtb6uw2fs4r6ox9</sha1>
     </revision>
     <revision>
-      <id>32</id>
-      <parentid>31</parentid>
+      <id>14</id>
+      <parentid>13</parentid>
       <timestamp>2022-10-22T21:32:13Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
-      <origin>32</origin>
+      <origin>14</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="392" sha1="fjpav4cmmrixn20jmdvxgklhj8z5rn8" xml:space="preserve">==Projekte==
@@ -311,15 +332,15 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>fjpav4cmmrixn20jmdvxgklhj8z5rn8</sha1>
     </revision>
     <revision>
-      <id>33</id>
-      <parentid>32</parentid>
+      <id>15</id>
+      <parentid>14</parentid>
       <timestamp>2022-10-22T21:33:21Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Projekte */</comment>
-      <origin>33</origin>
+      <origin>15</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="386" sha1="8xlw8hz7fye2zmqdoouj9n468yaxe86" xml:space="preserve">==Projekte==
@@ -337,15 +358,15 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>8xlw8hz7fye2zmqdoouj9n468yaxe86</sha1>
     </revision>
     <revision>
-      <id>34</id>
-      <parentid>33</parentid>
+      <id>16</id>
+      <parentid>15</parentid>
       <timestamp>2022-10-22T21:37:15Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Projekte */</comment>
-      <origin>34</origin>
+      <origin>16</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="400" sha1="5u8k1ijum9joyin6fj3yelv9ljwy8z9" xml:space="preserve">==Projekte==
@@ -364,15 +385,15 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>5u8k1ijum9joyin6fj3yelv9ljwy8z9</sha1>
     </revision>
     <revision>
-      <id>35</id>
-      <parentid>34</parentid>
+      <id>17</id>
+      <parentid>16</parentid>
       <timestamp>2022-10-22T21:39:36Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Dokumente */</comment>
-      <origin>35</origin>
+      <origin>17</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="505" sha1="3oov0quanvb16umt9omhosffjgqrxpj" xml:space="preserve">==Projekte==
@@ -392,15 +413,15 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>3oov0quanvb16umt9omhosffjgqrxpj</sha1>
     </revision>
     <revision>
-      <id>36</id>
-      <parentid>35</parentid>
+      <id>18</id>
+      <parentid>17</parentid>
       <timestamp>2022-10-22T22:30:05Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Dokumente */</comment>
-      <origin>36</origin>
+      <origin>18</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="587" sha1="h6siobfjgdckldu9osbt73o4n69pd6q" xml:space="preserve">==Projekte==
@@ -421,15 +442,15 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>h6siobfjgdckldu9osbt73o4n69pd6q</sha1>
     </revision>
     <revision>
-      <id>37</id>
-      <parentid>36</parentid>
+      <id>19</id>
+      <parentid>18</parentid>
       <timestamp>2022-10-22T22:35:09Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Dokumente */</comment>
-      <origin>37</origin>
+      <origin>19</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="651" sha1="hupjokn3mjm81y5jrglzqvvz8qbukp4" xml:space="preserve">==Projekte==
@@ -450,15 +471,15 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>hupjokn3mjm81y5jrglzqvvz8qbukp4</sha1>
     </revision>
     <revision>
-      <id>38</id>
-      <parentid>37</parentid>
+      <id>20</id>
+      <parentid>19</parentid>
       <timestamp>2022-10-22T22:41:14Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Dokumente */</comment>
-      <origin>38</origin>
+      <origin>20</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="767" sha1="jupn703i7fgp0a0xibev00xf65w0bkf" xml:space="preserve">==Projekte==
@@ -480,14 +501,14 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>jupn703i7fgp0a0xibev00xf65w0bkf</sha1>
     </revision>
     <revision>
-      <id>39</id>
-      <parentid>38</parentid>
+      <id>21</id>
+      <parentid>20</parentid>
       <timestamp>2022-10-22T22:49:13Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
-      <origin>39</origin>
+      <origin>21</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="781" sha1="3zbr6w3c8lpxa4q7mbjan6f1z1x32ok" xml:space="preserve">==hjjkjhkhk==
@@ -510,14 +531,14 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>3zbr6w3c8lpxa4q7mbjan6f1z1x32ok</sha1>
     </revision>
     <revision>
-      <id>40</id>
-      <parentid>39</parentid>
+      <id>22</id>
+      <parentid>21</parentid>
       <timestamp>2022-10-22T22:56:02Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
-      <origin>40</origin>
+      <origin>22</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="857" sha1="nlg61zzkqobyza2tzg93yu4moj0rbo0" xml:space="preserve">==hjjkjhkhk==
@@ -542,15 +563,15 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>nlg61zzkqobyza2tzg93yu4moj0rbo0</sha1>
     </revision>
     <revision>
-      <id>41</id>
-      <parentid>40</parentid>
+      <id>23</id>
+      <parentid>22</parentid>
       <timestamp>2022-10-22T22:56:25Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Installieren */</comment>
-      <origin>41</origin>
+      <origin>23</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="857" sha1="5xz6bbrfonq9xsvcyor49igdkl83p2i" xml:space="preserve">==hjjkjhkhk==
@@ -575,15 +596,15 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
       <sha1>5xz6bbrfonq9xsvcyor49igdkl83p2i</sha1>
     </revision>
     <revision>
-      <id>42</id>
-      <parentid>41</parentid>
+      <id>24</id>
+      <parentid>23</parentid>
       <timestamp>2022-10-22T22:56:41Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* hjjkjhkhk */</comment>
-      <origin>42</origin>
+      <origin>24</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="843" sha1="jpfwwqqvfo610awnshuziv9jr8zc2l0" xml:space="preserve">==Projekte==
@@ -606,20 +627,245 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
 * [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
       <sha1>jpfwwqqvfo610awnshuziv9jr8zc2l0</sha1>
     </revision>
+    <revision>
+      <id>25</id>
+      <parentid>1</parentid>
+      <timestamp>2022-10-23T19:07:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>23 Versionen importiert</comment>
+      <origin>1</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="826" sha1="0lkcyjyt2ihzggdz7ty1vuskhmn0zt7" xml:space="preserve">&lt;strong&gt;MediaWiki wurde installiert.&lt;/strong&gt;
+
+Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Benutzerhandbuch].
+
+== Starthilfen ==
+
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Liste der Konfigurationsparameter]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ Häufige Fragen zu MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Mailingliste zu neuen Versionen von MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Übersetze MediaWiki für deine Sprache]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Erfahre, wie du Spam auf deinem Wiki bekämpfen kannst]</text>
+      <sha1>0lkcyjyt2ihzggdz7ty1vuskhmn0zt7</sha1>
+    </revision>
+    <revision>
+      <id>49</id>
+      <parentid>25</parentid>
+      <timestamp>2022-10-23T19:08:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Änderung 1 von [[Special:Contributions/MediaWiki default|MediaWiki default]] ([[User talk:MediaWiki default|Diskussion]]) rückgängig gemacht.</comment>
+      <origin>49</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="843" sha1="jpfwwqqvfo610awnshuziv9jr8zc2l0" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>jpfwwqqvfo610awnshuziv9jr8zc2l0</sha1>
+    </revision>
+    <revision>
+      <id>50</id>
+      <parentid>49</parentid>
+      <timestamp>2022-10-26T15:41:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>50</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="886" sha1="4m9aytusgil53sno59zer2juz94ckda" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C++:Starteite]]
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>4m9aytusgil53sno59zer2juz94ckda</sha1>
+    </revision>
+    <revision>
+      <id>53</id>
+      <parentid>50</parentid>
+      <timestamp>2022-10-26T15:50:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>53</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="877" sha1="tl5msu0clodjyhws5dxsxiuu8esbzjp" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C++]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>tl5msu0clodjyhws5dxsxiuu8esbzjp</sha1>
+    </revision>
+    <revision>
+      <id>57</id>
+      <parentid>53</parentid>
+      <timestamp>2022-10-26T15:55:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>57</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="888" sha1="dglzu2trirqrhv7zin0306m3cc7baok" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C++]] - [[Java]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>dglzu2trirqrhv7zin0306m3cc7baok</sha1>
+    </revision>
+    <revision>
+      <id>60</id>
+      <parentid>57</parentid>
+      <timestamp>2022-10-26T16:00:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>60</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="901" sha1="bg62araccmm4221e7pezgkvsiyzh5bb" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C++]] - [[Java]] - [[Kotlin]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>bg62araccmm4221e7pezgkvsiyzh5bb</sha1>
+    </revision>
+    <revision>
+      <id>68</id>
+      <parentid>60</parentid>
+      <timestamp>2022-10-26T16:41:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>68</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="910" sha1="6ymjfwsy149s92imdgr8y6wt1q0by5c" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C++]] - [[Java]] - [[Kotlin]] - [[Go]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>6ymjfwsy149s92imdgr8y6wt1q0by5c</sha1>
+    </revision>
   </page>
   <page>
     <title>Ahrensburg.dev:Impressum</title>
     <ns>4</ns>
     <id>2</id>
     <revision>
-      <id>3</id>
+      <id>26</id>
       <timestamp>2022-10-17T16:08:49Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „&lt;span id="impressum"&gt;&lt;/span&gt; = Impressum =  Angaben gemäß § 5 TMG  * Thorsten Klöhn * Gerhardstraße 2 * 22926 Ahrensburg  &lt;span id="vertreten-durch"&gt;&lt;/span&gt; == Vertreten durch: ==  Thorsten Klöhn  &lt;span id="kontakt"&gt;&lt;/span&gt; == Kontakt: ==  * Telefon: 04102-2 17 40 07&lt;br /&gt;  * E-Mail: thorstenkloehn@gmail.com  &lt;span id="haftungsausschluss"&gt;&lt;/span&gt; == Haftungsausschluss: ==  &lt;span id="haftung-für-inhalte"&gt;&lt;/span&gt; === Haftung für Inhalte ===  Die Inh…“</comment>
-      <origin>3</origin>
+      <origin>26</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3794" sha1="j7y2vfu3lph5unkk2l92ysbrf64wj7k" xml:space="preserve">&lt;span id="impressum"&gt;&lt;/span&gt;
@@ -658,15 +904,15 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
       <sha1>j7y2vfu3lph5unkk2l92ysbrf64wj7k</sha1>
     </revision>
     <revision>
-      <id>4</id>
-      <parentid>3</parentid>
+      <id>27</id>
+      <parentid>26</parentid>
       <timestamp>2022-10-17T16:09:19Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Haftung für Inhalte */</comment>
-      <origin>4</origin>
+      <origin>27</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3795" sha1="f5yv5f9rhw4dmlg4osbtqq3iuk99zfl" xml:space="preserve">&lt;span id="impressum"&gt;&lt;/span&gt;
@@ -706,15 +952,15 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
       <sha1>f5yv5f9rhw4dmlg4osbtqq3iuk99zfl</sha1>
     </revision>
     <revision>
-      <id>5</id>
-      <parentid>4</parentid>
+      <id>28</id>
+      <parentid>27</parentid>
       <timestamp>2022-10-17T16:09:48Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Haftung für Inhalte */</comment>
-      <origin>5</origin>
+      <origin>28</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3796" sha1="dsityjyo4x7s0u9tbif19vnprmqrw0g" xml:space="preserve">&lt;span id="impressum"&gt;&lt;/span&gt;
@@ -755,15 +1001,15 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
       <sha1>dsityjyo4x7s0u9tbif19vnprmqrw0g</sha1>
     </revision>
     <revision>
-      <id>6</id>
-      <parentid>5</parentid>
+      <id>29</id>
+      <parentid>28</parentid>
       <timestamp>2022-10-17T16:10:57Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Haftungsausschluss: */</comment>
-      <origin>6</origin>
+      <origin>29</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3765" sha1="fodkqoc4yygy377elkt0hqsxbg60596" xml:space="preserve">&lt;span id="impressum"&gt;&lt;/span&gt;
@@ -806,14 +1052,14 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
       <sha1>fodkqoc4yygy377elkt0hqsxbg60596</sha1>
     </revision>
     <revision>
-      <id>7</id>
-      <parentid>6</parentid>
+      <id>30</id>
+      <parentid>29</parentid>
       <timestamp>2022-10-17T16:13:14Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
-      <origin>7</origin>
+      <origin>30</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3767" sha1="hk7o6wjqj1spalgducep9km4l33kdg0" xml:space="preserve">&lt;span id="impressum"&gt;&lt;/span&gt;
@@ -856,15 +1102,15 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
       <sha1>hk7o6wjqj1spalgducep9km4l33kdg0</sha1>
     </revision>
     <revision>
-      <id>8</id>
-      <parentid>7</parentid>
+      <id>31</id>
+      <parentid>30</parentid>
       <timestamp>2022-10-17T16:13:28Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Urheberrecht */</comment>
-      <origin>8</origin>
+      <origin>31</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3768" sha1="dgww2duhzvzv8qnzvxua2fbpxte10bu" xml:space="preserve">&lt;span id="impressum"&gt;&lt;/span&gt;
@@ -909,15 +1155,15 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
       <sha1>dgww2duhzvzv8qnzvxua2fbpxte10bu</sha1>
     </revision>
     <revision>
-      <id>9</id>
-      <parentid>8</parentid>
+      <id>32</id>
+      <parentid>31</parentid>
       <timestamp>2022-10-17T16:13:56Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Haftungsausschluss: */</comment>
-      <origin>9</origin>
+      <origin>32</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3765" sha1="etv2di008jnhbew8jxltazygm7iqtdw" xml:space="preserve">&lt;span id="impressum"&gt;&lt;/span&gt;
@@ -961,15 +1207,15 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
       <sha1>etv2di008jnhbew8jxltazygm7iqtdw</sha1>
     </revision>
     <revision>
-      <id>10</id>
-      <parentid>9</parentid>
+      <id>33</id>
+      <parentid>32</parentid>
       <timestamp>2022-10-17T16:14:25Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Haftung für Inhalte */</comment>
-      <origin>10</origin>
+      <origin>33</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3767" sha1="p4gva319rv4tvsoe2wra6003ejlw3xq" xml:space="preserve">&lt;span id="impressum"&gt;&lt;/span&gt;
@@ -1015,15 +1261,15 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
       <sha1>p4gva319rv4tvsoe2wra6003ejlw3xq</sha1>
     </revision>
     <revision>
-      <id>11</id>
-      <parentid>10</parentid>
+      <id>34</id>
+      <parentid>33</parentid>
       <timestamp>2022-10-17T16:15:01Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>/* Haftungsausschluss: */</comment>
-      <origin>11</origin>
+      <origin>34</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3771" sha1="7rdo14gv5wa1p9kn0948by1ma0agb3c" xml:space="preserve">&lt;span id="impressum"&gt;&lt;/span&gt;
@@ -1069,14 +1315,69 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
       <sha1>7rdo14gv5wa1p9kn0948by1ma0agb3c</sha1>
     </revision>
     <revision>
-      <id>12</id>
-      <parentid>11</parentid>
+      <id>35</id>
+      <parentid>34</parentid>
       <timestamp>2022-10-17T16:16:21Z</timestamp>
+      <contributor>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
+      </contributor>
+      <origin>35</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3773" sha1="c0rjn33f9zj8jil0gmawfriudonr151" xml:space="preserve">&lt;span id="impressum"&gt;&lt;/span&gt;
+= Impressum =
+
+Angaben gemäß § 5 TMG
+
+* Thorsten Klöhn
+* Gerhardstraße 2
+* 22926 Ahrensburg
+
+&lt;span id="vertreten-durch"&gt;&lt;/span&gt;
+== Vertreten durch: ==
+
+Thorsten Klöhn
+
+&lt;span id="kontakt"&gt;&lt;/span&gt;
+== Kontakt: ==
+
+* Telefon: 04102-2 17 40 07&lt;br /&gt;
+
+* E-Mail: thorstenkloehn@gmail.com
+
+&lt;span id="haftungsausschluss"&gt;&lt;/span&gt;
+== Haftungsausschluss: ==
+
+
+=== Haftung für Inhalte ===
+
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen. 
+====Haftung für Links==== 
+Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;br /&gt;
+
+==== Urheberrecht====
+Dieses Werk ist lizenziert unter einer [http://creativecommons.org/licenses/by/4.0/ Creative Commons Namensnennung 4.0 International Lizenz].Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+
+==== Datenschutz====
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.&lt;br /&gt;
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.&lt;br /&gt;
+
+
+Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanzlei Hasselbach, Rechtsanwälte für Arbeitsrecht und Familienrecht](https://www.kanzlei-hasselbach</text>
+      <sha1>c0rjn33f9zj8jil0gmawfriudonr151</sha1>
+    </revision>
+    <revision>
+      <id>36</id>
+      <parentid>35</parentid>
+      <timestamp>2022-10-23T19:07:17Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>12</origin>
+      <minor/>
+      <comment>10 Versionen importiert</comment>
+      <origin>35</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3773" sha1="c0rjn33f9zj8jil0gmawfriudonr151" xml:space="preserve">&lt;span id="impressum"&gt;&lt;/span&gt;
@@ -1127,14 +1428,14 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
     <ns>4</ns>
     <id>3</id>
     <revision>
-      <id>13</id>
+      <id>37</id>
       <timestamp>2022-10-17T16:25:24Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „span id="datenschutzerklärung"&gt;&lt;/span&gt; = Datenschutzerklärung =  Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:  Thorsten Klöhn&lt;br /&gt; Gerhardstraße 2&lt;br /&gt; 22926 Ahrensburg&lt;br /&gt; Telefon: 04102-2 17 40 07&lt;br /&gt; E-Mail: thorstenkloehn@googlemail.com  &lt;span id="ihre-betroffenenrechte"&gt;&lt;/span&gt; == Ihre Betroffenenrechte ==  Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftrag…“</comment>
-      <origin>13</origin>
+      <origin>37</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="5159" sha1="fnx5bkpbuefvmxcv8d4ehjpeo7rmtat" xml:space="preserve">span id="datenschutzerklärung"&gt;&lt;/span&gt;
@@ -1219,14 +1520,107 @@ Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder 
       <sha1>fnx5bkpbuefvmxcv8d4ehjpeo7rmtat</sha1>
     </revision>
     <revision>
-      <id>14</id>
-      <parentid>13</parentid>
+      <id>38</id>
+      <parentid>37</parentid>
       <timestamp>2022-10-17T16:25:52Z</timestamp>
+      <contributor>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
+      </contributor>
+      <origin>38</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5094" sha1="dzdbrk51iup35lo18gxfl0u7ahvhtbl" xml:space="preserve">
+
+Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
+
+Thorsten Klöhn&lt;br /&gt;
+Gerhardstraße 2&lt;br /&gt;
+22926 Ahrensburg&lt;br /&gt;
+Telefon: 04102-2 17 40 07&lt;br /&gt;
+E-Mail: thorstenkloehn@googlemail.com
+
+&lt;span id="ihre-betroffenenrechte"&gt;&lt;/span&gt;
+== Ihre Betroffenenrechte ==
+
+Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie jederzeit folgende Rechte ausüben:
+
+* Auskunft über Ihre bei uns gespeicherten Daten und deren Verarbeitung (Art. 15 DSGVO),
+* Berichtigung unrichtiger personenbezogener Daten (Art. 16 DSGVO),
+* Löschung Ihrer bei uns gespeicherten Daten (Art. 17 DSGVO),
+* Einschränkung der Datenverarbeitung, sofern wir Ihre Daten aufgrund gesetzlicher Pflichten noch nicht löschen dürfen (Art. 18 DSGVO),
+* Widerspruch gegen die Verarbeitung Ihrer Daten bei uns (Art. 21 DSGVO) und
+* Datenübertragbarkeit, sofern Sie in die Datenverarbeitung eingewilligt haben oder einen Vertrag mit uns abgeschlossen haben (Art. 20 DSGVO).
+
+Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.
+
+Sie können sich jederzeit mit einer Beschwerde an eine Aufsichtsbehörde wenden, z. B. an die zuständige Aufsichtsbehörde des Bundeslands Ihres Wohnsitzes oder an die für uns als verantwortliche Stelle zuständige Behörde.
+
+Eine Liste der Aufsichtsbehörden (für den nichtöffentlichen Bereich) mit Anschrift finden Sie unter: .
+
+&lt;span id="eingebettete-youtube-videos"&gt;&lt;/span&gt;
+== Eingebettete YouTube-Videos ==
+
+&lt;span id="art-und-zweck-der-verarbeitung"&gt;&lt;/span&gt;
+=== Art und Zweck der Verarbeitung: ===
+
+Auf einigen unserer Webseiten betten wir YouTube-Videos ein. Betreiber der entsprechenden Plugins ist die YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA (nachfolgend „YouTube“). Wenn Sie eine Seite mit dem YouTube-Plugin besuchen, wird eine Verbindung zu Servern von YouTube hergestellt. Dabei wird YouTube mitgeteilt, welche Seiten Sie besuchen. Wenn Sie in Ihrem YouTube-Account eingeloggt sind, kann YouTube Ihr Surfverhalten Ihnen persönlich zuzuordnen. Dies verhindern Sie, indem Sie sich vorher aus Ihrem YouTube-Account ausloggen.
+
+Wird ein YouTube-Video gestartet, setzt der Anbieter Cookies ein, die Hinweise über das Nutzerverhalten sammeln.
+
+Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch YouTube erhalten Sie in den Datenschutzerklärungen des Anbieters, Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre (). Google verarbeitet Ihre Daten in den USA und hat sich dem EU-US Privacy Shield unterworfen https://www.privacyshield.gov/EU-US-Framework
+
+&lt;span id="rechtsgrundlage"&gt;&lt;/span&gt;
+=== Rechtsgrundlage: ===
+
+Rechtsgrundlage für die Einbindung von YouTube und dem damit verbundenen Datentransfer zu Google ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).
+
+&lt;span id="empfänger"&gt;&lt;/span&gt;
+=== Empfänger: ===
+
+Der Aufruf von YouTube löst automatisch eine Verbindung zu Google aus.
+
+&lt;span id="speicherdauer-und-widerruf-der-einwilligung"&gt;&lt;/span&gt;
+=== Speicherdauer und Widerruf der Einwilligung: ===
+
+Wer das Speichern von Cookies für das Google-Ad-Programm deaktiviert hat, wird auch beim Anschauen von YouTube-Videos mit keinen solchen Cookies rechnen müssen. YouTube legt aber auch in anderen Cookies nicht-personenbezogene Nutzungsinformationen ab. Möchten Sie dies verhindern, so müssen Sie das Speichern von Cookies im Browser blockieren.
+
+Weitere Informationen zum Datenschutz bei „YouTube“ finden Sie in der Datenschutzerklärung des Anbieters unter:
+
+&lt;span id="drittlandtransfer"&gt;&lt;/span&gt;
+=== Drittlandtransfer: ===
+
+Google verarbeitet Ihre Daten in den USA und hat sich dem EU_US Privacy Shield unterworfen .
+
+&lt;span id="bereitstellung-vorgeschrieben-oder-erforderlich"&gt;&lt;/span&gt;
+=== Bereitstellung vorgeschrieben oder erforderlich: ===
+
+Die Bereitstellung Ihrer personenbezogenen Daten erfolgt freiwillig, allein auf Basis Ihrer Einwilligung. Sofern Sie den Zugriff unterbinden, kann es hierdurch zu Funktionseinschränkungen auf der Website kommen.
+
+&lt;span id="änderung-unserer-datenschutzbestimmungen"&gt;&lt;/span&gt;
+== Änderung unserer Datenschutzbestimmungen ==
+
+Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen, z.B. bei der Einführung neuer Services. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.
+
+&lt;span id="fragen-an-den-datenschutzbeauftragten"&gt;&lt;/span&gt;
+== Fragen an den Datenschutzbeauftragten ==
+
+Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an die für den Datenschutz verantwortliche Person in unserer Organisation:
+
+''Die Datenschutzerklärung wurde mit dem'' [https://www.activemind.de/datenschutz/datenschutzhinweis-generator/ ''Datenschutzerklärungs-Generator der activeMind AG erstellt''] *(Version 2018-09-24).</text>
+      <sha1>dzdbrk51iup35lo18gxfl0u7ahvhtbl</sha1>
+    </revision>
+    <revision>
+      <id>39</id>
+      <parentid>38</parentid>
+      <timestamp>2022-10-23T19:07:18Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>14</origin>
+      <minor/>
+      <comment>2 Versionen importiert</comment>
+      <origin>38</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="5094" sha1="dzdbrk51iup35lo18gxfl0u7ahvhtbl" xml:space="preserve">
@@ -1315,14 +1709,14 @@ Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder 
     <ns>0</ns>
     <id>4</id>
     <revision>
-      <id>18</id>
+      <id>40</id>
       <timestamp>2022-10-17T19:48:18Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „==Render fehler Test  &lt;pre&gt; sudo -u thorsten renderd -f -c /etc/renderd.conf &lt;/pre&gt;  ==socket bind failed for: /run/renderd/renderd.sock  &lt;pre&gt; sudo chown thorsten /run/renderd sudo chown thorsten /var/cache/renderd/tiles  &lt;/pre&gt;“</comment>
-      <origin>18</origin>
+      <origin>40</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="229" sha1="t1yd37mbiz74qs5ov8gid345o8rafkt" xml:space="preserve">==Render fehler Test
@@ -1341,14 +1735,14 @@ sudo chown thorsten /var/cache/renderd/tiles
       <sha1>t1yd37mbiz74qs5ov8gid345o8rafkt</sha1>
     </revision>
     <revision>
-      <id>19</id>
-      <parentid>18</parentid>
+      <id>41</id>
+      <parentid>40</parentid>
       <timestamp>2022-10-17T19:48:36Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
-      <origin>19</origin>
+      <origin>41</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="231" sha1="ap3pak75buqrc3glo6w17h2sxp59afg" xml:space="preserve">==Render fehler Test
@@ -1367,14 +1761,14 @@ sudo chown thorsten /var/cache/renderd/tiles
       <sha1>ap3pak75buqrc3glo6w17h2sxp59afg</sha1>
     </revision>
     <revision>
-      <id>20</id>
-      <parentid>19</parentid>
+      <id>42</id>
+      <parentid>41</parentid>
       <timestamp>2022-10-17T19:48:49Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
-      <origin>20</origin>
+      <origin>42</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="233" sha1="mrggs9yk63cr6kr4wjulsvm4yhnrcjz" xml:space="preserve">==Render fehler Test==
@@ -1393,14 +1787,50 @@ sudo chown thorsten /var/cache/renderd/tiles
       <sha1>mrggs9yk63cr6kr4wjulsvm4yhnrcjz</sha1>
     </revision>
     <revision>
-      <id>21</id>
-      <parentid>20</parentid>
+      <id>43</id>
+      <parentid>42</parentid>
       <timestamp>2022-10-17T19:50:29Z</timestamp>
+      <contributor>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
+      </contributor>
+      <origin>43</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="355" sha1="fzzk84qlmilfm8m2wxsg0u896cfhdrv" xml:space="preserve">==Render fehler Test==
+
+&lt;pre&gt;
+sudo -u thorsten renderd -f -c /etc/renderd.conf
+&lt;/pre&gt;
+
+==socket bind failed for: /run/renderd/renderd.sock==
+
+&lt;pre&gt;
+sudo chown thorsten /run/renderd
+sudo chown thorsten /var/cache/renderd/tiles
+
+&lt;/pre&gt;
+
+== Restarten ==
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl restart renderd
+sudo systemctl restart apache2
+&lt;/pre&gt;</text>
+      <sha1>fzzk84qlmilfm8m2wxsg0u896cfhdrv</sha1>
+    </revision>
+    <revision>
+      <id>44</id>
+      <parentid>43</parentid>
+      <timestamp>2022-10-23T19:07:19Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>21</origin>
+      <minor/>
+      <comment>4 Versionen importiert</comment>
+      <origin>43</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="355" sha1="fzzk84qlmilfm8m2wxsg0u896cfhdrv" xml:space="preserve">==Render fehler Test==
@@ -1432,14 +1862,14 @@ sudo systemctl restart apache2
     <ns>0</ns>
     <id>5</id>
     <revision>
-      <id>24</id>
+      <id>45</id>
       <timestamp>2022-10-19T11:39:04Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; sudo apt install gnupg software-properties-common &lt;/pre&gt;“</comment>
-      <origin>24</origin>
+      <origin>45</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="62" sha1="6m8coe9qq9qh8n8fqbraoa8iw2ptkda" xml:space="preserve">&lt;pre&gt;
@@ -1448,14 +1878,14 @@ sudo apt install gnupg software-properties-common
       <sha1>6m8coe9qq9qh8n8fqbraoa8iw2ptkda</sha1>
     </revision>
     <revision>
-      <id>25</id>
-      <parentid>24</parentid>
+      <id>46</id>
+      <parentid>45</parentid>
       <timestamp>2022-10-19T11:39:55Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
-      <origin>25</origin>
+      <origin>46</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="100" sha1="93l2wtdl8jrquf2hy7cvnd47tedk9el" xml:space="preserve">&lt;pre&gt;
@@ -1465,14 +1895,14 @@ sudo mkdir -m755 -p /etc/apt/keyrings
       <sha1>93l2wtdl8jrquf2hy7cvnd47tedk9el</sha1>
     </revision>
     <revision>
-      <id>26</id>
-      <parentid>25</parentid>
+      <id>47</id>
+      <parentid>46</parentid>
       <timestamp>2022-10-19T11:40:22Z</timestamp>
       <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
+        <username>start&gt;Thorsten</username>
+        <id>0</id>
       </contributor>
-      <origin>26</origin>
+      <origin>47</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="217" sha1="lu7q9h923b6hs1d4wnas2em5g1i7xg1" xml:space="preserve">&lt;pre&gt;
@@ -1481,6 +1911,316 @@ sudo mkdir -m755 -p /etc/apt/keyrings
 sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
 &lt;/pre&gt;</text>
       <sha1>lu7q9h923b6hs1d4wnas2em5g1i7xg1</sha1>
+    </revision>
+    <revision>
+      <id>48</id>
+      <parentid>47</parentid>
+      <timestamp>2022-10-23T19:07:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>3 Versionen importiert</comment>
+      <origin>47</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="217" sha1="lu7q9h923b6hs1d4wnas2em5g1i7xg1" xml:space="preserve">&lt;pre&gt;
+sudo apt install gnupg software-properties-common
+sudo mkdir -m755 -p /etc/apt/keyrings
+sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
+&lt;/pre&gt;</text>
+      <sha1>lu7q9h923b6hs1d4wnas2em5g1i7xg1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++:Starteite</title>
+    <ns>0</ns>
+    <id>6</id>
+    <revision>
+      <id>51</id>
+      <timestamp>2022-10-26T15:48:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[startseite]]“</comment>
+      <origin>51</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="16" sha1="mdb9g9gz0616qq0zszh7yoxbm9p6f1k" xml:space="preserve">* [[startseite]]</text>
+      <sha1>mdb9g9gz0616qq0zszh7yoxbm9p6f1k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Startseite</title>
+    <ns>0</ns>
+    <id>7</id>
+    <revision>
+      <id>52</id>
+      <timestamp>2022-10-26T15:49:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ret“</comment>
+      <origin>52</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3" sha1="7lvz1ffpazo847evtx4zxo2li9s6pt7" xml:space="preserve">ret</text>
+      <sha1>7lvz1ffpazo847evtx4zxo2li9s6pt7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++</title>
+    <ns>0</ns>
+    <id>8</id>
+    <revision>
+      <id>54</id>
+      <timestamp>2022-10-26T15:50:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[C++:Hallo Welz]]“</comment>
+      <origin>54</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" sha1="abwy2zt1opsr0ktdxatq268hl3zq3dc" xml:space="preserve">* [[C++:Hallo Welz]]</text>
+      <sha1>abwy2zt1opsr0ktdxatq268hl3zq3dc</sha1>
+    </revision>
+    <revision>
+      <id>55</id>
+      <parentid>54</parentid>
+      <timestamp>2022-10-26T15:51:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>55</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" sha1="ibl674rbil9p3f2wu9tb2t0iqwras8i" xml:space="preserve">* [[C++:Hallo Welt]]</text>
+      <sha1>ibl674rbil9p3f2wu9tb2t0iqwras8i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++:Hallo Welt</title>
+    <ns>0</ns>
+    <id>9</id>
+    <revision>
+      <id>56</id>
+      <timestamp>2022-10-26T15:53:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; #include &lt;iostream&gt; int main() {     std::cout &lt;&lt; "Hallo Welt";     return 0; }  &lt;/pre&gt;“</comment>
+      <origin>56</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="93" sha1="heag70r5zx3ydc67w03xe9bxaojkjl8" xml:space="preserve">&lt;pre&gt;
+#include &lt;iostream&gt;
+int main() {
+    std::cout &lt;&lt; "Hallo Welt";
+    return 0;
+}
+
+&lt;/pre&gt;</text>
+      <sha1>heag70r5zx3ydc67w03xe9bxaojkjl8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Java</title>
+    <ns>0</ns>
+    <id>10</id>
+    <revision>
+      <id>58</id>
+      <timestamp>2022-10-26T15:56:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[Java:Hallo Welt]]“</comment>
+      <origin>58</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="kl61u5k6b1r6ytjj9773emr188kmnnh" xml:space="preserve">* [[Java:Hallo Welt]]</text>
+      <sha1>kl61u5k6b1r6ytjj9773emr188kmnnh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Java:Hallo Welt</title>
+    <ns>0</ns>
+    <id>11</id>
+    <revision>
+      <id>59</id>
+      <timestamp>2022-10-26T15:59:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;  package org.example;  public class Main {     public static void main(String[] args) {         System.out.println("Hello world!");     } }  &lt;/pre&gt;“</comment>
+      <origin>59</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="153" sha1="e3yi4r3c9jcwcbjjndnup05j5rpxadb" xml:space="preserve">&lt;pre&gt;
+
+package org.example;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>e3yi4r3c9jcwcbjjndnup05j5rpxadb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kotlin</title>
+    <ns>0</ns>
+    <id>12</id>
+    <revision>
+      <id>61</id>
+      <timestamp>2022-10-26T16:02:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[Kotlin;Hallo Welt]]“</comment>
+      <origin>61</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="j5zamqh2ulf2efepixmt46gxhxbnapy" xml:space="preserve">* [[Kotlin;Hallo Welt]]</text>
+      <sha1>j5zamqh2ulf2efepixmt46gxhxbnapy</sha1>
+    </revision>
+    <revision>
+      <id>66</id>
+      <parentid>61</parentid>
+      <timestamp>2022-10-26T16:07:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>66</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="2duixdig710r7rja0u1s76hu12bot3t" xml:space="preserve">* [[Kotlin:Hallo Welt]]</text>
+      <sha1>2duixdig710r7rja0u1s76hu12bot3t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kotlin;Hallo Welt</title>
+    <ns>0</ns>
+    <id>13</id>
+    <revision>
+      <id>62</id>
+      <timestamp>2022-10-26T16:02:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „fun main() {      var ausgabe:Int = 199     var test: Double = ausgabe.toDouble()/3     println(test)  }“</comment>
+      <origin>62</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="104" sha1="ja1rwjaxw0oai2yj9682gux88324g68" xml:space="preserve">fun main() {
+
+    var ausgabe:Int = 199
+    var test: Double = ausgabe.toDouble()/3
+    println(test)
+
+}</text>
+      <sha1>ja1rwjaxw0oai2yj9682gux88324g68</sha1>
+    </revision>
+    <revision>
+      <id>63</id>
+      <parentid>62</parentid>
+      <timestamp>2022-10-26T16:03:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>63</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="117" sha1="h8qdci24182l2bm9whgkye7yeqs79wv" xml:space="preserve">&lt;pre&gt;
+fun main() {
+
+    var ausgabe:Int = 199
+    var test: Double = ausgabe.toDouble()/3
+    println(test)
+
+}
+&lt;/pre&gt;</text>
+      <sha1>h8qdci24182l2bm9whgkye7yeqs79wv</sha1>
+    </revision>
+    <revision>
+      <id>64</id>
+      <parentid>63</parentid>
+      <timestamp>2022-10-26T16:04:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>64</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="a9skusc0uu182rjwrb8avw3n52dxrel" xml:space="preserve">&lt;pre&gt;
+fun main() {
+
+    println(test)
+
+}
+&lt;/pre&gt;</text>
+      <sha1>a9skusc0uu182rjwrb8avw3n52dxrel</sha1>
+    </revision>
+    <revision>
+      <id>65</id>
+      <parentid>64</parentid>
+      <timestamp>2022-10-26T16:05:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>65</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55" sha1="99inkbtv8q7wgpaxh89ynyw2gpcx51b" xml:space="preserve">&lt;pre&gt;
+fun main() {
+
+    println("Hallo Welt")
+
+}
+&lt;/pre&gt;</text>
+      <sha1>99inkbtv8q7wgpaxh89ynyw2gpcx51b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kotlin:Hallo Welt</title>
+    <ns>0</ns>
+    <id>14</id>
+    <revision>
+      <id>67</id>
+      <timestamp>2022-10-26T16:07:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; fun main() {      println("Hallo Welt")  } &lt;/pre&gt;“</comment>
+      <origin>67</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55" sha1="99inkbtv8q7wgpaxh89ynyw2gpcx51b" xml:space="preserve">&lt;pre&gt;
+fun main() {
+
+    println("Hallo Welt")
+
+}
+&lt;/pre&gt;</text>
+      <sha1>99inkbtv8q7wgpaxh89ynyw2gpcx51b</sha1>
     </revision>
   </page>
 </mediawiki>
