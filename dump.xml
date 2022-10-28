@@ -920,6 +920,176 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
 * [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
       <sha1>4pqoekwzwl9c9lei2rqxl4f1irsfm4h</sha1>
     </revision>
+    <revision>
+      <id>76</id>
+      <parentid>74</parentid>
+      <timestamp>2022-10-28T17:18:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>76</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="927" sha1="jfu24qwas21unts96jyvv2kaeggx67k" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Java]] - [[Go]] - [[Rust]] - [[Ruby]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>jfu24qwas21unts96jyvv2kaeggx67k</sha1>
+    </revision>
+    <revision>
+      <id>79</id>
+      <parentid>76</parentid>
+      <timestamp>2022-10-28T17:54:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>79</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="941" sha1="0ksu8jauzomrq2wwxvhach5lclvjs10" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Java]] - [[Go]] - [[Rust]] - [[C-Sharp]] - [[Ruby]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>0ksu8jauzomrq2wwxvhach5lclvjs10</sha1>
+    </revision>
+    <revision>
+      <id>83</id>
+      <parentid>79</parentid>
+      <timestamp>2022-10-28T18:53:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>83</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="951" sha1="b9cie7lllyl0r8vsc6xlulu3m5z2uhj" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Java]] - [[Go]] - [[Rust]] - [[C-Sharp]] - [[Ruby]] - [[PHP]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>b9cie7lllyl0r8vsc6xlulu3m5z2uhj</sha1>
+    </revision>
+    <revision>
+      <id>86</id>
+      <parentid>83</parentid>
+      <timestamp>2022-10-28T19:38:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>86</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="964" sha1="fo4okr0m5fy8c9z17y85fnyvvxswv34" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Java]] - [[Go]] - [[Rust]] - [[C-Sharp]] - [[Ruby]] - [[PHP]] - [[Python]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>fo4okr0m5fy8c9z17y85fnyvvxswv34</sha1>
+    </revision>
+    <revision>
+      <id>89</id>
+      <parentid>86</parentid>
+      <timestamp>2022-10-28T20:00:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>89</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="981" sha1="ibt8ydsokz28xz2z6lyetebegphlzr6" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Java]] - [[Go]] - [[Rust]] - [[C-Sharp]] - [[Ruby]] - [[PHP]] - [[Python]] - [[Javascript]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>ibt8ydsokz28xz2z6lyetebegphlzr6</sha1>
+    </revision>
   </page>
   <page>
     <title>Ahrensburg.dev:Impressum</title>
@@ -2404,6 +2574,225 @@ int main() {
 
 &lt;/pre&gt;</text>
       <sha1>eie79m9eab6fnief8p9im01vtmlzdgp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ruby</title>
+    <ns>0</ns>
+    <id>20</id>
+    <revision>
+      <id>77</id>
+      <timestamp>2022-10-28T17:21:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[Ruby:Hallo Welt]]“</comment>
+      <origin>77</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="hfz7lrlg5oka406s0tqc0a8a8ksehhy" xml:space="preserve">* [[Ruby:Hallo Welt]]</text>
+      <sha1>hfz7lrlg5oka406s0tqc0a8a8ksehhy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ruby:Hallo Welt</title>
+    <ns>0</ns>
+    <id>21</id>
+    <revision>
+      <id>78</id>
+      <timestamp>2022-10-28T17:24:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; puts("Hallo Welt") &lt;/pre&gt;“</comment>
+      <origin>78</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="hmes15atsl2x40xa9jovn7y2hcgpezf" xml:space="preserve">&lt;pre&gt;
+puts("Hallo Welt")
+&lt;/pre&gt;</text>
+      <sha1>hmes15atsl2x40xa9jovn7y2hcgpezf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C-Sharp</title>
+    <ns>0</ns>
+    <id>22</id>
+    <revision>
+      <id>80</id>
+      <timestamp>2022-10-28T17:56:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[C-Sharp:Hallo Welt]]“</comment>
+      <origin>80</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" sha1="p1nzgmmbcha34sp35tzffuueqdctq6n" xml:space="preserve">* [[C-Sharp:Hallo Welt]]</text>
+      <sha1>p1nzgmmbcha34sp35tzffuueqdctq6n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C-Sharp:Hallo Welt</title>
+    <ns>0</ns>
+    <id>23</id>
+    <revision>
+      <id>81</id>
+      <timestamp>2022-10-28T17:57:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; Console.WriteLine("Hello, World!"); &lt;/pre&gt;“</comment>
+      <origin>81</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="48" sha1="av15nkvaiglr5oh2m4ih1sknmsy03vj" xml:space="preserve">&lt;pre&gt;
+Console.WriteLine("Hello, World!");
+&lt;/pre&gt;</text>
+      <sha1>av15nkvaiglr5oh2m4ih1sknmsy03vj</sha1>
+    </revision>
+    <revision>
+      <id>82</id>
+      <parentid>81</parentid>
+      <timestamp>2022-10-28T17:58:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>82</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="45" sha1="g1ldj1ev8qh517x1v8l7p5ekm6818qt" xml:space="preserve">&lt;pre&gt;
+Console.WriteLine("Hallo Welt");
+&lt;/pre&gt;</text>
+      <sha1>g1ldj1ev8qh517x1v8l7p5ekm6818qt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>PHP</title>
+    <ns>0</ns>
+    <id>24</id>
+    <revision>
+      <id>84</id>
+      <timestamp>2022-10-28T18:55:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[PHP:Hallo Welt]]“</comment>
+      <origin>84</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" sha1="8i9512ylfdenfgiaq1venou59k4q1x5" xml:space="preserve">* [[PHP:Hallo Welt]]</text>
+      <sha1>8i9512ylfdenfgiaq1venou59k4q1x5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>PHP:Hallo Welt</title>
+    <ns>0</ns>
+    <id>25</id>
+    <revision>
+      <id>85</id>
+      <timestamp>2022-10-28T18:56:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; &lt;?php echo "Hallo Welt"; exit(); ?&gt; &lt;/pre&gt;“</comment>
+      <origin>85</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="48" sha1="bipdg6toxxjegg5iy5gsw9ex92wef58" xml:space="preserve">&lt;pre&gt;
+&lt;?php
+echo "Hallo Welt";
+exit();
+?&gt;
+&lt;/pre&gt;</text>
+      <sha1>bipdg6toxxjegg5iy5gsw9ex92wef58</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Python</title>
+    <ns>0</ns>
+    <id>26</id>
+    <revision>
+      <id>87</id>
+      <timestamp>2022-10-28T19:43:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[Python:Hallo Welt]]“</comment>
+      <origin>87</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="79at5gv13evd89pot18u9e33r4pe8wn" xml:space="preserve">* [[Python:Hallo Welt]]</text>
+      <sha1>79at5gv13evd89pot18u9e33r4pe8wn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Python:Hallo Welt</title>
+    <ns>0</ns>
+    <id>27</id>
+    <revision>
+      <id>88</id>
+      <timestamp>2022-10-28T19:44:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; print("Hallo Welt") &lt;/pre&gt;“</comment>
+      <origin>88</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" sha1="14mif58ycfleo4ue7bzyihkxkb3bl88" xml:space="preserve">&lt;pre&gt;
+print("Hallo Welt")
+&lt;/pre&gt;</text>
+      <sha1>14mif58ycfleo4ue7bzyihkxkb3bl88</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Javascript</title>
+    <ns>0</ns>
+    <id>28</id>
+    <revision>
+      <id>90</id>
+      <timestamp>2022-10-28T20:07:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[Javascript:Hallo Welt]]“</comment>
+      <origin>90</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="27" sha1="mjeenjlgx6y1uav0a8hpsthhwrapr24" xml:space="preserve">* [[Javascript:Hallo Welt]]</text>
+      <sha1>mjeenjlgx6y1uav0a8hpsthhwrapr24</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Javascript:Hallo Welt</title>
+    <ns>0</ns>
+    <id>29</id>
+    <revision>
+      <id>91</id>
+      <timestamp>2022-10-28T20:09:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; console.log("hello"); &lt;/pre&gt;“</comment>
+      <origin>91</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" sha1="o6pafxpffdtq45etue8xmgcpfncvq00" xml:space="preserve">&lt;pre&gt;
+console.log("hello");
+&lt;/pre&gt;</text>
+      <sha1>o6pafxpffdtq45etue8xmgcpfncvq00</sha1>
     </revision>
   </page>
 </mediawiki>
