@@ -1090,6 +1090,142 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
 * [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
       <sha1>ibt8ydsokz28xz2z6lyetebegphlzr6</sha1>
     </revision>
+    <revision>
+      <id>92</id>
+      <parentid>89</parentid>
+      <timestamp>2022-10-28T23:35:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>92</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="947" sha1="91io7czk7nmvmmirma1la5hc5px7bqm" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Java]] - [[Go]] - [[Rust]]  - [[Python]] - [[Javascript]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>91io7czk7nmvmmirma1la5hc5px7bqm</sha1>
+    </revision>
+    <revision>
+      <id>93</id>
+      <parentid>92</parentid>
+      <timestamp>2022-10-29T09:45:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>93</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="960" sha1="ou54ztz2l4npdiouqp5c6pjx8ckq3qr" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Java]] - [[Kotlin]] - [[Go]] - [[Rust]]  - [[Python]] - [[Javascript]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>ou54ztz2l4npdiouqp5c6pjx8ckq3qr</sha1>
+    </revision>
+    <revision>
+      <id>94</id>
+      <parentid>93</parentid>
+      <timestamp>2022-10-29T19:49:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>94</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="970" sha1="2btc1zao8or1lgk5amb381zit6ysrb0" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Java]] - [[Kotlin]] - [[Go]] - [[Rust]]  - [[Python]] - [[Javascript]] - [[Lua]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>2btc1zao8or1lgk5amb381zit6ysrb0</sha1>
+    </revision>
+    <revision>
+      <id>97</id>
+      <parentid>94</parentid>
+      <timestamp>2022-10-29T19:53:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>97</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="987" sha1="nggqc8caqudyzz924gdiuetpe0bvwfm" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Java]] - [[Kotlin]] - [[Go]] - [[Rust]]  - [[Python]] - [[Javascript]] - [[Lua]] - [[TypeScript]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>nggqc8caqudyzz924gdiuetpe0bvwfm</sha1>
+    </revision>
   </page>
   <page>
     <title>Ahrensburg.dev:Impressum</title>
@@ -2575,6 +2711,254 @@ int main() {
 &lt;/pre&gt;</text>
       <sha1>eie79m9eab6fnief8p9im01vtmlzdgp</sha1>
     </revision>
+    <revision>
+      <id>101</id>
+      <parentid>75</parentid>
+      <timestamp>2022-10-29T20:29:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>101</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="113" sha1="88n0vwsyg1u3yinm35o2jmsorhlb56x" xml:space="preserve">&lt;pre&gt;
+#include &lt;stdio.h&gt;
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+
+&lt;/pre&gt;
+
+* [[C:Hallo Welt]]</text>
+      <sha1>88n0vwsyg1u3yinm35o2jmsorhlb56x</sha1>
+    </revision>
+    <revision>
+      <id>103</id>
+      <parentid>101</parentid>
+      <timestamp>2022-10-29T20:31:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>103</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="81" sha1="5bsc4g8ukruvmmrrmkr2yefjyo37vsq" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==</text>
+      <sha1>5bsc4g8ukruvmmrrmkr2yefjyo37vsq</sha1>
+    </revision>
+    <revision>
+      <id>107</id>
+      <parentid>103</parentid>
+      <timestamp>2022-10-29T20:50:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Webprogrammieren */</comment>
+      <origin>107</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="109" sha1="p85xb1051vso77m1to4lalr4hmjn1vd" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+===Installieren (Ubuntu)===</text>
+      <sha1>p85xb1051vso77m1to4lalr4hmjn1vd</sha1>
+    </revision>
+    <revision>
+      <id>108</id>
+      <parentid>107</parentid>
+      <timestamp>2022-10-29T20:53:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Installieren (Ubuntu) */</comment>
+      <origin>108</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="269" sha1="7carlydjpu9ep751siluq6sxdw9g3b7" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+===Installieren (Ubuntu)===
+&lt;pre&gt;
+sudo apt install spawn-fcgi
+sudo apt-get install libfcgi-dev
+sudo apt install nginx-full 
+sudo apt-get install cmake gcc clang gdb build-essential
+&lt;/pre&gt;</text>
+      <sha1>7carlydjpu9ep751siluq6sxdw9g3b7</sha1>
+    </revision>
+    <revision>
+      <id>109</id>
+      <parentid>108</parentid>
+      <timestamp>2022-10-29T21:04:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>109</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="343" sha1="pm338fg13t9sj5gtq8kf57dxsxtc1mw" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+===Installieren (Ubuntu)===
+&lt;pre&gt;
+sudo apt install spawn-fcgi
+sudo apt-get install libfcgi-dev
+sudo apt install nginx-full 
+sudo apt-get install cmake gcc clang gdb build-essential
+&lt;/pre&gt;
+
+===Clion cmake===
+
+&lt;pre&gt;
+
+target_link_libraries((der Projekt name) fcgi)</text>
+      <sha1>pm338fg13t9sj5gtq8kf57dxsxtc1mw</sha1>
+    </revision>
+    <revision>
+      <id>110</id>
+      <parentid>109</parentid>
+      <timestamp>2022-10-29T22:19:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Webprogrammieren */</comment>
+      <origin>110</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="376" sha1="0dbpy9ew61vjwc2v60wqyfag6i77k4x" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+===Installieren (Ubuntu)===
+&lt;pre&gt;
+sudo apt install spawn-fcgi
+sudo apt-get install libfcgi-dev
+sudo apt install nginx-full 
+sudo apt-get install cmake gcc clang gdb build-essential
+&lt;/pre&gt;
+
+===Clion cmake===
+
+&lt;pre&gt;
+
+target_link_libraries((der Projekt name) fcgi)
+[[C:Webprogrammieren:Hallo Welt)</text>
+      <sha1>0dbpy9ew61vjwc2v60wqyfag6i77k4x</sha1>
+    </revision>
+    <revision>
+      <id>111</id>
+      <parentid>110</parentid>
+      <timestamp>2022-10-29T22:20:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Clion cmake */</comment>
+      <origin>111</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="377" sha1="bjt726xufp178h4slnce688593t1xk9" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+===Installieren (Ubuntu)===
+&lt;pre&gt;
+sudo apt install spawn-fcgi
+sudo apt-get install libfcgi-dev
+sudo apt install nginx-full 
+sudo apt-get install cmake gcc clang gdb build-essential
+&lt;/pre&gt;
+
+===Clion cmake===
+
+&lt;pre&gt;
+
+target_link_libraries((der Projekt name) fcgi)
+[[C:Webprogrammieren:Hallo Welt]]</text>
+      <sha1>bjt726xufp178h4slnce688593t1xk9</sha1>
+    </revision>
+    <revision>
+      <id>113</id>
+      <parentid>111</parentid>
+      <timestamp>2022-10-29T22:22:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Webprogrammieren */</comment>
+      <origin>113</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="415" sha1="39znm1gz5y3mqsqlnzuycoqcumocq40" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+* [[C:Webprogrammieren:Installieren]]
+===Installieren (Ubuntu)===
+&lt;pre&gt;
+sudo apt install spawn-fcgi
+sudo apt-get install libfcgi-dev
+sudo apt install nginx-full 
+sudo apt-get install cmake gcc clang gdb build-essential
+&lt;/pre&gt;
+
+===Clion cmake===
+
+&lt;pre&gt;
+
+target_link_libraries((der Projekt name) fcgi)
+[[C:Webprogrammieren:Hallo Welt]]</text>
+      <sha1>39znm1gz5y3mqsqlnzuycoqcumocq40</sha1>
+    </revision>
+    <revision>
+      <id>115</id>
+      <parentid>113</parentid>
+      <timestamp>2022-10-29T22:23:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Webprogrammieren */</comment>
+      <origin>115</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="155" sha1="dxda6w263j4at2vz09swccnen4aa4ac" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+* [[C:Webprogrammieren:Installieren]]
+* [[C:Webprogrammieren:Hallo Welt]]</text>
+      <sha1>dxda6w263j4at2vz09swccnen4aa4ac</sha1>
+    </revision>
   </page>
   <page>
     <title>Ruby</title>
@@ -2793,6 +3177,331 @@ print("Hallo Welt")
 console.log("hello");
 &lt;/pre&gt;</text>
       <sha1>o6pafxpffdtq45etue8xmgcpfncvq00</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lua</title>
+    <ns>0</ns>
+    <id>30</id>
+    <revision>
+      <id>95</id>
+      <timestamp>2022-10-29T19:50:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[Lua::Hallo Welt]]“</comment>
+      <origin>95</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19" sha1="cw88f347un93zw800frdu4g4l5kr1zn" xml:space="preserve">[[Lua::Hallo Welt]]</text>
+      <sha1>cw88f347un93zw800frdu4g4l5kr1zn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lua::Hallo Welt</title>
+    <ns>0</ns>
+    <id>31</id>
+    <revision>
+      <id>96</id>
+      <timestamp>2022-10-29T19:50:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; print("Hallo Welt") &lt;/pre&gt;“</comment>
+      <origin>96</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" sha1="14mif58ycfleo4ue7bzyihkxkb3bl88" xml:space="preserve">&lt;pre&gt;
+print("Hallo Welt")
+&lt;/pre&gt;</text>
+      <sha1>14mif58ycfleo4ue7bzyihkxkb3bl88</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>TypeScript</title>
+    <ns>0</ns>
+    <id>32</id>
+    <revision>
+      <id>98</id>
+      <timestamp>2022-10-29T19:54:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [TypeScript:Hallo Welt]]“</comment>
+      <origin>98</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="26" sha1="t3gqb98kfwhi9caz0wvlrw0xrjxrm5u" xml:space="preserve">* [TypeScript:Hallo Welt]]</text>
+      <sha1>t3gqb98kfwhi9caz0wvlrw0xrjxrm5u</sha1>
+    </revision>
+    <revision>
+      <id>99</id>
+      <parentid>98</parentid>
+      <timestamp>2022-10-29T19:54:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>99</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="27" sha1="17ukueuyz8php6yesnfvgcpt6xmy1f0" xml:space="preserve">* [[TypeScript:Hallo Welt]]</text>
+      <sha1>17ukueuyz8php6yesnfvgcpt6xmy1f0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>TypeScript:Hallo Welt</title>
+    <ns>0</ns>
+    <id>33</id>
+    <revision>
+      <id>100</id>
+      <timestamp>2022-10-29T19:55:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „console.log("Hallo Welt");“</comment>
+      <origin>100</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="26" sha1="ah0rvn9lhipqebl7g2mxs7j2rxirgtw" xml:space="preserve">console.log("Hallo Welt");</text>
+      <sha1>ah0rvn9lhipqebl7g2mxs7j2rxirgtw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:Hallo Welt</title>
+    <ns>0</ns>
+    <id>34</id>
+    <revision>
+      <id>102</id>
+      <timestamp>2022-10-29T20:29:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; #include &lt;stdio.h&gt;  int main() {     printf("Hello, World!\n");     return 0; }  &lt;/pre&gt;“</comment>
+      <origin>102</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="93" sha1="eie79m9eab6fnief8p9im01vtmlzdgp" xml:space="preserve">&lt;pre&gt;
+#include &lt;stdio.h&gt;
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+
+&lt;/pre&gt;</text>
+      <sha1>eie79m9eab6fnief8p9im01vtmlzdgp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:Datentypen</title>
+    <ns>0</ns>
+    <id>35</id>
+    <revision>
+      <id>104</id>
+      <timestamp>2022-10-29T20:31:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „#include &lt;stdint.h&gt;  int main() {      // Postiv und Negativ Ganzezahlen     int8_t zahl; // Byte 8     int16_t zahl1; // Byte 16     int32_t zahl2; // Byte 32     int64_t zahl3; // Byte 64      //Postive Ganzezahlen      uint8_t zahl4; //Byte 8     uint16_t zahl5; // Byte 16     uint32_t zahl6; // Byte 32     uint64_t zahl7; // Byte 64      return 0;  }“</comment>
+      <origin>104</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="356" sha1="dql1tlq2oslkdyj6oo9hgzpic8vwph7" xml:space="preserve">#include &lt;stdint.h&gt;
+
+int main() {
+
+    // Postiv und Negativ Ganzezahlen
+    int8_t zahl; // Byte 8
+    int16_t zahl1; // Byte 16
+    int32_t zahl2; // Byte 32
+    int64_t zahl3; // Byte 64
+
+    //Postive Ganzezahlen
+
+    uint8_t zahl4; //Byte 8
+    uint16_t zahl5; // Byte 16
+    uint32_t zahl6; // Byte 32
+    uint64_t zahl7; // Byte 64
+
+    return 0;
+
+}</text>
+      <sha1>dql1tlq2oslkdyj6oo9hgzpic8vwph7</sha1>
+    </revision>
+    <revision>
+      <id>105</id>
+      <parentid>104</parentid>
+      <timestamp>2022-10-29T20:34:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>105</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="394" sha1="507wmnqhn92zxsyc5b3kysa06t759ps" xml:space="preserve">&lt;pre&gt;
+#include &lt;stdint.h&gt;
+
+int main() {
+
+positive ganze zahlen
+    // Postive und Negative Ganzezahlen
+    int8_t zahl; // Byte 8
+    int16_t zahl1; // Byte 16
+    int32_t zahl2; // Byte 32
+    int64_t zahl3; // Byte 64
+
+    //Postive Ganzezahlen
+
+    uint8_t zahl4; //Byte 8
+    uint16_t zahl5; // Byte 16
+    uint32_t zahl6; // Byte 32
+    uint64_t zahl7; // Byte 64
+
+    return 0;
+
+}
+
+&lt;/pre&gt;</text>
+      <sha1>507wmnqhn92zxsyc5b3kysa06t759ps</sha1>
+    </revision>
+    <revision>
+      <id>106</id>
+      <parentid>105</parentid>
+      <timestamp>2022-10-29T20:34:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>106</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="372" sha1="mvtlvpu7fefl785lojl7vj5whxpyp3v" xml:space="preserve">&lt;pre&gt;
+#include &lt;stdint.h&gt;
+
+int main() {
+
+    // Postive und Negative Ganzezahlen
+    int8_t zahl; // Byte 8
+    int16_t zahl1; // Byte 16
+    int32_t zahl2; // Byte 32
+    int64_t zahl3; // Byte 64
+
+    //Postive Ganzezahlen
+
+    uint8_t zahl4; //Byte 8
+    uint16_t zahl5; // Byte 16
+    uint32_t zahl6; // Byte 32
+    uint64_t zahl7; // Byte 64
+
+    return 0;
+
+}
+
+&lt;/pre&gt;</text>
+      <sha1>mvtlvpu7fefl785lojl7vj5whxpyp3v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:Webprogrammieren:Hallo Welt</title>
+    <ns>0</ns>
+    <id>36</id>
+    <revision>
+      <id>112</id>
+      <timestamp>2022-10-29T22:20:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; #include "fcgi_stdio.h" int main() {      while (FCGI_Accept() &gt;= 0) {         printf("Content-type: text/html\r\n");         printf("\r\nHallo Welt");      } return 0; } &lt;/pre&gt;“</comment>
+      <origin>112</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="183" sha1="qdlskqo4gl1lnc6l2a6td5alrb2c6br" xml:space="preserve">&lt;pre&gt;
+#include "fcgi_stdio.h"
+int main() {
+
+    while (FCGI_Accept() &gt;= 0) {
+        printf("Content-type: text/html\r\n");
+        printf("\r\nHallo Welt");
+
+    }
+return 0;
+}
+&lt;/pre&gt;</text>
+      <sha1>qdlskqo4gl1lnc6l2a6td5alrb2c6br</sha1>
+    </revision>
+    <revision>
+      <id>116</id>
+      <parentid>112</parentid>
+      <timestamp>2022-10-29T22:25:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>116</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="6j403yzbhjmrhbrxt15etgd1j3v9ul2" xml:space="preserve">&lt;pre&gt;
+#include "fcgi_stdio.h"
+int main() {
+
+    while (FCGI_Accept() &gt;= 0) {
+        printf("Content-type: text/html\r\n");
+        printf("\r\nHallo Welt");
+
+    }
+return 0;
+}
+&lt;/pre&gt;
+
+==Compiler==
+
+&lt;pre&gt;
+
+gcc main.c -lfcgi -o datei
+
+&lt;/pre&gt;</text>
+      <sha1>6j403yzbhjmrhbrxt15etgd1j3v9ul2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:Webprogrammieren:Installieren</title>
+    <ns>0</ns>
+    <id>37</id>
+    <revision>
+      <id>114</id>
+      <timestamp>2022-10-29T22:22:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „===Installieren (Ubuntu)=== &lt;pre&gt; sudo apt install spawn-fcgi sudo apt-get install libfcgi-dev sudo apt install nginx-full  sudo apt-get install cmake gcc clang gdb build-essential &lt;/pre&gt;  ===Clion cmake===  &lt;pre&gt;  target_link_libraries((der Projekt name) fcgi) &lt;/pre&gt;“</comment>
+      <origin>114</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="268" sha1="glmqn760dr08wuk8kutkq1riatgb5dp" xml:space="preserve">===Installieren (Ubuntu)===
+&lt;pre&gt;
+sudo apt install spawn-fcgi
+sudo apt-get install libfcgi-dev
+sudo apt install nginx-full 
+sudo apt-get install cmake gcc clang gdb build-essential
+&lt;/pre&gt;
+
+===Clion cmake===
+
+&lt;pre&gt;
+
+target_link_libraries((der Projekt name) fcgi)
+&lt;/pre&gt;</text>
+      <sha1>glmqn760dr08wuk8kutkq1riatgb5dp</sha1>
     </revision>
   </page>
 </mediawiki>
