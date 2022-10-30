@@ -2959,6 +2959,281 @@ target_link_libraries((der Projekt name) fcgi)
 * [[C:Webprogrammieren:Hallo Welt]]</text>
       <sha1>dxda6w263j4at2vz09swccnen4aa4ac</sha1>
     </revision>
+    <revision>
+      <id>117</id>
+      <parentid>115</parentid>
+      <timestamp>2022-10-30T11:47:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>117</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="203" sha1="snd7zthesx40lvwdw6fxt65af8v2xne" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+* [[C:Webprogrammieren:Installieren]]
+* [[C:Webprogrammieren:Hallo Welt]]
+== Webassembly
+* [[C:Webassembly:Installieren]]</text>
+      <sha1>snd7zthesx40lvwdw6fxt65af8v2xne</sha1>
+    </revision>
+    <revision>
+      <id>118</id>
+      <parentid>117</parentid>
+      <timestamp>2022-10-30T11:47:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>118</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="205" sha1="07wy1wrcvg3z3cfl2lf9e08etn4kz0v" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+* [[C:Webprogrammieren:Installieren]]
+* [[C:Webprogrammieren:Hallo Welt]]
+== Webassembly==
+* [[C:Webassembly:Installieren]]</text>
+      <sha1>07wy1wrcvg3z3cfl2lf9e08etn4kz0v</sha1>
+    </revision>
+    <revision>
+      <id>119</id>
+      <parentid>118</parentid>
+      <timestamp>2022-10-30T11:50:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>119</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="220" sha1="m9k8dwcgvdgc6ya9inmn6a5qlqfasr6" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+* [[C:Webprogrammieren:Installieren]]
+* [[C:Webprogrammieren:Hallo Welt]]
+== Webassembly==
+* [[C:Webassembly:Installieren]]
+==Web CGI==
+==</text>
+      <sha1>m9k8dwcgvdgc6ya9inmn6a5qlqfasr6</sha1>
+    </revision>
+    <revision>
+      <id>120</id>
+      <parentid>119</parentid>
+      <timestamp>2022-10-30T11:56:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>120</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="kxkvxciz6h0b5ka4i8afi85oiay9f2z" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+* [[C:Webprogrammieren:Installieren]]
+* [[C:Webprogrammieren:Hallo Welt]]
+== Webassembly==
+* [[C:Webassembly:Installieren]]
+==Web CGI==
+==grpc==
+* Keine Daten</text>
+      <sha1>kxkvxciz6h0b5ka4i8afi85oiay9f2z</sha1>
+    </revision>
+    <revision>
+      <id>121</id>
+      <parentid>120</parentid>
+      <timestamp>2022-10-30T11:57:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* grpc */</comment>
+      <origin>121</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="1b0ccczjij72oh3ac0vk87bnzwfdyp6" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+* [[C:Webprogrammieren:Installieren]]
+* [[C:Webprogrammieren:Hallo Welt]]
+== Webassembly==
+* [[C:Webassembly:Installieren]]
+==Web CGI==
+==Grpc==
+* Keine Daten</text>
+      <sha1>1b0ccczjij72oh3ac0vk87bnzwfdyp6</sha1>
+    </revision>
+    <revision>
+      <id>122</id>
+      <parentid>121</parentid>
+      <timestamp>2022-10-30T12:03:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Grpc */</comment>
+      <origin>122</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="252" sha1="cnlkgqns3ucfmnjbq4ly7zg8vth5c5u" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+* [[C:Webprogrammieren:Installieren]]
+* [[C:Webprogrammieren:Hallo Welt]]
+== Webassembly==
+* [[C:Webassembly:Installieren]]
+==Web CGI==
+==Grpc==
+* Keine Daten
+==GraphQL==</text>
+      <sha1>cnlkgqns3ucfmnjbq4ly7zg8vth5c5u</sha1>
+    </revision>
+    <revision>
+      <id>123</id>
+      <parentid>122</parentid>
+      <timestamp>2022-10-30T13:10:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* GraphQL */</comment>
+      <origin>123</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="266" sha1="4okn2r4giuf1lr7w57p07zaykka7a8f" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+* [[C:Webprogrammieren:Installieren]]
+* [[C:Webprogrammieren:Hallo Welt]]
+== Webassembly==
+* [[C:Webassembly:Installieren]]
+==Web CGI==
+==Grpc==
+* Keine Daten
+==GraphQL==
+* Keine Daten</text>
+      <sha1>4okn2r4giuf1lr7w57p07zaykka7a8f</sha1>
+    </revision>
+    <revision>
+      <id>124</id>
+      <parentid>123</parentid>
+      <timestamp>2022-10-30T13:11:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Web CGI */</comment>
+      <origin>124</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="267" sha1="j8hufx72ims4bd58mycvgulpdvndj09" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+* [[C:Webprogrammieren:Installieren]]
+* [[C:Webprogrammieren:Hallo Welt]]
+== Webassembly==
+* [[C:Webassembly:Installieren]]
+==Web Api==
+
+==Grpc==
+* Keine Daten
+==GraphQL==
+* Keine Daten</text>
+      <sha1>j8hufx72ims4bd58mycvgulpdvndj09</sha1>
+    </revision>
+    <revision>
+      <id>127</id>
+      <parentid>124</parentid>
+      <timestamp>2022-10-30T14:49:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Web Api */</comment>
+      <origin>127</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="5hl3hwuped8tzi2caqzn0tp3zgoiet6" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+* [[C:Webprogrammieren:Installieren]]
+* [[C:Webprogrammieren:Hallo Welt]]
+== Webassembly==
+* [[C:Webassembly:Installieren]]
+==Web Api==
+* [[C:Web Api:Hallo Welt]]
+
+==Grpc==
+* Keine Daten
+==GraphQL==
+* Keine Daten</text>
+      <sha1>5hl3hwuped8tzi2caqzn0tp3zgoiet6</sha1>
+    </revision>
+    <revision>
+      <id>137</id>
+      <parentid>127</parentid>
+      <timestamp>2022-10-30T19:18:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Webassembly */</comment>
+      <origin>137</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="326" sha1="jkp53x806lmb3etgermzt56c7h0rj3e" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+* [[C:Webprogrammieren:Installieren]]
+* [[C:Webprogrammieren:Hallo Welt]]
+== Webassembly==
+* [[C:Webassembly:Installieren]]
+* [[C:Webassembly:Hallo Welt]]
+
+==Web Api==
+* [[C:Web Api:Hallo Welt]]
+
+==Grpc==
+* Keine Daten
+==GraphQL==
+* Keine Daten</text>
+      <sha1>jkp53x806lmb3etgermzt56c7h0rj3e</sha1>
+    </revision>
   </page>
   <page>
     <title>Ruby</title>
@@ -3408,6 +3683,205 @@ int main() {
 &lt;/pre&gt;</text>
       <sha1>mvtlvpu7fefl785lojl7vj5whxpyp3v</sha1>
     </revision>
+    <revision>
+      <id>140</id>
+      <parentid>106</parentid>
+      <timestamp>2022-10-30T20:18:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>140</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="528" sha1="trz77ck070vn1j5fkx12db205af4g1g" xml:space="preserve">&lt;pre&gt;
+#include &lt;stdint.h&gt;
+
+int main() {
+
+    // Postive und Negative Ganzezahlen
+    int8_t zahl; // Byte 8
+    int16_t zahl1; // Byte 16
+    int32_t zahl2; // Byte 32
+    int64_t zahl3; // Byte 64
+
+    //Postive Ganzezahlen
+
+    uint8_t zahl4; //Byte 8
+    uint16_t zahl5; // Byte 16
+    uint32_t zahl6; // Byte 32
+    uint64_t zahl7; // Byte 64
+
+    return 0;
+
+}
+
+&lt;/pre&gt;
+
+== Kommazahlen==
+
+&lt;pre&gt;
+int main() {
+    float zahl = 3.14F;  //Kommazahlen 32 B&lt;te
+    double zahl1= 3.14;  //Kommazahlen 64 Byte
+    return 0;
+}
+
+&lt;/pre&gt;</text>
+      <sha1>trz77ck070vn1j5fkx12db205af4g1g</sha1>
+    </revision>
+    <revision>
+      <id>141</id>
+      <parentid>140</parentid>
+      <timestamp>2022-10-30T20:19:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Kommazahlen */</comment>
+      <origin>141</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="514" sha1="e8jjfubdq7opgesk8ez2u93m6hbmaa0" xml:space="preserve">&lt;pre&gt;
+#include &lt;stdint.h&gt;
+
+int main() {
+
+    // Postive und Negative Ganzezahlen
+    int8_t zahl; // Byte 8
+    int16_t zahl1; // Byte 16
+    int32_t zahl2; // Byte 32
+    int64_t zahl3; // Byte 64
+
+    //Postive Ganzezahlen
+
+    uint8_t zahl4; //Byte 8
+    uint16_t zahl5; // Byte 16
+    uint32_t zahl6; // Byte 32
+    uint64_t zahl7; // Byte 64
+
+    return 0;
+
+}
+
+&lt;/pre&gt;
+
+== Kommazahlen==
+
+&lt;pre&gt;
+int main() {
+    float zahl;  //Kommazahlen 32 B&lt;te
+    double zahl1;  //Kommazahlen 64 Byte
+    return 0;
+}
+
+&lt;/pre&gt;</text>
+      <sha1>e8jjfubdq7opgesk8ez2u93m6hbmaa0</sha1>
+    </revision>
+    <revision>
+      <id>142</id>
+      <parentid>141</parentid>
+      <timestamp>2022-10-30T20:20:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Kommazahlen */</comment>
+      <origin>142</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="514" sha1="gx0p218k3orj051hj43cj8zaxs7lay0" xml:space="preserve">&lt;pre&gt;
+#include &lt;stdint.h&gt;
+
+int main() {
+
+    // Postive und Negative Ganzezahlen
+    int8_t zahl; // Byte 8
+    int16_t zahl1; // Byte 16
+    int32_t zahl2; // Byte 32
+    int64_t zahl3; // Byte 64
+
+    //Postive Ganzezahlen
+
+    uint8_t zahl4; //Byte 8
+    uint16_t zahl5; // Byte 16
+    uint32_t zahl6; // Byte 32
+    uint64_t zahl7; // Byte 64
+
+    return 0;
+
+}
+
+&lt;/pre&gt;
+
+== Kommazahlen==
+
+&lt;pre&gt;
+int main() {
+    float zahl;  //Kommazahlen 32 Byte
+    double zahl1;  //Kommazahlen 64 Byte
+    return 0;
+}
+
+&lt;/pre&gt;</text>
+      <sha1>gx0p218k3orj051hj43cj8zaxs7lay0</sha1>
+    </revision>
+    <revision>
+      <id>143</id>
+      <parentid>142</parentid>
+      <timestamp>2022-10-30T20:34:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Kommazahlen */</comment>
+      <origin>143</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="573" sha1="q777kg40ox3c39e9enspviqinm19dfu" xml:space="preserve">&lt;pre&gt;
+#include &lt;stdint.h&gt;
+
+int main() {
+
+    // Postive und Negative Ganzezahlen
+    int8_t zahl; // Byte 8
+    int16_t zahl1; // Byte 16
+    int32_t zahl2; // Byte 32
+    int64_t zahl3; // Byte 64
+
+    //Postive Ganzezahlen
+
+    uint8_t zahl4; //Byte 8
+    uint16_t zahl5; // Byte 16
+    uint32_t zahl6; // Byte 32
+    uint64_t zahl7; // Byte 64
+
+    return 0;
+
+}
+
+&lt;/pre&gt;
+
+== Kommazahlen==
+
+&lt;pre&gt;
+int main() {
+    float zahl;  //Kommazahlen 32 Byte
+    double zahl1;  //Kommazahlen 64 Byte
+    return 0;
+}
+
+&lt;/pre&gt;
+
+==Buchstabe==
+
+&lt;pre&gt;
+
+char Buchstabe //buchstaben
+
+&lt;/pre&gt;</text>
+      <sha1>q777kg40ox3c39e9enspviqinm19dfu</sha1>
+    </revision>
   </page>
   <page>
     <title>C:Webprogrammieren:Hallo Welt</title>
@@ -3502,6 +3976,418 @@ sudo apt-get install cmake gcc clang gdb build-essential
 target_link_libraries((der Projekt name) fcgi)
 &lt;/pre&gt;</text>
       <sha1>glmqn760dr08wuk8kutkq1riatgb5dp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:Webassembly:Installieren</title>
+    <ns>0</ns>
+    <id>38</id>
+    <revision>
+      <id>125</id>
+      <timestamp>2022-10-30T14:39:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Einführung== * Windows 10 oder Emscripten * CLion 2019.1 oder höher Version. * Emscripten * Chrome“</comment>
+      <origin>125</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="102" sha1="dggr3mk84da514jl1uyxxvbtkdciu28" xml:space="preserve">==Einführung==
+* Windows 10 oder Emscripten
+* CLion 2019.1 oder höher Version.
+* Emscripten
+* Chrome</text>
+      <sha1>dggr3mk84da514jl1uyxxvbtkdciu28</sha1>
+    </revision>
+    <revision>
+      <id>126</id>
+      <parentid>125</parentid>
+      <timestamp>2022-10-30T14:40:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>126</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="104" sha1="98j3e4ujhk1z52ej0in4prb55hq4vn5" xml:space="preserve">==Voraussetzung==
+* Windows 10 oder Emscripten
+* CLion 2019.1 oder höher Version.
+* Emscripten
+* Chrome</text>
+      <sha1>98j3e4ujhk1z52ej0in4prb55hq4vn5</sha1>
+    </revision>
+    <revision>
+      <id>129</id>
+      <parentid>126</parentid>
+      <timestamp>2022-10-30T15:18:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>129</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="283" sha1="k2erdc102r1ng6ztnn3krnq8b1omn80" xml:space="preserve">==Voraussetzung==
+* Windows 10 oder Emscripten
+* CLion 2019.1 oder höher Version.
+* Emscripten
+* Chrome
+==Vorbereitung==
+===Installieren Sie das Emscripten SDK===
+&lt;pre&gt;
+git clone https://github.com/emscripten-core/emsdk.git
+cd emsdk
+emsdk install latest
+emsdk activate latest
+&lt;/pre&gt;</text>
+      <sha1>k2erdc102r1ng6ztnn3krnq8b1omn80</sha1>
+    </revision>
+    <revision>
+      <id>130</id>
+      <parentid>129</parentid>
+      <timestamp>2022-10-30T15:21:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Installieren Sie das Emscripten SDK */</comment>
+      <origin>130</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="305" sha1="1ufldbmp4hdqbg455bns2h6uzw4e4qv" xml:space="preserve">==Voraussetzung==
+* Windows 10 oder Emscripten
+* CLion 2019.1 oder höher Version.
+* Emscripten
+* Chrome
+==Vorbereitung==
+===Installieren Sie das Emscripten SDK===
+&lt;pre&gt;
+git clone https://github.com/emscripten-core/emsdk.git
+cd emsdk
+emsdk install latest
+emsdk activate latest
+&lt;/pre&gt;
+==Clion Einstellung==</text>
+      <sha1>1ufldbmp4hdqbg455bns2h6uzw4e4qv</sha1>
+    </revision>
+    <revision>
+      <id>131</id>
+      <parentid>130</parentid>
+      <timestamp>2022-10-30T15:24:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Clion Einstellung */</comment>
+      <origin>131</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="421" sha1="iesui19ssl3to4942j8qibi5h4u8rxe" xml:space="preserve">==Voraussetzung==
+* Windows 10 oder Emscripten
+* CLion 2019.1 oder höher Version.
+* Emscripten
+* Chrome
+==Vorbereitung==
+===Installieren Sie das Emscripten SDK===
+&lt;pre&gt;
+git clone https://github.com/emscripten-core/emsdk.git
+cd emsdk
+emsdk install latest
+emsdk activate latest
+&lt;/pre&gt;
+==Clion Einstellung==
+===PATH Variabless===
+
+* Öffnet File –&gt;&gt; Settings –&gt;&gt; PATH Variables
+* Erstellen Sie eine Variable EMSCRIPTEN.</text>
+      <sha1>iesui19ssl3to4942j8qibi5h4u8rxe</sha1>
+    </revision>
+    <revision>
+      <id>132</id>
+      <parentid>131</parentid>
+      <timestamp>2022-10-30T15:42:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Clion Einstellung */</comment>
+      <origin>132</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="701" sha1="qlu90ps9zy505qpav2nl9b51m56r3m1" xml:space="preserve">==Voraussetzung==
+* Windows 10 oder Emscripten
+* CLion 2019.1 oder höher Version.
+* Emscripten
+* Chrome
+==Vorbereitung==
+===Installieren Sie das Emscripten SDK===
+&lt;pre&gt;
+git clone https://github.com/emscripten-core/emsdk.git
+cd emsdk
+emsdk install latest
+emsdk activate latest
+&lt;/pre&gt;
+==Clion Einstellung==
+===PATH Variabless===
+
+* Öffnet File –&gt;&gt; Settings –&gt;&gt; PATH Variables
+* Erstellen Sie eine Variable EMSCRIPTEN.
+===Konfigurieren Sie die Build-Einstellungen für Emscripten===
+* Öffnet Sie File –&gt;&gt; Settings –&gt;&gt; Build, Execution, Deployment –&gt;Cmake
+* CMake options eingeben :
+&lt;pre&gt;
+-DCMAKE_TOOLCHAIN_FILE=${EMSCRIPTEN}/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake
+&lt;/pre&gt;</text>
+      <sha1>qlu90ps9zy505qpav2nl9b51m56r3m1</sha1>
+    </revision>
+    <revision>
+      <id>133</id>
+      <parentid>132</parentid>
+      <timestamp>2022-10-30T16:02:27Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Konfigurieren Sie die Build-Einstellungen für Emscripten */</comment>
+      <origin>133</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="807" sha1="41a9h7mcaf50ccfbcopg2o98exemrrc" xml:space="preserve">==Voraussetzung==
+* Windows 10 oder Emscripten
+* CLion 2019.1 oder höher Version.
+* Emscripten
+* Chrome
+==Vorbereitung==
+===Installieren Sie das Emscripten SDK===
+&lt;pre&gt;
+git clone https://github.com/emscripten-core/emsdk.git
+cd emsdk
+emsdk install latest
+emsdk activate latest
+&lt;/pre&gt;
+==Clion Einstellung==
+===PATH Variabless===
+
+* Öffnet File –&gt;&gt; Settings –&gt;&gt; PATH Variables
+* Erstellen Sie eine Variable EMSCRIPTEN.
+===Konfigurieren Sie die Build-Einstellungen für Emscripten===
+* Öffnet Sie File –&gt;&gt; Settings –&gt;&gt; Build, Execution, Deployment –&gt;Cmake
+* CMake options eingeben :
+&lt;pre&gt;
+-DCMAKE_TOOLCHAIN_FILE=${EMSCRIPTEN}/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake
+&lt;/pre&gt;
+
+&lt;pre&gt;
+-DCMAKE_TOOLCHAIN_FILE=E:/emsdk/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake
+&lt;/pre&gt;</text>
+      <sha1>41a9h7mcaf50ccfbcopg2o98exemrrc</sha1>
+    </revision>
+    <revision>
+      <id>134</id>
+      <parentid>133</parentid>
+      <timestamp>2022-10-30T16:03:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* PATH Variabless */</comment>
+      <origin>134</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="691" sha1="5sv06a2f89k9fvav19uuvc12cb8udzv" xml:space="preserve">==Voraussetzung==
+* Windows 10 oder Emscripten
+* CLion 2019.1 oder höher Version.
+* Emscripten
+* Chrome
+==Vorbereitung==
+===Installieren Sie das Emscripten SDK===
+&lt;pre&gt;
+git clone https://github.com/emscripten-core/emsdk.git
+cd emsdk
+emsdk install latest
+emsdk activate latest
+&lt;/pre&gt;
+==Clion Einstellung==
+===Konfigurieren Sie die Build-Einstellungen für Emscripten===
+* Öffnet Sie File –&gt;&gt; Settings –&gt;&gt; Build, Execution, Deployment –&gt;Cmake
+* CMake options eingeben :
+&lt;pre&gt;
+-DCMAKE_TOOLCHAIN_FILE=${EMSCRIPTEN}/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake
+&lt;/pre&gt;
+
+&lt;pre&gt;
+-DCMAKE_TOOLCHAIN_FILE=E:/emsdk/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake
+&lt;/pre&gt;</text>
+      <sha1>5sv06a2f89k9fvav19uuvc12cb8udzv</sha1>
+    </revision>
+    <revision>
+      <id>135</id>
+      <parentid>134</parentid>
+      <timestamp>2022-10-30T16:04:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Clion Einstellung */</comment>
+      <origin>135</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="580" sha1="nccv44uoslfa6ogdhvt9yep4z8o2iqu" xml:space="preserve">==Voraussetzung==
+* Windows 10 oder Emscripten
+* CLion 2019.1 oder höher Version.
+* Emscripten
+* Chrome
+==Vorbereitung==
+===Installieren Sie das Emscripten SDK===
+&lt;pre&gt;
+git clone https://github.com/emscripten-core/emsdk.git
+cd emsdk
+emsdk install latest
+emsdk activate latest
+&lt;/pre&gt;
+==Clion Einstellung==
+===Konfigurieren Sie die Build-Einstellungen für Emscripten===
+* Öffnet Sie File –&gt;&gt; Settings –&gt;&gt; Build, Execution, Deployment –&gt;Cmake
+* CMake options eingeben :
+&lt;pre&gt;
+-DCMAKE_TOOLCHAIN_FILE=E:/emsdk/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake
+&lt;/pre&gt;</text>
+      <sha1>nccv44uoslfa6ogdhvt9yep4z8o2iqu</sha1>
+    </revision>
+    <revision>
+      <id>136</id>
+      <parentid>135</parentid>
+      <timestamp>2022-10-30T16:28:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Clion Einstellung */</comment>
+      <origin>136</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="687" sha1="8fl1q2uesyk4h59qyzg71pfvbhcgzoi" xml:space="preserve">==Voraussetzung==
+* Windows 10 oder Emscripten
+* CLion 2019.1 oder höher Version.
+* Emscripten
+* Chrome
+==Vorbereitung==
+===Installieren Sie das Emscripten SDK===
+&lt;pre&gt;
+git clone https://github.com/emscripten-core/emsdk.git
+cd emsdk
+emsdk install latest
+emsdk activate latest
+&lt;/pre&gt;
+==Clion Einstellung==
+===Konfigurieren Sie die Build-Einstellungen für Emscripten===
+* Öffnet Sie File –&gt;&gt; Settings –&gt;&gt; Build, Execution, Deployment –&gt;Cmake
+* CMake options eingeben :
+&lt;pre&gt;
+-DCMAKE_TOOLCHAIN_FILE=E:/emsdk/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake
+&lt;/pre&gt;
+==Systempath==
+
+* path=E:\emsdk
+* path=E:\emsdk\upstream\emscripten
+* path=E:\emsdk\node\14.18.2_64bit\bin</text>
+      <sha1>8fl1q2uesyk4h59qyzg71pfvbhcgzoi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:Web Api:Hallo Welt</title>
+    <ns>0</ns>
+    <id>39</id>
+    <revision>
+      <id>128</id>
+      <timestamp>2022-10-30T14:50:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; #include "fcgi_stdio.h" int main() {     const char * data = "{"                       "\"nachricht\": \"Hallo Welt\""                       "}";     while (FCGI_Accept() &gt;= 0) {         printf("Content-type: application/json\r\n"                "\r\n"                "%s", data);      } return 0; } &lt;/pre&gt;“</comment>
+      <origin>128</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="tjfv7e1v2i6lhpm8nef8me0q81r87gk" xml:space="preserve">&lt;pre&gt;
+#include "fcgi_stdio.h"
+int main() {
+    const char * data = "{"
+                      "\"nachricht\": \"Hallo Welt\""
+                      "}";
+    while (FCGI_Accept() &gt;= 0) {
+        printf("Content-type: application/json\r\n"
+               "\r\n"
+               "%s", data);
+
+    }
+return 0;
+}
+&lt;/pre&gt;</text>
+      <sha1>tjfv7e1v2i6lhpm8nef8me0q81r87gk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:Webassembly:Hallo Welt</title>
+    <ns>0</ns>
+    <id>40</id>
+    <revision>
+      <id>138</id>
+      <timestamp>2022-10-30T19:19:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==main.html== &lt;pre&gt; &lt;html&gt; &lt;body&gt; &lt;script src="main.js"&gt;&lt;/script&gt; &lt;/body&gt; &lt;/html&gt; &lt;/pre&gt;“</comment>
+      <origin>138</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="88" sha1="81qsnyk0b4alxtajiyd4om9z3hwlmli" xml:space="preserve">==main.html==
+&lt;pre&gt;
+&lt;html&gt;
+&lt;body&gt;
+&lt;script src="main.js"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;/pre&gt;</text>
+      <sha1>81qsnyk0b4alxtajiyd4om9z3hwlmli</sha1>
+    </revision>
+    <revision>
+      <id>139</id>
+      <parentid>138</parentid>
+      <timestamp>2022-10-30T19:22:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>139</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="248" sha1="o8foj4lqyw6zfqavl292jupn2ml4gu4" xml:space="preserve">==main.html==
+&lt;pre&gt;
+&lt;html&gt;
+&lt;body&gt;
+&lt;script src="main.js"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;/pre&gt;
+==main.c==
+
+&lt;pre&gt;
+#include &lt;stdio.h&gt;
+int main() {
+    printf("Hallo Welt\r\n");
+    return 0;
+}
+&lt;/pre&gt;
+
+==Console Eingabe==
+&lt;pre&gt;
+emcc main.c -o main.js
+&lt;/pre&gt;</text>
+      <sha1>o8foj4lqyw6zfqavl292jupn2ml4gu4</sha1>
     </revision>
   </page>
 </mediawiki>
