@@ -1226,6 +1226,210 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
 * [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
       <sha1>nggqc8caqudyzz924gdiuetpe0bvwfm</sha1>
     </revision>
+    <revision>
+      <id>144</id>
+      <parentid>97</parentid>
+      <timestamp>2022-10-31T14:58:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>144</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1008" sha1="nnd4i9xvkp1p7hgd3qq483k2ets4z1x" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Java]] - [[Kotlin]] - [[Go]] - [[Rust]]  - [[Python]] - [[Javascript]] - [[Lua]] - [[TypeScript]] - [[PHP]] - [[Ruby]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>nnd4i9xvkp1p7hgd3qq483k2ets4z1x</sha1>
+    </revision>
+    <revision>
+      <id>148</id>
+      <parentid>144</parentid>
+      <timestamp>2022-10-31T22:26:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>148</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="934" sha1="d07rnz9kuazayokpy91ey2lw5rk8q05" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[Javascript]] - [[Lua]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>d07rnz9kuazayokpy91ey2lw5rk8q05</sha1>
+    </revision>
+    <revision>
+      <id>149</id>
+      <parentid>148</parentid>
+      <timestamp>2022-10-31T23:07:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>149</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="924" sha1="2hjyw5w6jql9v6stcgkc32dyy46oe3o" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[Javascript]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>2hjyw5w6jql9v6stcgkc32dyy46oe3o</sha1>
+    </revision>
+    <revision>
+      <id>152</id>
+      <parentid>149</parentid>
+      <timestamp>2022-11-01T08:47:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>152</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="960" sha1="j7h68vom9ae5j123w86mpa61ov001uq" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[Javascript]] - [[Javs]] - [[Kotlin]]  [[Python]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>j7h68vom9ae5j123w86mpa61ov001uq</sha1>
+    </revision>
+    <revision>
+      <id>153</id>
+      <parentid>152</parentid>
+      <timestamp>2022-11-01T08:47:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>153</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="960" sha1="oedhdbf6k4lya3y5bpoy4krvotbnm2e" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[Javascript]] - [[Java]] - [[Kotlin]]  [[Python]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>oedhdbf6k4lya3y5bpoy4krvotbnm2e</sha1>
+    </revision>
+    <revision>
+      <id>154</id>
+      <parentid>153</parentid>
+      <timestamp>2022-11-01T09:08:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>154</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="971" sha1="7ppxi4pgntaigfjnufdugrbmyh3hjwb" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[Javascript]] - [[Java]] - [[Kotlin]] - [[Python]] - [[Lua]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>7ppxi4pgntaigfjnufdugrbmyh3hjwb</sha1>
+    </revision>
   </page>
   <page>
     <title>Ahrensburg.dev:Impressum</title>
@@ -2376,6 +2580,62 @@ sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.or
       <format>text/x-wiki</format>
       <text bytes="20" sha1="ibl674rbil9p3f2wu9tb2t0iqwras8i" xml:space="preserve">* [[C++:Hallo Welt]]</text>
       <sha1>ibl674rbil9p3f2wu9tb2t0iqwras8i</sha1>
+    </revision>
+    <revision>
+      <id>145</id>
+      <parentid>55</parentid>
+      <timestamp>2022-10-31T18:31:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>145</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" sha1="9q9vh589sd55p4y9hmlmwbs7owrvckn" xml:space="preserve">==Console==
+* [[C++:Hallo Welt]]</text>
+      <sha1>9q9vh589sd55p4y9hmlmwbs7owrvckn</sha1>
+    </revision>
+    <revision>
+      <id>146</id>
+      <parentid>145</parentid>
+      <timestamp>2022-10-31T20:04:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Console */</comment>
+      <origin>146</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="99" sha1="dhk56kgy2b8z6ior3aw51ekk2wv6uiu" xml:space="preserve">==Console==
+* [[C++:Hallo Welt]]
+==Webseiten Programmieren==
+
+* [[C++:Webprogrammieren:Hallo Welt]]</text>
+      <sha1>dhk56kgy2b8z6ior3aw51ekk2wv6uiu</sha1>
+    </revision>
+    <revision>
+      <id>150</id>
+      <parentid>146</parentid>
+      <timestamp>2022-10-31T23:34:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>150</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="150" sha1="3nrtusl56baohfzbwrjiof6ww32wkkq" xml:space="preserve">==Console==
+* [[C++:Hallo Welt]]
+==Webseiten Programmieren==
+
+* [[C++:Webprogrammieren:Hallo Welt]]
+
+==Webassembly==
+
+* [[C++:Webassembly:Hallo Welt]]</text>
+      <sha1>3nrtusl56baohfzbwrjiof6ww32wkkq</sha1>
     </revision>
   </page>
   <page>
@@ -4388,6 +4648,91 @@ int main() {
 emcc main.c -o main.js
 &lt;/pre&gt;</text>
       <sha1>o8foj4lqyw6zfqavl292jupn2ml4gu4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++:Webprogrammieren:Hallo Welt</title>
+    <ns>0</ns>
+    <id>41</id>
+    <revision>
+      <id>147</id>
+      <timestamp>2022-10-31T20:06:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; #include &lt;iostream&gt; #include "fcgio.h"  int main() { // Sichern Sie die Stream     std::streambuf * cin_streambuf  = std::cin.rdbuf();     std::streambuf * cout_streambuf = std::cout.rdbuf();     std::streambuf * cerr_streambuf = std::cerr.rdbuf();       FCGX_Request request;      FCGX_Init();     FCGX_InitRequest(&amp;request, 0, 0);      while (FCGX_Accept_r(&amp;request) == 0) {         fcgi_streambuf cin_fcgi_streambuf(request.in);         fcgi_streambu…“</comment>
+      <origin>147</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="883" sha1="g19g8vvtq7ckwf7lvj8nufzunu9z0yz" xml:space="preserve">&lt;pre&gt;
+#include &lt;iostream&gt;
+#include "fcgio.h"
+
+int main() {
+// Sichern Sie die Stream
+    std::streambuf * cin_streambuf  = std::cin.rdbuf();
+    std::streambuf * cout_streambuf = std::cout.rdbuf();
+    std::streambuf * cerr_streambuf = std::cerr.rdbuf();
+
+
+    FCGX_Request request;
+
+    FCGX_Init();
+    FCGX_InitRequest(&amp;request, 0, 0);
+
+    while (FCGX_Accept_r(&amp;request) == 0) {
+        fcgi_streambuf cin_fcgi_streambuf(request.in);
+        fcgi_streambuf cout_fcgi_streambuf(request.out);
+        fcgi_streambuf cerr_fcgi_streambuf(request.err);
+
+        std::cin.rdbuf(&amp;cin_fcgi_streambuf);
+        std::cout.rdbuf(&amp;cout_fcgi_streambuf);
+        std::cerr.rdbuf(&amp;cerr_fcgi_streambuf);
+
+        //Test
+    }
+
+    // restore stdio streambufs
+    std::cin.rdbuf(cin_streambuf);
+    std::cout.rdbuf(cout_streambuf);
+    std::cerr.rdbuf(cerr_streambuf);
+
+    return 0;
+}
+
+
+
+
+&lt;/pre&gt;</text>
+      <sha1>g19g8vvtq7ckwf7lvj8nufzunu9z0yz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++:Webassembly:Hallo Welt</title>
+    <ns>0</ns>
+    <id>42</id>
+    <revision>
+      <id>151</id>
+      <timestamp>2022-11-01T00:05:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; #include &lt;iostream&gt;  int main() {     std::cout &lt;&lt; "Hallo Welt\r\n" &lt;&lt; std::endl;     return 0; }  &lt;/pre&gt;“</comment>
+      <origin>151</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="111" sha1="ix67h3ceir5vy29v62fds11b998byoi" xml:space="preserve">&lt;pre&gt;
+#include &lt;iostream&gt;
+
+int main() {
+    std::cout &lt;&lt; "Hallo Welt\r\n" &lt;&lt; std::endl;
+    return 0;
+}
+
+&lt;/pre&gt;</text>
+      <sha1>ix67h3ceir5vy29v62fds11b998byoi</sha1>
     </revision>
   </page>
 </mediawiki>
