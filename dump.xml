@@ -1430,6 +1430,141 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
 * [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
       <sha1>7ppxi4pgntaigfjnufdugrbmyh3hjwb</sha1>
     </revision>
+    <revision>
+      <id>156</id>
+      <parentid>154</parentid>
+      <timestamp>2022-11-01T11:52:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>156</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="958" sha1="a5wv617jmodgid4dptjbt3v6gss77cc" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[Tyescrript]] - [[Java]] - [[Kotlin]] - [[Lua]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>a5wv617jmodgid4dptjbt3v6gss77cc</sha1>
+    </revision>
+    <revision>
+      <id>157</id>
+      <parentid>156</parentid>
+      <timestamp>2022-11-01T11:52:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>157</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="958" sha1="mwj6k3zcxf8f7hbb0s40vehnkxrzrha" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[TypeScript]] - [[Java]] - [[Kotlin]] - [[Lua]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>mwj6k3zcxf8f7hbb0s40vehnkxrzrha</sha1>
+    </revision>
+    <revision>
+      <id>158</id>
+      <parentid>157</parentid>
+      <timestamp>2022-11-01T11:54:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>158</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="972" sha1="5shj8st0n11b8c4phyd71npg15c112h" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[TypeScript]] - [[Java]] - [[Kotlin]] - [[Lua]] - [[C-Sharp]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>5shj8st0n11b8c4phyd71npg15c112h</sha1>
+    </revision>
+    <revision>
+      <id>168</id>
+      <parentid>158</parentid>
+      <timestamp>2022-11-01T16:30:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>168</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="971" sha1="ftv4qgg20w1feri1dl3g7uxmo7ts45s" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[TypeScript]] - [[Java]] - [[Kotlin]] - [[Lua]] - [[Python]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>ftv4qgg20w1feri1dl3g7uxmo7ts45s</sha1>
+    </revision>
   </page>
   <page>
     <title>Ahrensburg.dev:Impressum</title>
@@ -2636,6 +2771,29 @@ sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.or
 
 * [[C++:Webassembly:Hallo Welt]]</text>
       <sha1>3nrtusl56baohfzbwrjiof6ww32wkkq</sha1>
+    </revision>
+    <revision>
+      <id>159</id>
+      <parentid>150</parentid>
+      <timestamp>2022-11-01T14:10:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>159</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="171" sha1="ckipewm30ctvced9d7qm2rfxr2f3thy" xml:space="preserve">==Console==
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+==Webseiten Programmieren==
+
+* [[C++:Webprogrammieren:Hallo Welt]]
+
+==Webassembly==
+
+* [[C++:Webassembly:Hallo Welt]]</text>
+      <sha1>ckipewm30ctvced9d7qm2rfxr2f3thy</sha1>
     </revision>
   </page>
   <page>
@@ -4707,6 +4865,59 @@ int main() {
 &lt;/pre&gt;</text>
       <sha1>g19g8vvtq7ckwf7lvj8nufzunu9z0yz</sha1>
     </revision>
+    <revision>
+      <id>155</id>
+      <parentid>147</parentid>
+      <timestamp>2022-11-01T09:14:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>155</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="888" sha1="6luehv76fimkijrgfn0haiwf4dyjltj" xml:space="preserve">&lt;pre&gt;
+#include &lt;iostream&gt;
+#include "fcgio.h"
+
+int main() {
+// Sichern Sie die stdio Strom
+    std::streambuf * cin_streambuf  = std::cin.rdbuf();
+    std::streambuf * cout_streambuf = std::cout.rdbuf();
+    std::streambuf * cerr_streambuf = std::cerr.rdbuf();
+
+
+    FCGX_Request request;
+
+    FCGX_Init();
+    FCGX_InitRequest(&amp;request, 0, 0);
+
+    while (FCGX_Accept_r(&amp;request) == 0) {
+        fcgi_streambuf cin_fcgi_streambuf(request.in);
+        fcgi_streambuf cout_fcgi_streambuf(request.out);
+        fcgi_streambuf cerr_fcgi_streambuf(request.err);
+
+        std::cin.rdbuf(&amp;cin_fcgi_streambuf);
+        std::cout.rdbuf(&amp;cout_fcgi_streambuf);
+        std::cerr.rdbuf(&amp;cerr_fcgi_streambuf);
+
+        //Test
+    }
+
+    // restore stdio streambufs
+    std::cin.rdbuf(cin_streambuf);
+    std::cout.rdbuf(cout_streambuf);
+    std::cerr.rdbuf(cerr_streambuf);
+
+    return 0;
+}
+
+
+
+
+&lt;/pre&gt;</text>
+      <sha1>6luehv76fimkijrgfn0haiwf4dyjltj</sha1>
+    </revision>
   </page>
   <page>
     <title>C++:Webassembly:Hallo Welt</title>
@@ -4733,6 +4944,297 @@ int main() {
 
 &lt;/pre&gt;</text>
       <sha1>ix67h3ceir5vy29v62fds11b998byoi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++:Datentypen</title>
+    <ns>0</ns>
+    <id>43</id>
+    <revision>
+      <id>160</id>
+      <timestamp>2022-11-01T14:19:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Wahrheitswerte== * bool variable;   == Ganzezahlen ==“</comment>
+      <origin>160</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55" sha1="2calm03yx9pygyd7d0mbsye00c5pt03" xml:space="preserve">==Wahrheitswerte==
+* bool variable; 
+
+== Ganzezahlen ==</text>
+      <sha1>2calm03yx9pygyd7d0mbsye00c5pt03</sha1>
+    </revision>
+    <revision>
+      <id>161</id>
+      <parentid>160</parentid>
+      <timestamp>2022-11-01T14:34:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Ganzezahlen */</comment>
+      <origin>161</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="514" sha1="f4i75tkgocrdbbsb20w01luzlnb2mgy" xml:space="preserve">==Wahrheitswerte==
+* bool variable; 
+
+== Ganzezahlen ==
+&lt;pre&gt;
+
+#include &lt;cstdint&gt;
+
+int main() {
+
+    int8_t variable; //Byte 8 Positiv oder Negativ Zahlen
+    int16_t variable; //Byte 16 Positiv oder Negativ Zahlen
+    int32_t variable;//Byte 32 Positiv oder Negativ Zahlen
+    int64_t variable;//Byte 64 Positiv oder Negativ Zahlen
+    uint8_t variable; //Byte 8 Ganze Zahlen
+    uint16_t variable; //Byte 16 Ganze Zahlen
+    uint32_t variable; //Byte 32 Ganze Zahlen
+    uint64_t variable; //Byte 32 Ganze Zahlen</text>
+      <sha1>f4i75tkgocrdbbsb20w01luzlnb2mgy</sha1>
+    </revision>
+    <revision>
+      <id>162</id>
+      <parentid>161</parentid>
+      <timestamp>2022-11-01T14:34:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Ganzezahlen */</comment>
+      <origin>162</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="521" sha1="4vu8nt559t9tmwlznb00by4pr8hyn1n" xml:space="preserve">==Wahrheitswerte==
+* bool variable; 
+
+== Ganzezahlen ==
+&lt;pre&gt;
+
+#include &lt;cstdint&gt;
+
+int main() {
+
+    int8_t variable; //Byte 8 Positiv oder Negativ Zahlen
+    int16_t variable; //Byte 16 Positiv oder Negativ Zahlen
+    int32_t variable;//Byte 32 Positiv oder Negativ Zahlen
+    int64_t variable;//Byte 64 Positiv oder Negativ Zahlen
+    uint8_t variable; //Byte 8 Ganze Zahlen
+    uint16_t variable; //Byte 16 Ganze Zahlen
+    uint32_t variable; //Byte 32 Ganze Zahlen
+    uint64_t variable; //Byte 32 Ganze Zahlen
+&lt;/pre&gt;</text>
+      <sha1>4vu8nt559t9tmwlznb00by4pr8hyn1n</sha1>
+    </revision>
+    <revision>
+      <id>163</id>
+      <parentid>162</parentid>
+      <timestamp>2022-11-01T14:37:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>163</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="553" sha1="cfqxzk6jknh16e3xmds3lf6ea2fbhd4" xml:space="preserve">==Wahrheitswerte==
+* bool variable; 
+
+== Ganzezahlen ==
+&lt;pre&gt;
+
+#include &lt;cstdint&gt;
+
+int main() {
+
+    int8_t variable; //Byte 8 Positiv oder Negativ Zahlen
+    int16_t variable; //Byte 16 Positiv oder Negativ Zahlen
+    int32_t variable;//Byte 32 Positiv oder Negativ Zahlen
+    int64_t variable;//Byte 64 Positiv oder Negativ Zahlen
+    uint8_t variable; //Byte 8 Ganze Zahlen
+    uint16_t variable; //Byte 16 Ganze Zahlen
+    uint32_t variable; //Byte 32 Ganze Zahlen
+    uint64_t variable; //Byte 32 Ganze Zahlen
+&lt;/pre&gt;
+==Buchstaben==
+
+ char variable;</text>
+      <sha1>cfqxzk6jknh16e3xmds3lf6ea2fbhd4</sha1>
+    </revision>
+    <revision>
+      <id>164</id>
+      <parentid>163</parentid>
+      <timestamp>2022-11-01T14:41:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>164</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="597" sha1="43pm6uep9ji61wfn3lndh29rcms36xr" xml:space="preserve">==Wahrheitswerte==
+* bool variable; 
+
+== Ganzezahlen ==
+&lt;pre&gt;
+
+#include &lt;cstdint&gt;
+
+int main() {
+
+    int8_t variable; //Byte 8 Positiv oder Negativ Zahlen
+    int16_t variable; //Byte 16 Positiv oder Negativ Zahlen
+    int32_t variable;//Byte 32 Positiv oder Negativ Zahlen
+    int64_t variable;//Byte 64 Positiv oder Negativ Zahlen
+    uint8_t variable; //Byte 8 Ganze Zahlen
+    uint16_t variable; //Byte 16 Ganze Zahlen
+    uint32_t variable; //Byte 32 Ganze Zahlen
+    uint64_t variable; //Byte 32 Ganze Zahlen
+&lt;/pre&gt;
+==Buchstaben==
+
+ char variable;
+==Leere Variable erstellen==
+void variable;</text>
+      <sha1>43pm6uep9ji61wfn3lndh29rcms36xr</sha1>
+    </revision>
+    <revision>
+      <id>165</id>
+      <parentid>164</parentid>
+      <timestamp>2022-11-01T14:41:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Leere Variable erstellen */</comment>
+      <origin>165</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="611" sha1="di5nvnzosp6o2l81usw79z6ilna5vtc" xml:space="preserve">==Wahrheitswerte==
+* bool variable; 
+
+== Ganzezahlen ==
+&lt;pre&gt;
+
+#include &lt;cstdint&gt;
+
+int main() {
+
+    int8_t variable; //Byte 8 Positiv oder Negativ Zahlen
+    int16_t variable; //Byte 16 Positiv oder Negativ Zahlen
+    int32_t variable;//Byte 32 Positiv oder Negativ Zahlen
+    int64_t variable;//Byte 64 Positiv oder Negativ Zahlen
+    uint8_t variable; //Byte 8 Ganze Zahlen
+    uint16_t variable; //Byte 16 Ganze Zahlen
+    uint32_t variable; //Byte 32 Ganze Zahlen
+    uint64_t variable; //Byte 32 Ganze Zahlen
+&lt;/pre&gt;
+==Buchstaben==
+
+ char variable;
+==Leere Variable erstellen==
+&lt;pre&gt;
+void variable;
+
+&lt;/pre&gt;</text>
+      <sha1>di5nvnzosp6o2l81usw79z6ilna5vtc</sha1>
+    </revision>
+    <revision>
+      <id>166</id>
+      <parentid>165</parentid>
+      <timestamp>2022-11-01T14:49:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Leere Variable erstellen */</comment>
+      <origin>166</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="674" sha1="phpj37pviwfondwtibvmyrittyszaa2" xml:space="preserve">==Wahrheitswerte==
+* bool variable; 
+
+== Ganzezahlen ==
+&lt;pre&gt;
+
+#include &lt;cstdint&gt;
+
+int main() {
+
+    int8_t variable; //Byte 8 Positiv oder Negativ Zahlen
+    int16_t variable; //Byte 16 Positiv oder Negativ Zahlen
+    int32_t variable;//Byte 32 Positiv oder Negativ Zahlen
+    int64_t variable;//Byte 64 Positiv oder Negativ Zahlen
+    uint8_t variable; //Byte 8 Ganze Zahlen
+    uint16_t variable; //Byte 16 Ganze Zahlen
+    uint32_t variable; //Byte 32 Ganze Zahlen
+    uint64_t variable; //Byte 32 Ganze Zahlen
+&lt;/pre&gt;
+==Buchstaben==
+
+ char variable;
+==Leere Variable erstellen==
+&lt;pre&gt;
+void variable;
+
+&lt;/pre&gt;
+==Kommazahlen==
+&lt;pre&gt;
+float variable; f32;
+double variable; 64</text>
+      <sha1>phpj37pviwfondwtibvmyrittyszaa2</sha1>
+    </revision>
+    <revision>
+      <id>167</id>
+      <parentid>166</parentid>
+      <timestamp>2022-11-01T14:50:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Kommazahlen */</comment>
+      <origin>167</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="682" sha1="dzar97d0cqqwofxs1liv0x19994mjxy" xml:space="preserve">==Wahrheitswerte==
+* bool variable; 
+
+== Ganzezahlen ==
+&lt;pre&gt;
+
+#include &lt;cstdint&gt;
+
+int main() {
+
+    int8_t variable; //Byte 8 Positiv oder Negativ Zahlen
+    int16_t variable; //Byte 16 Positiv oder Negativ Zahlen
+    int32_t variable;//Byte 32 Positiv oder Negativ Zahlen
+    int64_t variable;//Byte 64 Positiv oder Negativ Zahlen
+    uint8_t variable; //Byte 8 Ganze Zahlen
+    uint16_t variable; //Byte 16 Ganze Zahlen
+    uint32_t variable; //Byte 32 Ganze Zahlen
+    uint64_t variable; //Byte 32 Ganze Zahlen
+&lt;/pre&gt;
+==Buchstaben==
+
+ char variable;
+==Leere Variable erstellen==
+&lt;pre&gt;
+void variable;
+
+&lt;/pre&gt;
+==Kommazahlen==
+&lt;pre&gt;
+float variable; f32;
+double variable; f64
+&lt;/pre&gt;</text>
+      <sha1>dzar97d0cqqwofxs1liv0x19994mjxy</sha1>
     </revision>
   </page>
 </mediawiki>
