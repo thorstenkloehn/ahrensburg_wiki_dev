@@ -1565,6 +1565,512 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
 * [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
       <sha1>ftv4qgg20w1feri1dl3g7uxmo7ts45s</sha1>
     </revision>
+    <revision>
+      <id>169</id>
+      <parentid>168</parentid>
+      <timestamp>2022-11-01T22:47:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>169</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="986" sha1="pze8mc8ggcl2gfhqrvc6rqenao1qtk2" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[TypeScript]] - [[Java]] - [[Kotlin]] - [[Lua]] - [[Python]] - [[Net Core]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>pze8mc8ggcl2gfhqrvc6rqenao1qtk2</sha1>
+    </revision>
+    <revision>
+      <id>170</id>
+      <parentid>169</parentid>
+      <timestamp>2022-11-01T22:48:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>170</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1000" sha1="cy971xpg1kj6k67micpcqm8tjd7z906" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[TypeScript]] - [[Java]] - [[Kotlin]] - [[Lua]] - [[Python]] - [[Net Core]] - [[C-Sharp]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>cy971xpg1kj6k67micpcqm8tjd7z906</sha1>
+    </revision>
+    <revision>
+      <id>173</id>
+      <parentid>170</parentid>
+      <timestamp>2022-11-01T22:51:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="986" sha1="pze8mc8ggcl2gfhqrvc6rqenao1qtk2" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[TypeScript]] - [[Java]] - [[Kotlin]] - [[Lua]] - [[Python]] - [[Net Core]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>pze8mc8ggcl2gfhqrvc6rqenao1qtk2</sha1>
+    </revision>
+    <revision>
+      <id>174</id>
+      <parentid>173</parentid>
+      <timestamp>2022-11-01T22:53:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>174</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1002" sha1="opcays879kiy0d4dsfgpqgwlegydox9" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[TypeScript]] - [[Java]] - [[Kotlin]] - [[Lua]] - [[Python]] - [[Net Core]] - [[Datenbank]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>opcays879kiy0d4dsfgpqgwlegydox9</sha1>
+    </revision>
+    <revision>
+      <id>175</id>
+      <parentid>174</parentid>
+      <timestamp>2022-11-01T22:58:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>175</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="987" sha1="kcrikmkuv0zjqhwtf2cbsqojrxin5ww" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[TypeScript]] - [[Java]] - [[Kotlin]] - [[Lua]] - [[Python]] - [[Datenbank]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>kcrikmkuv0zjqhwtf2cbsqojrxin5ww</sha1>
+    </revision>
+    <revision>
+      <id>194</id>
+      <parentid>175</parentid>
+      <timestamp>2022-11-02T02:49:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>194</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1002" sha1="2jjo4ocgrjrchg1mhvi8mox4meabcyz" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[TypeScript]] - [[Java]] - [[Kotlin]] - [[Lua]] - [[Python]] - [[Net core]] - [[Datenbank]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>2jjo4ocgrjrchg1mhvi8mox4meabcyz</sha1>
+    </revision>
+    <revision>
+      <id>195</id>
+      <parentid>194</parentid>
+      <timestamp>2022-11-02T02:50:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>195</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1002" sha1="opcays879kiy0d4dsfgpqgwlegydox9" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[TypeScript]] - [[Java]] - [[Kotlin]] - [[Lua]] - [[Python]] - [[Net Core]] - [[Datenbank]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>opcays879kiy0d4dsfgpqgwlegydox9</sha1>
+    </revision>
+    <revision>
+      <id>196</id>
+      <parentid>195</parentid>
+      <timestamp>2022-11-02T11:54:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>196</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1023" sha1="9aic78gsqkzym1c8eb0w3wnmgt94hwj" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[TypeScript]] - [[Java]] - [[Kotlin]] - [[Lua]] - [[Python]] - [[Net Core]] - [[PHP]] - [[Ruby]] - [[Datenbank]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>9aic78gsqkzym1c8eb0w3wnmgt94hwj</sha1>
+    </revision>
+    <revision>
+      <id>198</id>
+      <parentid>196</parentid>
+      <timestamp>2022-11-02T18:07:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>198</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="987" sha1="kcrikmkuv0zjqhwtf2cbsqojrxin5ww" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  - [[Go]] - [[TypeScript]] - [[Java]] - [[Kotlin]] - [[Lua]] - [[Python]] - [[Datenbank]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>kcrikmkuv0zjqhwtf2cbsqojrxin5ww</sha1>
+    </revision>
+    <revision>
+      <id>202</id>
+      <parentid>198</parentid>
+      <timestamp>2022-11-02T21:05:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>202</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="932" sha1="pmmq5bxopdapxvjuini115kj7b55q2w" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Rust]]  -  [[Javascript]] - [[Datenbank]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>pmmq5bxopdapxvjuini115kj7b55q2w</sha1>
+    </revision>
+    <revision>
+      <id>203</id>
+      <parentid>202</parentid>
+      <timestamp>2022-11-02T21:06:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>203</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="938" sha1="484zcx0j1rjgc10adm97bixx7ad6tfp" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Rust]] - [[Go]] - [[Javascript]] - [[Datenbank]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>484zcx0j1rjgc10adm97bixx7ad6tfp</sha1>
+    </revision>
+    <revision>
+      <id>204</id>
+      <parentid>203</parentid>
+      <timestamp>2022-11-02T22:19:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>204</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="962" sha1="g19v5hhzow9gu0qp8r54u4gdsye5966" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Rust]] - [[Go]] - [[Javascript]] - [[Datenbank]] - [[Java]] - [[Python]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>g19v5hhzow9gu0qp8r54u4gdsye5966</sha1>
+    </revision>
+    <revision>
+      <id>205</id>
+      <parentid>204</parentid>
+      <timestamp>2022-11-02T22:20:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>205</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="975" sha1="03r6h078uptp78e6av47pdyy3l7kqw5" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Rust]] - [[Go]] - [[Javascript]] - [[Datenbank]] - [[Java]] - [[Python]] - [[Kotlin]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>03r6h078uptp78e6av47pdyy3l7kqw5</sha1>
+    </revision>
+    <revision>
+      <id>206</id>
+      <parentid>205</parentid>
+      <timestamp>2022-11-02T22:30:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>206</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="992" sha1="9g1brh37ert1f5ncv9k5hc04y6szk31" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Rust]] - [[Go]] - [[Javascript]] - [[Datenbank]] - [[Java]] - [[Python]] - [[Kotlin]] - [[TypeScript]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>9g1brh37ert1f5ncv9k5hc04y6szk31</sha1>
+    </revision>
+    <revision>
+      <id>207</id>
+      <parentid>206</parentid>
+      <timestamp>2022-11-03T08:58:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>207</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1002" sha1="s23gec16os7i40vpihy6624t1c6ide8" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Rust]] - [[Go]] - [[Javascript]] - [[Datenbank]] - [[Java]] - [[Python]] - [[Kotlin]] - [[TypeScript]] - [[Lua]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>s23gec16os7i40vpihy6624t1c6ide8</sha1>
+    </revision>
   </page>
   <page>
     <title>Ahrensburg.dev:Impressum</title>
@@ -3079,6 +3585,40 @@ func main() {
       <text bytes="21" sha1="gfjfu4mfpd0fu197mbmepykv6lasya6" xml:space="preserve">* [[Rust:Hallo Welt]]</text>
       <sha1>gfjfu4mfpd0fu197mbmepykv6lasya6</sha1>
     </revision>
+    <revision>
+      <id>197</id>
+      <parentid>72</parentid>
+      <timestamp>2022-11-02T17:34:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>197</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" sha1="ok0kv4jleb65f2gewpankuqs9wsea6r" xml:space="preserve">==Konsole==
+
+* [[Rust:Hallo Welt]]</text>
+      <sha1>ok0kv4jleb65f2gewpankuqs9wsea6r</sha1>
+    </revision>
+    <revision>
+      <id>199</id>
+      <parentid>197</parentid>
+      <timestamp>2022-11-02T19:20:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>199</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="94" sha1="glvi4xd419usgucuj1lgs2no76b6q5g" xml:space="preserve">==Konsole==
+
+* [[Rust:Hallo Welt]]
+==Webprogrammieren==
+* [[Rust:Webprogrammieren:Hallo Welt]]</text>
+      <sha1>glvi4xd419usgucuj1lgs2no76b6q5g</sha1>
+    </revision>
   </page>
   <page>
     <title>Rust:Hallo Welt</title>
@@ -3651,6 +4191,30 @@ target_link_libraries((der Projekt name) fcgi)
 ==GraphQL==
 * Keine Daten</text>
       <sha1>jkp53x806lmb3etgermzt56c7h0rj3e</sha1>
+    </revision>
+    <revision>
+      <id>176</id>
+      <parentid>137</parentid>
+      <timestamp>2022-11-01T23:02:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>176</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="236" sha1="mklkczv1g13gp5kenjefvblmhivimgd" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+
+== Webprogrammieren==
+* [[C:Webprogrammieren:Installieren]]
+* [[C:Webprogrammieren:Hallo Welt]]
+== Webassembly==
+* [[C:Webassembly:Installieren]]
+* [[C:Webassembly:Hallo Welt]]</text>
+      <sha1>mklkczv1g13gp5kenjefvblmhivimgd</sha1>
     </revision>
   </page>
   <page>
@@ -5235,6 +5799,765 @@ float variable; f32;
 double variable; f64
 &lt;/pre&gt;</text>
       <sha1>dzar97d0cqqwofxs1liv0x19994mjxy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Net Core</title>
+    <ns>0</ns>
+    <id>44</id>
+    <revision>
+      <id>171</id>
+      <timestamp>2022-11-01T22:50:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[Net Core:Hallo Welt]]“</comment>
+      <origin>171</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25" sha1="ssrhf59my24gipsaj1xqoryrj0en6ee" xml:space="preserve">* [[Net Core:Hallo Welt]]</text>
+      <sha1>ssrhf59my24gipsaj1xqoryrj0en6ee</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Net Core:Hallo Welt</title>
+    <ns>0</ns>
+    <id>45</id>
+    <revision>
+      <id>172</id>
+      <timestamp>2022-11-01T22:51:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; Console.WriteLine("Hallo Welt"); &lt;/pre&gt;“</comment>
+      <origin>172</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="45" sha1="g1ldj1ev8qh517x1v8l7p5ekm6818qt" xml:space="preserve">&lt;pre&gt;
+Console.WriteLine("Hallo Welt");
+&lt;/pre&gt;</text>
+      <sha1>g1ldj1ev8qh517x1v8l7p5ekm6818qt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datenbank</title>
+    <ns>0</ns>
+    <id>46</id>
+    <revision>
+      <id>177</id>
+      <timestamp>2022-11-01T23:25:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[Datenbank:Konsole]]“</comment>
+      <origin>177</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="8vatjsgnjzz77niqiekdr5mx0i0s4sl" xml:space="preserve">* [[Datenbank:Konsole]]</text>
+      <sha1>8vatjsgnjzz77niqiekdr5mx0i0s4sl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datenbank:Konsole</title>
+    <ns>0</ns>
+    <id>47</id>
+    <revision>
+      <id>178</id>
+      <timestamp>2022-11-02T00:25:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Nutzername erstellen== &lt;pre&gt;  createuser -U Nutzername Nutzername &lt;/pre&gt;  ==Neue Datenbank erstellen==“</comment>
+      <origin>178</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="104" sha1="jli2klumaszslhwm1vxva7my3uzv8aw" xml:space="preserve">==Nutzername erstellen==
+&lt;pre&gt; 
+createuser -U Nutzername Nutzername
+&lt;/pre&gt;
+
+==Neue Datenbank erstellen==</text>
+      <sha1>jli2klumaszslhwm1vxva7my3uzv8aw</sha1>
+    </revision>
+    <revision>
+      <id>179</id>
+      <parentid>178</parentid>
+      <timestamp>2022-11-02T00:28:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Neue Datenbank erstellen */</comment>
+      <origin>179</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="173" sha1="qtd3xg1ft7qrh6j47wepidvuk88jvf3" xml:space="preserve">==Nutzername erstellen==
+&lt;pre&gt; 
+createuser -U Nutzername Nutzername
+&lt;/pre&gt;
+
+==Neue Datenbank erstellen==
+&lt;pre&gt;
+createdb -U postgres-E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;</text>
+      <sha1>qtd3xg1ft7qrh6j47wepidvuk88jvf3</sha1>
+    </revision>
+    <revision>
+      <id>180</id>
+      <parentid>179</parentid>
+      <timestamp>2022-11-02T00:29:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>180</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="9gwgi6fd316q4w7d3fzg1testzjv8n6" xml:space="preserve">==Windows==
+==Nutzername erstellen==
+&lt;pre&gt; 
+createuser -U Nutzername Nutzername
+&lt;/pre&gt;
+
+==Neue Datenbank erstellen==
+&lt;pre&gt;
+createdb -U postgres-E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;</text>
+      <sha1>9gwgi6fd316q4w7d3fzg1testzjv8n6</sha1>
+    </revision>
+    <revision>
+      <id>181</id>
+      <parentid>180</parentid>
+      <timestamp>2022-11-02T00:30:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>181</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="nuzvmahvnc1hhkwi6pednb1oozhp5iz" xml:space="preserve">==Windows==
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser -U Nutzername Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -U postgres-E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;</text>
+      <sha1>nuzvmahvnc1hhkwi6pednb1oozhp5iz</sha1>
+    </revision>
+    <revision>
+      <id>182</id>
+      <parentid>181</parentid>
+      <timestamp>2022-11-02T00:45:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>182</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="200" sha1="hmkfxass8wb23a0v4mh4tkaiqa0jm9x" xml:space="preserve">==Windows==
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser -U Nutzername Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -U postgres-E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+==Ubuntu==</text>
+      <sha1>hmkfxass8wb23a0v4mh4tkaiqa0jm9x</sha1>
+    </revision>
+    <revision>
+      <id>183</id>
+      <parentid>182</parentid>
+      <timestamp>2022-11-02T00:50:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Ubuntu */</comment>
+      <origin>183</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="253" sha1="03197742scz7dx0g7a5izlu8xbt0pwf" xml:space="preserve">==Windows==
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser -U Nutzername Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -U postgres-E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+==Ubuntu==
+===Admin Bereich===
+&lt;pre&gt;
+sudo -u postgres -i
+&lt;/pre&gt;</text>
+      <sha1>03197742scz7dx0g7a5izlu8xbt0pwf</sha1>
+    </revision>
+    <revision>
+      <id>184</id>
+      <parentid>183</parentid>
+      <timestamp>2022-11-02T00:54:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Admin Bereich */</comment>
+      <origin>184</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="406" sha1="g97svox354fzws4sfu908bniulfsff0" xml:space="preserve">==Windows==
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser -U Nutzername Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -U postgres-E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+==Ubuntu==
+===Admin Bereich===
+&lt;pre&gt;
+sudo -u postgres -i
+&lt;/pre&gt;
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;</text>
+      <sha1>g97svox354fzws4sfu908bniulfsff0</sha1>
+    </revision>
+    <revision>
+      <id>185</id>
+      <parentid>184</parentid>
+      <timestamp>2022-11-02T00:58:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Ubuntu */</comment>
+      <origin>185</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="506" sha1="dvyee1of3btwwmae2xlcyt9d73k8j8l" xml:space="preserve">==Windows==
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser -U Nutzername Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -U postgres-E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+==Ubuntu==
+===Admin Bereich===
+&lt;pre&gt;
+sudo -u postgres -i
+&lt;/pre&gt;
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+===Neue Ubuntu Nutzer erstellen
+
+&lt;pre&gt;
+sudo -i 
+adduser thorsten 
+usermod -aG sudo thorsten
+
+&lt;/pre&gt;</text>
+      <sha1>dvyee1of3btwwmae2xlcyt9d73k8j8l</sha1>
+    </revision>
+    <revision>
+      <id>186</id>
+      <parentid>185</parentid>
+      <timestamp>2022-11-02T00:58:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Neue Datenbank erstellen */</comment>
+      <origin>186</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="509" sha1="oetf01exepne5n6j8fd6devhl379jtc" xml:space="preserve">==Windows==
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser -U Nutzername Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -U postgres-E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+==Ubuntu==
+===Admin Bereich===
+&lt;pre&gt;
+sudo -u postgres -i
+&lt;/pre&gt;
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+===Neue Ubuntu Nutzer erstellen===
+
+&lt;pre&gt;
+sudo -i 
+adduser thorsten 
+usermod -aG sudo thorsten
+
+&lt;/pre&gt;</text>
+      <sha1>oetf01exepne5n6j8fd6devhl379jtc</sha1>
+    </revision>
+    <revision>
+      <id>187</id>
+      <parentid>186</parentid>
+      <timestamp>2022-11-02T00:59:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Neue Ubuntu Nutzer erstellen */</comment>
+      <origin>187</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="511" sha1="3hlzec31ki6lettilhnr9og8dzza3rf" xml:space="preserve">==Windows==
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser -U Nutzername Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -U postgres-E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+==Ubuntu==
+===Admin Bereich===
+&lt;pre&gt;
+sudo -u postgres -i
+&lt;/pre&gt;
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+===Neue Ubuntu Nutzer erstellen===
+
+&lt;pre&gt;
+sudo -i 
+adduser Nutzername 
+usermod -aG sudo thorsten
+
+&lt;/pre&gt;</text>
+      <sha1>3hlzec31ki6lettilhnr9og8dzza3rf</sha1>
+    </revision>
+    <revision>
+      <id>188</id>
+      <parentid>187</parentid>
+      <timestamp>2022-11-02T01:00:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Neue Ubuntu Nutzer erstellen */</comment>
+      <origin>188</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="513" sha1="l4awtgkqw4c1v9onwkyie3nqyiq6wq1" xml:space="preserve">==Windows==
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser -U Nutzername Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -U postgres-E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+==Ubuntu==
+===Admin Bereich===
+&lt;pre&gt;
+sudo -u postgres -i
+&lt;/pre&gt;
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+===Neue Ubuntu Nutzer erstellen===
+
+&lt;pre&gt;
+sudo -i 
+adduser Nutzername 
+usermod -aG sudo Nutzername
+
+&lt;/pre&gt;</text>
+      <sha1>l4awtgkqw4c1v9onwkyie3nqyiq6wq1</sha1>
+    </revision>
+    <revision>
+      <id>189</id>
+      <parentid>188</parentid>
+      <timestamp>2022-11-02T01:00:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Nutzername erstellen */</comment>
+      <origin>189</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="620" sha1="njc9y6xhgyhhyj7tyvgi6mcrqn7zuub" xml:space="preserve">==Windows==
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser -U Nutzername Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -U postgres-E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+==Ubuntu==
+===Admin Bereich===
+&lt;pre&gt;
+sudo -u postgres -i
+&lt;/pre&gt;
+===Neue Ubuntu Nutzer erstellen===
+
+&lt;pre&gt;
+sudo -i 
+adduser Nutzername 
+usermod -aG sudo Nutzername
+
+&lt;/pre&gt;
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+===Neue Ubuntu Nutzer erstellen===
+
+&lt;pre&gt;
+sudo -i 
+adduser Nutzername 
+usermod -aG sudo Nutzername
+
+&lt;/pre&gt;</text>
+      <sha1>njc9y6xhgyhhyj7tyvgi6mcrqn7zuub</sha1>
+    </revision>
+    <revision>
+      <id>190</id>
+      <parentid>189</parentid>
+      <timestamp>2022-11-02T01:01:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Ubuntu */</comment>
+      <origin>190</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="727" sha1="tmv8j96breyshfcpu0hw30b5i4uwxzj" xml:space="preserve">==Windows==
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser -U Nutzername Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -U postgres-E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+==Ubuntu==
+===Neue Ubuntu Nutzer erstellen===
+
+&lt;pre&gt;
+sudo -i 
+adduser Nutzername 
+usermod -aG sudo Nutzername
+
+&lt;/pre&gt;
+===Admin Bereich===
+&lt;pre&gt;
+sudo -u postgres -i
+&lt;/pre&gt;
+===Neue Ubuntu Nutzer erstellen===
+
+&lt;pre&gt;
+sudo -i 
+adduser Nutzername 
+usermod -aG sudo Nutzername
+
+&lt;/pre&gt;
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+===Neue Ubuntu Nutzer erstellen===
+
+&lt;pre&gt;
+sudo -i 
+adduser Nutzername 
+usermod -aG sudo Nutzername
+
+&lt;/pre&gt;</text>
+      <sha1>tmv8j96breyshfcpu0hw30b5i4uwxzj</sha1>
+    </revision>
+    <revision>
+      <id>191</id>
+      <parentid>190</parentid>
+      <timestamp>2022-11-02T01:02:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Neue Ubuntu Nutzer erstellen */</comment>
+      <origin>191</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="620" sha1="67qc2wx69pk4llvhiunkcwz605f4giv" xml:space="preserve">==Windows==
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser -U Nutzername Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -U postgres-E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+==Ubuntu==
+===Neue Ubuntu Nutzer erstellen===
+
+&lt;pre&gt;
+sudo -i 
+adduser Nutzername 
+usermod -aG sudo Nutzername
+
+&lt;/pre&gt;
+===Admin Bereich===
+&lt;pre&gt;
+sudo -u postgres -i
+&lt;/pre&gt;
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+===Neue Ubuntu Nutzer erstellen===
+
+&lt;pre&gt;
+sudo -i 
+adduser Nutzername 
+usermod -aG sudo Nutzername
+
+&lt;/pre&gt;</text>
+      <sha1>67qc2wx69pk4llvhiunkcwz605f4giv</sha1>
+    </revision>
+    <revision>
+      <id>192</id>
+      <parentid>191</parentid>
+      <timestamp>2022-11-02T01:02:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Neue Ubuntu Nutzer erstellen */</comment>
+      <origin>192</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="513" sha1="8mycskw6w7d58ol5ybai5ok2obt0o7d" xml:space="preserve">==Windows==
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser -U Nutzername Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -U postgres-E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+==Ubuntu==
+===Neue Ubuntu Nutzer erstellen===
+
+&lt;pre&gt;
+sudo -i 
+adduser Nutzername 
+usermod -aG sudo Nutzername
+
+&lt;/pre&gt;
+===Admin Bereich===
+&lt;pre&gt;
+sudo -u postgres -i
+&lt;/pre&gt;
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;</text>
+      <sha1>8mycskw6w7d58ol5ybai5ok2obt0o7d</sha1>
+    </revision>
+    <revision>
+      <id>193</id>
+      <parentid>192</parentid>
+      <timestamp>2022-11-02T01:27:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Nutzername erstellen */</comment>
+      <origin>193</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="511" sha1="kr2qnav41p60lx5p7b1e3vn3ml9oxt2" xml:space="preserve">==Windows==
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser -U postgres Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -U postgres-E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+==Ubuntu==
+===Neue Ubuntu Nutzer erstellen===
+
+&lt;pre&gt;
+sudo -i 
+adduser Nutzername 
+usermod -aG sudo Nutzername
+
+&lt;/pre&gt;
+===Admin Bereich===
+&lt;pre&gt;
+sudo -u postgres -i
+&lt;/pre&gt;
+===Nutzername erstellen===
+&lt;pre&gt; 
+createuser Nutzername
+&lt;/pre&gt;
+
+===Neue Datenbank erstellen===
+&lt;pre&gt;
+createdb -E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;</text>
+      <sha1>kr2qnav41p60lx5p7b1e3vn3ml9oxt2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rust:Webprogrammieren:Hallo Welt</title>
+    <ns>0</ns>
+    <id>48</id>
+    <revision>
+      <id>200</id>
+      <timestamp>2022-11-02T19:22:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; #[actix_web::get("/")] async fn hallo() -&gt; impl    actix_web::Responder {     actix_web::HttpResponse::Ok().body("Hallo Welt") }  #[actix_web::main] async fn main() -&gt; std::io::Result&lt;()&gt; {     actix_web::HttpServer::new(|| {         actix_web::App::new()             .service(hallo)      })         .bind(("127.0.0.1", 8080))?         .run()         .await }  &lt;/pre&gt;“</comment>
+      <origin>200</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="373" sha1="tecfg7bb20i6yjizc4c8i333bt53nds" xml:space="preserve">&lt;pre&gt;
+#[actix_web::get("/")]
+async fn hallo() -&gt; impl    actix_web::Responder {
+    actix_web::HttpResponse::Ok().body("Hallo Welt")
+}
+
+#[actix_web::main]
+async fn main() -&gt; std::io::Result&lt;()&gt; {
+    actix_web::HttpServer::new(|| {
+        actix_web::App::new()
+            .service(hallo)
+
+    })
+        .bind(("127.0.0.1", 8080))?
+        .run()
+        .await
+}
+
+&lt;/pre&gt;</text>
+      <sha1>tecfg7bb20i6yjizc4c8i333bt53nds</sha1>
+    </revision>
+    <revision>
+      <id>201</id>
+      <parentid>200</parentid>
+      <timestamp>2022-11-02T19:24:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>201</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="397" sha1="dersq6f0eostyz74v70wsq06m945d79" xml:space="preserve">* http://localhost:8080
+&lt;pre&gt;
+#[actix_web::get("/")]
+async fn hallo() -&gt; impl    actix_web::Responder {
+    actix_web::HttpResponse::Ok().body("Hallo Welt")
+}
+
+#[actix_web::main]
+async fn main() -&gt; std::io::Result&lt;()&gt; {
+    actix_web::HttpServer::new(|| {
+        actix_web::App::new()
+            .service(hallo)
+
+    })
+        .bind(("127.0.0.1", 8080))?
+        .run()
+        .await
+}
+
+&lt;/pre&gt;</text>
+      <sha1>dersq6f0eostyz74v70wsq06m945d79</sha1>
     </revision>
   </page>
 </mediawiki>
