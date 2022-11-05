@@ -2071,6 +2071,277 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
 * [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
       <sha1>s23gec16os7i40vpihy6624t1c6ide8</sha1>
     </revision>
+    <revision>
+      <id>208</id>
+      <parentid>207</parentid>
+      <timestamp>2022-11-03T17:12:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>208</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1017" sha1="tw3dhdzeple3jhw3oaaq12wdk008vtt" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Rust]] - [[Go]] - [[Javascript]] - [[Datenbank]] - [[Java]] - [[Python]] - [[Kotlin]] - [[TypeScript]] - [[Lua]] - [[Net Core]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>tw3dhdzeple3jhw3oaaq12wdk008vtt</sha1>
+    </revision>
+    <revision>
+      <id>209</id>
+      <parentid>208</parentid>
+      <timestamp>2022-11-03T20:19:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>209</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1002" sha1="s23gec16os7i40vpihy6624t1c6ide8" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Rust]] - [[Go]] - [[Javascript]] - [[Datenbank]] - [[Java]] - [[Python]] - [[Kotlin]] - [[TypeScript]] - [[Lua]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>s23gec16os7i40vpihy6624t1c6ide8</sha1>
+    </revision>
+    <revision>
+      <id>210</id>
+      <parentid>209</parentid>
+      <timestamp>2022-11-03T20:44:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>210</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1017" sha1="tw3dhdzeple3jhw3oaaq12wdk008vtt" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Rust]] - [[Go]] - [[Javascript]] - [[Datenbank]] - [[Java]] - [[Python]] - [[Kotlin]] - [[TypeScript]] - [[Lua]] - [[Net Core]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>tw3dhdzeple3jhw3oaaq12wdk008vtt</sha1>
+    </revision>
+    <revision>
+      <id>211</id>
+      <parentid>210</parentid>
+      <timestamp>2022-11-03T21:12:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>211</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1002" sha1="s23gec16os7i40vpihy6624t1c6ide8" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Rust]] - [[Go]] - [[Javascript]] - [[Datenbank]] - [[Java]] - [[Python]] - [[Kotlin]] - [[TypeScript]] - [[Lua]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>s23gec16os7i40vpihy6624t1c6ide8</sha1>
+    </revision>
+    <revision>
+      <id>212</id>
+      <parentid>211</parentid>
+      <timestamp>2022-11-03T21:34:27Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>212</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1017" sha1="tw3dhdzeple3jhw3oaaq12wdk008vtt" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Rust]] - [[Go]] - [[Javascript]] - [[Datenbank]] - [[Java]] - [[Python]] - [[Kotlin]] - [[TypeScript]] - [[Lua]] - [[Net Core]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>tw3dhdzeple3jhw3oaaq12wdk008vtt</sha1>
+    </revision>
+    <revision>
+      <id>213</id>
+      <parentid>212</parentid>
+      <timestamp>2022-11-04T13:36:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>213</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1002" sha1="s23gec16os7i40vpihy6624t1c6ide8" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Rust]] - [[Go]] - [[Javascript]] - [[Datenbank]] - [[Java]] - [[Python]] - [[Kotlin]] - [[TypeScript]] - [[Lua]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>s23gec16os7i40vpihy6624t1c6ide8</sha1>
+    </revision>
+    <revision>
+      <id>214</id>
+      <parentid>213</parentid>
+      <timestamp>2022-11-04T20:08:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>214</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="921" sha1="6kehf5tbad5g2m4t45gp8z6syjvauco" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Rust]] - [[Go]] - [[Datenbank]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>6kehf5tbad5g2m4t45gp8z6syjvauco</sha1>
+    </revision>
+    <revision>
+      <id>218</id>
+      <parentid>214</parentid>
+      <timestamp>2022-11-05T02:02:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>218</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="947" sha1="kdytz0n569ypmjedwu5v7nac2le261n" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Rust]] - [[Go]] - [[Datenbank]] -[[Lua]] - [[Javascript]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>kdytz0n569ypmjedwu5v7nac2le261n</sha1>
+    </revision>
   </page>
   <page>
     <title>Ahrensburg.dev:Impressum</title>
@@ -3618,6 +3889,27 @@ func main() {
 ==Webprogrammieren==
 * [[Rust:Webprogrammieren:Hallo Welt]]</text>
       <sha1>glvi4xd419usgucuj1lgs2no76b6q5g</sha1>
+    </revision>
+    <revision>
+      <id>215</id>
+      <parentid>199</parentid>
+      <timestamp>2022-11-04T23:59:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Konsole */</comment>
+      <origin>215</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="117" sha1="e2nr9v40ukpa1v4ubpz7f3w2cja9heh" xml:space="preserve">==Konsole==
+
+* [[Rust:Hallo Welt]]
+* [[Rust:Datentypen]]
+
+==Webprogrammieren==
+* [[Rust:Webprogrammieren:Hallo Welt]]</text>
+      <sha1>e2nr9v40ukpa1v4ubpz7f3w2cja9heh</sha1>
     </revision>
   </page>
   <page>
@@ -6558,6 +6850,101 @@ async fn main() -&gt; std::io::Result&lt;()&gt; {
 
 &lt;/pre&gt;</text>
       <sha1>dersq6f0eostyz74v70wsq06m945d79</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rust:Datentypen</title>
+    <ns>0</ns>
+    <id>49</id>
+    <revision>
+      <id>216</id>
+      <timestamp>2022-11-05T00:12:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ ==unverändert Variable== ===Wahrheitswerte===     &lt;pre&gt;     let variablr:bool; &lt;/pre&gt; ===Ganzezahlen=== &lt;pre&gt;     let variable:i8; // Byte 8 Postiv und Negativ Zahlen     let variable:i16; //Byte 16 Postiv und Negativ Zahlen     let variable:i32; //Byte 32 Postiv und Negativ Zahlen     let variable:i64; //Byte 64 Postiv und Negativ Zahlen     let variable:i128; //Byte 128 Postiv und Negativ Zahlen      let variable:u8; //Byte 8 Postiv Zahlen     let var…“</comment>
+      <origin>216</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="814" sha1="g78svteu3aph42x683jon12rq9b91c7" xml:space="preserve">
+==unverändert Variable==
+===Wahrheitswerte===
+    &lt;pre&gt;
+    let variablr:bool;
+&lt;/pre&gt;
+===Ganzezahlen===
+&lt;pre&gt;
+    let variable:i8; // Byte 8 Postiv und Negativ Zahlen
+    let variable:i16; //Byte 16 Postiv und Negativ Zahlen
+    let variable:i32; //Byte 32 Postiv und Negativ Zahlen
+    let variable:i64; //Byte 64 Postiv und Negativ Zahlen
+    let variable:i128; //Byte 128 Postiv und Negativ Zahlen
+
+    let variable:u8; //Byte 8 Postiv Zahlen
+    let variable:u16; //Byte 16 Postiv Zahlen
+    let variable:u32; //Byte 32 Postiv Zahlen
+    let variable:u64; //Byte 64 Postiv Zahlen
+    let variable:u128; //Byte 128 Postiv Zahlen
+    &lt;/pre&gt;
+===Kommazahlen===
+    &lt;pre&gt;
+    let variable:f32; // Byte 32
+    let variable:f64; // Byte 64
+&lt;/pre&gt;
+    
+==verändert Variabe==
+    &lt;pre&gt;
+    let mut variable; 
+
+&lt;/pre&gt;</text>
+      <sha1>g78svteu3aph42x683jon12rq9b91c7</sha1>
+    </revision>
+    <revision>
+      <id>217</id>
+      <parentid>216</parentid>
+      <timestamp>2022-11-05T00:40:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Wahrheitswerte */</comment>
+      <origin>217</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="815" sha1="3e0wetrkrhivq1wd867ojtefkbb523l" xml:space="preserve">
+==unverändert Variable==
+===Wahrheitswerte===
+    &lt;pre&gt;
+    let variable:bool;
+&lt;/pre&gt;
+
+===Ganzezahlen===
+&lt;pre&gt;
+    let variable:i8; // Byte 8 Postiv und Negativ Zahlen
+    let variable:i16; //Byte 16 Postiv und Negativ Zahlen
+    let variable:i32; //Byte 32 Postiv und Negativ Zahlen
+    let variable:i64; //Byte 64 Postiv und Negativ Zahlen
+    let variable:i128; //Byte 128 Postiv und Negativ Zahlen
+
+    let variable:u8; //Byte 8 Postiv Zahlen
+    let variable:u16; //Byte 16 Postiv Zahlen
+    let variable:u32; //Byte 32 Postiv Zahlen
+    let variable:u64; //Byte 64 Postiv Zahlen
+    let variable:u128; //Byte 128 Postiv Zahlen
+    &lt;/pre&gt;
+===Kommazahlen===
+    &lt;pre&gt;
+    let variable:f32; // Byte 32
+    let variable:f64; // Byte 64
+&lt;/pre&gt;
+    
+==verändert Variabe==
+    &lt;pre&gt;
+    let mut variable; 
+
+&lt;/pre&gt;</text>
+      <sha1>3e0wetrkrhivq1wd867ojtefkbb523l</sha1>
     </revision>
   </page>
 </mediawiki>
