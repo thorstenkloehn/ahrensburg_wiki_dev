@@ -2918,6 +2918,155 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
 * [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
       <sha1>6cbrwflpijqtoii131joyrr52lorqvw</sha1>
     </revision>
+    <revision>
+      <id>301</id>
+      <parentid>281</parentid>
+      <timestamp>2022-11-12T09:42:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>301</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="968" sha1="of2loa8hdgaiuh0b3u5fvc2ah9houzw" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Biblothek==
+* [[C++:Boots]]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Rust]] - [[Go]] - [[Datenbank]] - [[Javascript]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>of2loa8hdgaiuh0b3u5fvc2ah9houzw</sha1>
+    </revision>
+    <revision>
+      <id>302</id>
+      <parentid>301</parentid>
+      <timestamp>2022-11-12T09:50:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Biblothek */</comment>
+      <origin>302</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="991" sha1="awc8iv8k3eq9ywsasgczgi7xwvp5ugr" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Bibliothek==
+===C++===
+* [[Bibliothek:C++:Boost]]
+
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Rust]] - [[Go]] - [[Datenbank]] - [[Javascript]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>awc8iv8k3eq9ywsasgczgi7xwvp5ugr</sha1>
+    </revision>
+    <revision>
+      <id>321</id>
+      <parentid>302</parentid>
+      <timestamp>2022-11-13T00:02:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>321</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1003" sha1="ehka50cc2bp97mgtntusu72iexm8hdv" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Bibliothek==
+===C++===
+* [[Bibliothek:C++:Boost]]
+
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Rust]] - [[Go]] - [[Datenbank]] - [[Javascript]] - [[nginx]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>ehka50cc2bp97mgtntusu72iexm8hdv</sha1>
+    </revision>
+    <revision>
+      <id>330</id>
+      <parentid>321</parentid>
+      <timestamp>2022-11-13T01:40:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>330</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1004" sha1="2cg4ieta08cbejbsvl2z20fea8nxmx2" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Bibliothek==
+===C++===
+* [[Bibliothek:C++:Boost]]
+
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] -  [[Go]] - [[Rust]] - [[Datenbank]] - [[Javascript]] - [[nginx]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>2cg4ieta08cbejbsvl2z20fea8nxmx2</sha1>
+    </revision>
   </page>
   <page>
     <title>Ahrensburg.dev:Impressum</title>
@@ -4148,6 +4297,84 @@ sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.or
 * [[C++:Webassembly:Hallo Welt]]</text>
       <sha1>ckipewm30ctvced9d7qm2rfxr2f3thy</sha1>
     </revision>
+    <revision>
+      <id>304</id>
+      <parentid>159</parentid>
+      <timestamp>2022-11-12T11:40:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Console */</comment>
+      <origin>304</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="193" sha1="rq8l8vp3zyuf7v99q4x8cd7s9eyis9w" xml:space="preserve">==Console==
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+
+==Webseiten Programmieren==
+
+* [[C++:Webprogrammieren:Hallo Welt]]
+
+==Webassembly==
+
+* [[C++:Webassembly:Hallo Welt]]</text>
+      <sha1>rq8l8vp3zyuf7v99q4x8cd7s9eyis9w</sha1>
+    </revision>
+    <revision>
+      <id>306</id>
+      <parentid>304</parentid>
+      <timestamp>2022-11-12T14:56:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>306</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="202" sha1="haef5wpgovrgd0vsbj2kfh8nzsvxfl7" xml:space="preserve">==Console==
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+
+==Webseiten Programmieren==
+
+* [[C++:Webprogrammieren:Hallo Welt]]
+* [[C++:
+
+==Webassembly==
+
+* [[C++:Webassembly:Hallo Welt]]</text>
+      <sha1>haef5wpgovrgd0vsbj2kfh8nzsvxfl7</sha1>
+    </revision>
+    <revision>
+      <id>307</id>
+      <parentid>306</parentid>
+      <timestamp>2022-11-12T14:57:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>307</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="gre6gn2n542ozk75qpzfludkygvqnin" xml:space="preserve">==Console==
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+
+==Webseiten Programmieren==
+
+* [[C++:Webprogrammieren:Hallo Welt]]
+* [[C++:Webprogrammieren:WerteAusgabe]]
+
+==Webassembly==
+
+* [[C++:Webassembly:Hallo Welt]]</text>
+      <sha1>gre6gn2n542ozk75qpzfludkygvqnin</sha1>
+    </revision>
   </page>
   <page>
     <title>C++:Hallo Welt</title>
@@ -4452,6 +4679,46 @@ fun main() {
 * [[Go:Webprogrammieren:Hallo Welt]]</text>
       <sha1>sj8bnp81pruple55ing49pskhzjqmxn</sha1>
     </revision>
+    <revision>
+      <id>326</id>
+      <parentid>230</parentid>
+      <timestamp>2022-11-13T01:10:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Webprogrammieren */</comment>
+      <origin>326</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="153" sha1="eoosbt4zlvvk8gy635zvx1pieejxfp6" xml:space="preserve">==Console==
+* [[Go:Hallo Welt]]
+* [[Go:Datentypen]]
+==Webprogrammieren==
+* [[Go:Webprogrammieren:Hallo Welt]]
+* [[Go:Webprogrammieren:Hallo Welt:Cookie]]</text>
+      <sha1>eoosbt4zlvvk8gy635zvx1pieejxfp6</sha1>
+    </revision>
+    <revision>
+      <id>331</id>
+      <parentid>326</parentid>
+      <timestamp>2022-11-13T01:46:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>331</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="173" sha1="6f6669fq4wuk3rhdpuse6xakvte4dc6" xml:space="preserve">==Console==
+* [[Go:Hallo Welt]]
+* [[Go:Datentypen]]
+* [[Go:Konstanten]]
+==Webprogrammieren==
+* [[Go:Webprogrammieren:Hallo Welt]]
+* [[Go:Webprogrammieren:Hallo Welt:Cookie]]</text>
+      <sha1>6f6669fq4wuk3rhdpuse6xakvte4dc6</sha1>
+    </revision>
   </page>
   <page>
     <title>Go:Hallo Welt</title>
@@ -4573,6 +4840,29 @@ func main() {
 * [[Rust:Webprogrammieren:Hallo Welt]]
 * [[Rust:Webprogrammierung:Cookie]]</text>
       <sha1>2hvv4h1t3t6w1uggpp65j3rm01vc5ft</sha1>
+    </revision>
+    <revision>
+      <id>334</id>
+      <parentid>286</parentid>
+      <timestamp>2022-11-13T21:18:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Konsole */</comment>
+      <origin>334</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="175" sha1="dov5tr658asiopqwc5p34raf01bhj89" xml:space="preserve">==Konsole==
+
+* [[Rust:Hallo Welt]]
+* [[Rust:Datentypen]]
+* [[Rust:Konstanten]]
+
+==Webprogrammieren==
+* [[Rust:Webprogrammieren:Hallo Welt]]
+* [[Rust:Webprogrammierung:Cookie]]</text>
+      <sha1>dov5tr658asiopqwc5p34raf01bhj89</sha1>
     </revision>
   </page>
   <page>
@@ -5366,6 +5656,34 @@ target_link_libraries((der Projekt name) fcgi)
 * [[C:Webassembly:Installieren]]
 * [[C:Webassembly:Hallo Welt]]</text>
       <sha1>0y5kx8qlelfg7zjf354ejlszn6861m8</sha1>
+    </revision>
+    <revision>
+      <id>333</id>
+      <parentid>294</parentid>
+      <timestamp>2022-11-13T14:05:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>333</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="295" sha1="tnphz584rq1ugdt7xuhjrg2d2ap9gzv" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+* [[C:Konstanten]]
+
+== Webprogrammieren==
+* [[C:Webprogrammieren:Installieren]]
+* [[C:Webprogrammieren:Hallo Welt]]
+* [[C:Webprogrammieren:WerteAusgabe]]
+
+
+== Webassembly==
+* [[C:Webassembly:Installieren]]
+* [[C:Webassembly:Hallo Welt]]</text>
+      <sha1>tnphz584rq1ugdt7xuhjrg2d2ap9gzv</sha1>
     </revision>
   </page>
   <page>
@@ -9123,6 +9441,445 @@ Set-Cookie: cookieName=cookieValue; Secure
 &lt;/pre&gt;</text>
       <sha1>mq8tw10yzadoaeys0uc2nqw69tm5jbk</sha1>
     </revision>
+    <revision>
+      <id>310</id>
+      <parentid>285</parentid>
+      <timestamp>2022-11-12T15:27:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>310</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="458" sha1="oxemvpiunoy941sfx8cq9v2hc6ed9ox" xml:space="preserve">&lt;pre&gt;
+#include &lt;fcgi_stdio.h&gt;
+#include &lt;stdlib.h&gt;
+void test();
+int main() {
+    while (FCGI_Accept() &gt;= 0)
+        test();
+    return 0;
+}
+
+void test() {
+    printf("Set-Cookie: cookieName=thorsten; Secure\r\n");
+    printf("Content-type: text/html\r\n");
+    printf("\r\n");
+    printf("&lt;html&gt;");
+    if (getenv("HTTP_COOKIE") !=NULL){
+        printf("%s\n", getenv("HTTP_COOKIE"));
+    } else {
+        printf("Cookie ist nicht gesetzt\n");
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>oxemvpiunoy941sfx8cq9v2hc6ed9ox</sha1>
+    </revision>
+    <revision>
+      <id>311</id>
+      <parentid>310</parentid>
+      <timestamp>2022-11-12T15:30:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>311</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="479" sha1="mbvyl0tw3ew3ypptxjd6hg6l4lidmrn" xml:space="preserve">==Cookie setzen==
+&lt;pre&gt;
+#include &lt;fcgi_stdio.h&gt;
+#include &lt;stdlib.h&gt;
+void test();
+int main() {
+    while (FCGI_Accept() &gt;= 0)
+        test();
+    return 0;
+}
+
+void test() {
+    printf("Set-Cookie: cookieName=thorsten\r\n");
+    printf("Content-type: text/html\r\n");
+    printf("\r\n");
+    printf("&lt;html&gt;");
+    if (getenv("HTTP_COOKIE") !=NULL){
+        printf("%s\n", getenv("HTTP_COOKIE"));
+    } else {
+        printf("Cookie ist nicht gesetzt\n");
+    }
+}
+
+&lt;/pre&gt;
+
+== Cookie</text>
+      <sha1>mbvyl0tw3ew3ypptxjd6hg6l4lidmrn</sha1>
+    </revision>
+    <revision>
+      <id>312</id>
+      <parentid>311</parentid>
+      <timestamp>2022-11-12T15:31:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Cookie setzen */</comment>
+      <origin>312</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="481" sha1="tgtajei2j9sdqzgs8e7n7ahi3vadi21" xml:space="preserve">==Cookie setzen==
+#include &lt;fcgi_stdio.h&gt;
+#include &lt;stdlib.h&gt;
+void test();
+int main() {
+    while (FCGI_Accept() &gt;= 0)
+        test();
+    return 0;
+}
+
+void test() {
+    printf("Set-Cookie: cookieName=thorsten; Secure\r\n");
+    printf("Content-type: text/html\r\n");
+    printf("\r\n");
+    printf("&lt;html&gt;");
+    if (getenv("HTTP_COOKIE") !=NULL){
+        printf("%s\n", getenv("HTTP_COOKIE"));
+    } else {
+        printf("Cookie ist nicht gesetzt\n");
+    }
+}
+
+== Cookie lesen==</text>
+      <sha1>tgtajei2j9sdqzgs8e7n7ahi3vadi21</sha1>
+    </revision>
+    <revision>
+      <id>313</id>
+      <parentid>312</parentid>
+      <timestamp>2022-11-12T15:31:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>313</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="494" sha1="pncepvynps3agb7lstdts8cr8amthai" xml:space="preserve">==Cookie setzen==
+&lt;pre&gt;
+#include &lt;fcgi_stdio.h&gt;
+#include &lt;stdlib.h&gt;
+void test();
+int main() {
+    while (FCGI_Accept() &gt;= 0)
+        test();
+    return 0;
+}
+
+void test() {
+    printf("Set-Cookie: cookieName=thorsten; Secure\r\n");
+    printf("Content-type: text/html\r\n");
+    printf("\r\n");
+    printf("&lt;html&gt;");
+    if (getenv("HTTP_COOKIE") !=NULL){
+        printf("%s\n", getenv("HTTP_COOKIE"));
+    } else {
+        printf("Cookie ist nicht gesetzt\n");
+    }
+}
+&lt;/pre&gt;
+
+== Cookie lesen==</text>
+      <sha1>pncepvynps3agb7lstdts8cr8amthai</sha1>
+    </revision>
+    <revision>
+      <id>314</id>
+      <parentid>313</parentid>
+      <timestamp>2022-11-12T15:32:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>314</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="347" sha1="mlijj2cfn6p3enqjxe6ekb4r2cuvijc" xml:space="preserve">==Cookie setzen==
+&lt;pre&gt;
+#include &lt;fcgi_stdio.h&gt;
+#include &lt;stdlib.h&gt;
+void test();
+int main() {
+    while (FCGI_Accept() &gt;= 0)
+        test();
+    return 0;
+}
+
+void test() {
+    printf("Set-Cookie: cookieName=thorsten; Secure\r\n");
+    printf("Content-type: text/html\r\n");
+    printf("\r\n");
+    printf("&lt;html&gt;");
+   
+}
+&lt;/pre&gt;
+
+== Cookie lesen==</text>
+      <sha1>mlijj2cfn6p3enqjxe6ekb4r2cuvijc</sha1>
+    </revision>
+    <revision>
+      <id>315</id>
+      <parentid>314</parentid>
+      <timestamp>2022-11-12T15:33:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>315</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="373" sha1="nsmwu3iwbh66mlvdkuzyr7wzwfdr2v5" xml:space="preserve">==Cookie setzen==
+&lt;pre&gt;
+#include &lt;fcgi_stdio.h&gt;
+#include &lt;stdlib.h&gt;
+void test();
+int main() {
+    while (FCGI_Accept() &gt;= 0)
+        test();
+    return 0;
+}
+
+void test() {
+    printf("Set-Cookie: cookieName=thorsten; Secure\r\n");
+    printf("Content-type: text/html\r\n");
+    printf("\r\n");
+    printf("&lt;html&gt;");
+    printf("Hallo Welt");
+   
+}
+&lt;/pre&gt;
+
+== Cookie lesen==</text>
+      <sha1>nsmwu3iwbh66mlvdkuzyr7wzwfdr2v5</sha1>
+    </revision>
+    <revision>
+      <id>316</id>
+      <parentid>315</parentid>
+      <timestamp>2022-11-12T15:34:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>316</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="340" sha1="fhugqiu2dl15fqqk0eq48rhdv881p87" xml:space="preserve">==Cookie setzen==
+&lt;pre&gt;
+#include &lt;fcgi_stdio.h&gt;
+#include &lt;stdlib.h&gt;
+void test();
+int main() {
+    while (FCGI_Accept() &gt;= 0)
+        printf("Set-Cookie: cookieName=thorsten; Secure\r\n");
+    printf("Content-type: text/html\r\n");
+    printf("\r\n");
+    printf("&lt;html&gt;");
+    printf("Hallo Welt");
+    return 0;
+}
+&lt;/pre&gt;
+
+== Cookie lesen==</text>
+      <sha1>fhugqiu2dl15fqqk0eq48rhdv881p87</sha1>
+    </revision>
+    <revision>
+      <id>317</id>
+      <parentid>316</parentid>
+      <timestamp>2022-11-12T15:36:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>317</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="707" sha1="93x9gbb55zg81u81y1crl5scnki3u84" xml:space="preserve">==Cookie setzen==
+&lt;pre&gt;
+#include &lt;fcgi_stdio.h&gt;
+#include &lt;stdlib.h&gt;
+void test();
+int main() {
+    while (FCGI_Accept() &gt;= 0)
+        printf("Set-Cookie: cookieName=thorsten; Secure\r\n");
+    printf("Content-type: text/html\r\n");
+    printf("\r\n");
+    printf("&lt;html&gt;");
+    printf("Hallo Welt");
+    return 0;
+}
+&lt;/pre&gt;
+
+== Cookie lesen==
+&lt;pre&gt;
+#include &lt;fcgi_stdio.h&gt;
+#include &lt;stdlib.h&gt;
+void test();
+int main() {
+    while (FCGI_Accept() &gt;= 0)
+    printf("Content-type: text/html\r\n");
+    printf("\r\n");
+    printf("&lt;html&gt;");
+     if (getenv("HTTP_COOKIE") !=NULL){
+        printf("%s\n", getenv("HTTP_COOKIE"));
+    } else {
+        printf("Cookie ist nicht gesetzt\n");
+    }
+    return 0;
+}
+&lt;/pre&gt;</text>
+      <sha1>93x9gbb55zg81u81y1crl5scnki3u84</sha1>
+    </revision>
+    <revision>
+      <id>318</id>
+      <parentid>317</parentid>
+      <timestamp>2022-11-12T15:39:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>318</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="692" sha1="lokfsy87budamo1t13ljv8osgrlyb9h" xml:space="preserve">==Cookie setzen==
+&lt;pre&gt;
+#include &lt;fcgi_stdio.h&gt;
+#include &lt;stdlib.h&gt;
+void test();
+int main() {
+    while (FCGI_Accept() &gt;= 0)
+        printf("Set-Cookie: cookie=wert;\r\n");
+    printf("Content-type: text/html\r\n");
+    printf("\r\n");
+    printf("&lt;html&gt;");
+    printf("Hallo Welt");
+    return 0;
+}
+&lt;/pre&gt;
+
+== Cookie lesen==
+&lt;pre&gt;
+#include &lt;fcgi_stdio.h&gt;
+#include &lt;stdlib.h&gt;
+void test();
+int main() {
+    while (FCGI_Accept() &gt;= 0)
+    printf("Content-type: text/html\r\n");
+    printf("\r\n");
+    printf("&lt;html&gt;");
+     if (getenv("HTTP_COOKIE") !=NULL){
+        printf("%s\n", getenv("HTTP_COOKIE"));
+    } else {
+        printf("Cookie ist nicht gesetzt\n");
+    }
+    return 0;
+}
+&lt;/pre&gt;</text>
+      <sha1>lokfsy87budamo1t13ljv8osgrlyb9h</sha1>
+    </revision>
+    <revision>
+      <id>319</id>
+      <parentid>318</parentid>
+      <timestamp>2022-11-12T15:40:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>319</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="691" sha1="pvw9aomo7tw4uvysmhz0y7bi9n4y2wk" xml:space="preserve">==Cookie setzen==
+&lt;pre&gt;
+#include &lt;fcgi_stdio.h&gt;
+#include &lt;stdlib.h&gt;
+void test();
+int main() {
+    while (FCGI_Accept() &gt;= 0)
+        printf("Set-Cookie: cookie=wert\r\n");
+    printf("Content-type: text/html\r\n");
+    printf("\r\n");
+    printf("&lt;html&gt;");
+    printf("Hallo Welt");
+    return 0;
+}
+&lt;/pre&gt;
+
+== Cookie lesen==
+&lt;pre&gt;
+#include &lt;fcgi_stdio.h&gt;
+#include &lt;stdlib.h&gt;
+void test();
+int main() {
+    while (FCGI_Accept() &gt;= 0)
+    printf("Content-type: text/html\r\n");
+    printf("\r\n");
+    printf("&lt;html&gt;");
+     if (getenv("HTTP_COOKIE") !=NULL){
+        printf("%s\n", getenv("HTTP_COOKIE"));
+    } else {
+        printf("Cookie ist nicht gesetzt\n");
+    }
+    return 0;
+}
+&lt;/pre&gt;</text>
+      <sha1>pvw9aomo7tw4uvysmhz0y7bi9n4y2wk</sha1>
+    </revision>
+    <revision>
+      <id>320</id>
+      <parentid>319</parentid>
+      <timestamp>2022-11-12T16:27:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Cookie lesen */</comment>
+      <origin>320</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="682" sha1="t5boriduno6qasi1a4no2dcik9yi6np" xml:space="preserve">==Cookie setzen==
+&lt;pre&gt;
+#include &lt;fcgi_stdio.h&gt;
+#include &lt;stdlib.h&gt;
+void test();
+int main() {
+    while (FCGI_Accept() &gt;= 0)
+        printf("Set-Cookie: cookie=wert\r\n");
+    printf("Content-type: text/html\r\n");
+    printf("\r\n");
+    printf("&lt;html&gt;");
+    printf("Hallo Welt");
+    return 0;
+}
+&lt;/pre&gt;
+
+== Cookie lesen==
+&lt;pre&gt;
+#include &lt;fcgi_stdio.h&gt;
+#include &lt;stdlib.h&gt;
+void test();
+int main() {
+    while (FCGI_Accept() &gt;= 0) {
+    printf("Content-type: text/html\r\n");
+    printf("\r\n");
+    printf("&lt;html&gt;");
+     if (getenv("HTTP_COOKIE") !=NULL){
+        printf("%s\n", getenv("HTTP_COOKIE"));
+    } else {
+        printf("kein Cookie\n");
+    }
+}
+    return 0;
+}
+&lt;/pre&gt;</text>
+      <sha1>t5boriduno6qasi1a4no2dcik9yi6np</sha1>
+    </revision>
   </page>
   <page>
     <title>Rust:Webprogrammierung:Cookie</title>
@@ -9242,6 +9999,46 @@ async fn main() -&gt; std::io::Result&lt;()&gt; {
 &lt;/pre&gt;</text>
       <sha1>d7g1ygkoh9x23jdsuhay9sfe5j3kip7</sha1>
     </revision>
+    <revision>
+      <id>328</id>
+      <parentid>289</parentid>
+      <timestamp>2022-11-13T01:18:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Hallo mit Cookie erstellen */</comment>
+      <origin>328</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="481" sha1="l6io3x7wl251af0ff7twdhso0wofs1o" xml:space="preserve">==Hallo mit Cookie erstellen==
+
+* localhost:8080
+
+&lt;pre&gt;
+#[actix_web::get("/")]
+async fn hallo()-&gt; impl actix_web::Responder {
+    actix_web::HttpResponse::Ok()
+        .insert_header(("Set-Cookie"," name=wert"))
+        .body("Hallo Welt")
+}
+
+#[actix_web::main]
+async fn main() -&gt; std::io::Result&lt;()&gt; {
+    actix_web::HttpServer::new(|| {
+        actix_web::App::new()
+            .service(hallo)
+    })
+        .bind(("127.0.0.1", 8080))?
+        .run()
+        .await
+
+
+}
+
+&lt;/pre&gt;</text>
+      <sha1>l6io3x7wl251af0ff7twdhso0wofs1o</sha1>
+    </revision>
   </page>
   <page>
     <title>C:Konstanten</title>
@@ -9262,6 +10059,378 @@ async fn main() -&gt; std::io::Result&lt;()&gt; {
 const datentypen daten;
 &lt;/pre&gt;</text>
       <sha1>7hg9gjo7r5b8c8lur1se0ic4y4dmjre</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bibliothek:C++:Boost</title>
+    <ns>0</ns>
+    <id>66</id>
+    <revision>
+      <id>303</id>
+      <timestamp>2022-11-12T09:55:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Installieren==  &lt;pre&gt; sudo apt-get install libboost-all-dev &lt;/pre&gt;“</comment>
+      <origin>303</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="68" sha1="0myfzyt1220c6xfbbo41ginkuikb3v0" xml:space="preserve">==Installieren==
+
+&lt;pre&gt;
+sudo apt-get install libboost-all-dev
+&lt;/pre&gt;</text>
+      <sha1>0myfzyt1220c6xfbbo41ginkuikb3v0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++:Konstanten</title>
+    <ns>0</ns>
+    <id>67</id>
+    <revision>
+      <id>305</id>
+      <timestamp>2022-11-12T11:47:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;   const datentypen variable=wert;   &lt;/pre&gt;“</comment>
+      <origin>305</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="48" sha1="ikzho8undsimbo9xbl3imlbuenr9283" xml:space="preserve">&lt;pre&gt;
+
+ const datentypen variable=wert; 
+
+&lt;/pre&gt;</text>
+      <sha1>ikzho8undsimbo9xbl3imlbuenr9283</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++:Webprogrammieren:WerteAusgabe</title>
+    <ns>0</ns>
+    <id>68</id>
+    <revision>
+      <id>308</id>
+      <timestamp>2022-11-12T15:01:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;  &lt;pre&gt; #include &lt;iostream&gt; #include "fcgio.h"  int main() { // Sichern Sie die stdio Strom     std::streambuf * cin_streambuf  = std::cin.rdbuf();     std::streambuf * cout_streambuf = std::cout.rdbuf();     std::streambuf * cerr_streambuf = std::cerr.rdbuf();       FCGX_Request request;      FCGX_Init();     FCGX_InitRequest(&amp;request, 0, 0);      while (FCGX_Accept_r(&amp;request) == 0) {         fcgi_streambuf cin_fcgi_streambuf(request.in);         f…“</comment>
+      <origin>308</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="997" sha1="deh7bd9s7aglht7vqnyntoo0ojcl138" xml:space="preserve">&lt;pre&gt;
+
+&lt;pre&gt;
+#include &lt;iostream&gt;
+#include "fcgio.h"
+
+int main() {
+// Sichern Sie die stdio Strom
+    std::streambuf * cin_streambuf  = std::cin.rdbuf();
+    std::streambuf * cout_streambuf = std::cout.rdbuf();
+    std::streambuf * cerr_streambuf = std::cerr.rdbuf();
+
+
+    FCGX_Request request;
+
+    FCGX_Init();
+    FCGX_InitRequest(&amp;request, 0, 0);
+
+    while (FCGX_Accept_r(&amp;request) == 0) {
+        fcgi_streambuf cin_fcgi_streambuf(request.in);
+        fcgi_streambuf cout_fcgi_streambuf(request.out);
+        fcgi_streambuf cerr_fcgi_streambuf(request.err);
+
+        std::cin.rdbuf(&amp;cin_fcgi_streambuf);
+        std::cout.rdbuf(&amp;cout_fcgi_streambuf);
+        std::cerr.rdbuf(&amp;cerr_fcgi_streambuf);
+
+        std::cout &lt;&lt; "Content-type: text/html\r\n";
+        std::cout &lt;&lt; "\r\n";
+        std::cout &lt;&lt; "Hallo Welt\r\n";
+    }
+
+    // restore stdio streambufs
+    std::cin.rdbuf(cin_streambuf);
+    std::cout.rdbuf(cout_streambuf);
+    std::cerr.rdbuf(cerr_streambuf);
+
+    return 0;
+}
+
+&lt;/pre&gt;</text>
+      <sha1>deh7bd9s7aglht7vqnyntoo0ojcl138</sha1>
+    </revision>
+    <revision>
+      <id>309</id>
+      <parentid>308</parentid>
+      <timestamp>2022-11-12T15:11:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>309</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1064" sha1="n6f2quugdj3rqto14pf76olmkwwyeih" xml:space="preserve">&lt;pre&gt;
+
+&lt;pre&gt;
+#include &lt;iostream&gt;
+#include "fcgio.h"
+
+int main() {
+// Sichern Sie die stdio Strom
+    std::streambuf * cin_streambuf  = std::cin.rdbuf();
+    std::streambuf * cout_streambuf = std::cout.rdbuf();
+    std::streambuf * cerr_streambuf = std::cerr.rdbuf();
+
+
+    FCGX_Request request;
+
+    FCGX_Init();
+    FCGX_InitRequest(&amp;request, 0, 0);
+
+    while (FCGX_Accept_r(&amp;request) == 0) {
+        fcgi_streambuf cin_fcgi_streambuf(request.in);
+        fcgi_streambuf cout_fcgi_streambuf(request.out);
+        fcgi_streambuf cerr_fcgi_streambuf(request.err);
+
+        std::cin.rdbuf(&amp;cin_fcgi_streambuf);
+        std::cout.rdbuf(&amp;cout_fcgi_streambuf);
+        std::cerr.rdbuf(&amp;cerr_fcgi_streambuf);
+
+        std::cout &lt;&lt; "Content-type: text/html\r\n";
+        std::cout &lt;&lt; "\r\n";
+        std::cout &lt;&lt; "Hallo Welt\r\n";
+        std::cout &lt;&lt; FCGX_GetParam("SERVER_SOFTWARE",request.envp)
+    }
+
+    // restore stdio streambufs
+    std::cin.rdbuf(cin_streambuf);
+    std::cout.rdbuf(cout_streambuf);
+    std::cerr.rdbuf(cerr_streambuf);
+
+    return 0;
+}
+
+&lt;/pre&gt;</text>
+      <sha1>n6f2quugdj3rqto14pf76olmkwwyeih</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nginx</title>
+    <ns>0</ns>
+    <id>69</id>
+    <revision>
+      <id>322</id>
+      <timestamp>2022-11-13T00:05:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[Nginx:Einfache Server config erstellen]]  server {     listen 80;     server_name localhost; }“</comment>
+      <origin>322</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="98" sha1="iydfdblv7bbrfazjdhlxynde2xf52f4" xml:space="preserve">* [[Nginx:Einfache Server config erstellen]]
+
+server {
+    listen 80;
+    server_name localhost;
+}</text>
+      <sha1>iydfdblv7bbrfazjdhlxynde2xf52f4</sha1>
+    </revision>
+    <revision>
+      <id>325</id>
+      <parentid>322</parentid>
+      <timestamp>2022-11-13T00:15:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>325</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="4wnexsdatjt9qbry9y77nwap0act700" xml:space="preserve">* [[Nginx:Einfache Server config erstellen]]</text>
+      <sha1>4wnexsdatjt9qbry9y77nwap0act700</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nginx:Einfache Server config erstellen</title>
+    <ns>0</ns>
+    <id>70</id>
+    <revision>
+      <id>323</id>
+      <timestamp>2022-11-13T00:06:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; server {     listen 80;     server_name localhost; } &lt;/pre&gt;“</comment>
+      <origin>323</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="65" sha1="bg5h9iw0rl125q5jrj873t7wrm9lcc3" xml:space="preserve">&lt;pre&gt;
+server {
+    listen 80;
+    server_name localhost;
+}
+&lt;/pre&gt;</text>
+      <sha1>bg5h9iw0rl125q5jrj873t7wrm9lcc3</sha1>
+    </revision>
+    <revision>
+      <id>324</id>
+      <parentid>323</parentid>
+      <timestamp>2022-11-13T00:07:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>324</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="110" sha1="9qn09c8xfz8psuf2bbck23ijwrhf2lz" xml:space="preserve">==Nginx:Einfache Server config erstellen 1==
+&lt;pre&gt;
+server {
+    listen 80;
+    server_name localhost;
+}
+&lt;/pre&gt;</text>
+      <sha1>9qn09c8xfz8psuf2bbck23ijwrhf2lz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Go:Webprogrammieren:Hallo Welt:Cookie</title>
+    <ns>0</ns>
+    <id>71</id>
+    <revision>
+      <id>327</id>
+      <timestamp>2022-11-13T01:11:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; package main  import "net/http"  func main() { 	var server = http.NewServeMux() 	server.HandleFunc("/", hallo) 	http.ListenAndServe("localhost:8080", server)  }  func hallo(w http.ResponseWriter,r *http.Request) { 	w.Header().Set("Set-Cookie", " name=wert") 	w.Header().Set("Content-type", "text/html") 	w.Write([]byte("Hallo Welt"))  } &lt;/pre&gt;“</comment>
+      <origin>327</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="349" sha1="3jjkkquymhzkeaqb6upm4febefkv6h8" xml:space="preserve">&lt;pre&gt;
+package main
+
+import "net/http"
+
+func main() {
+	var server = http.NewServeMux()
+	server.HandleFunc("/", hallo)
+	http.ListenAndServe("localhost:8080", server)
+
+}
+
+func hallo(w http.ResponseWriter,r *http.Request) {
+	w.Header().Set("Set-Cookie", " name=wert")
+	w.Header().Set("Content-type", "text/html")
+	w.Write([]byte("Hallo Welt"))
+
+}
+&lt;/pre&gt;</text>
+      <sha1>3jjkkquymhzkeaqb6upm4febefkv6h8</sha1>
+    </revision>
+    <revision>
+      <id>329</id>
+      <parentid>327</parentid>
+      <timestamp>2022-11-13T01:28:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>329</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="377" sha1="9329wplhhoawcup3n1g26jse4bj7il7" xml:space="preserve">* localhost:8080 Hallo Welt
+&lt;pre&gt;
+package main
+
+import "net/http"
+
+func main() {
+	var server = http.NewServeMux()
+	server.HandleFunc("/", hallo)
+	http.ListenAndServe("localhost:8080", server)
+
+}
+
+func hallo(w http.ResponseWriter,r *http.Request) {
+	w.Header().Set("Set-Cookie", " name=wert")
+	w.Header().Set("Content-type", "text/html")
+	w.Write([]byte("Hallo Welt"))
+
+}
+&lt;/pre&gt;</text>
+      <sha1>9329wplhhoawcup3n1g26jse4bj7il7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Go:Konstanten</title>
+    <ns>0</ns>
+    <id>72</id>
+    <revision>
+      <id>332</id>
+      <timestamp>2022-11-13T01:48:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; const variable datentypen=wert  &lt;/pre&gt;“</comment>
+      <origin>332</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="scvi8l2phlrbe1eaqpsa71ei8uae3p9" xml:space="preserve">&lt;pre&gt;
+const variable datentypen=wert
+
+&lt;/pre&gt;</text>
+      <sha1>scvi8l2phlrbe1eaqpsa71ei8uae3p9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rust:Konstanten</title>
+    <ns>0</ns>
+    <id>73</id>
+    <revision>
+      <id>335</id>
+      <timestamp>2022-11-13T21:19:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;  const variable:Datentype = daten;“</comment>
+      <origin>335</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="40" sha1="ogkr52qm9gqgs1ogkbodn4is0p9utol" xml:space="preserve">&lt;pre&gt;
+
+const variable:Datentype = daten;</text>
+      <sha1>ogkr52qm9gqgs1ogkbodn4is0p9utol</sha1>
+    </revision>
+    <revision>
+      <id>336</id>
+      <parentid>335</parentid>
+      <timestamp>2022-11-13T21:20:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>336</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="g6uzcd7bovxruw63cal5ef1u4i7uwqh" xml:space="preserve">&lt;pre&gt;
+
+const variable:Datentype = daten;
+&lt;/pre&gt;</text>
+      <sha1>g6uzcd7bovxruw63cal5ef1u4i7uwqh</sha1>
     </revision>
   </page>
 </mediawiki>
