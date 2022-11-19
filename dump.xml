@@ -3394,6 +3394,320 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
 * [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
       <sha1>dj88c92uee09pweh66w3jvwp2nbboj6</sha1>
     </revision>
+    <revision>
+      <id>365</id>
+      <parentid>360</parentid>
+      <timestamp>2022-11-17T19:54:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Webprogrammieren */</comment>
+      <origin>365</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1230" sha1="deegfk4rrifc83j6tmguwek6b6ft9fz" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Go]] - [[Rust]] - [[Datenbank]] - [[Javascript]] - [[nginx]] - [[Java]] - [[Python]]
+
+==Webprogrammieren==
+* [[C:Webprogrammieren]] - [[C++:Webprogrammieren]] - [[Go:Webprogrammieren]] - [[Rust:Webprogrammieren]] - [[Javascript:Webprogrammieren]] - [[Java:Webprogrammieren]] - [[Python:Webprogrammieren]]
+==Webassembly==
+* [[C:Webassembly]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>deegfk4rrifc83j6tmguwek6b6ft9fz</sha1>
+    </revision>
+    <revision>
+      <id>367</id>
+      <parentid>365</parentid>
+      <timestamp>2022-11-17T19:57:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Webassembly */</comment>
+      <origin>367</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1252" sha1="kn3n9tionusigzy7ot69nrk2up9bhga" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Go]] - [[Rust]] - [[Datenbank]] - [[Javascript]] - [[nginx]] - [[Java]] - [[Python]]
+
+==Webprogrammieren==
+* [[C:Webprogrammieren]] - [[C++:Webprogrammieren]] - [[Go:Webprogrammieren]] - [[Rust:Webprogrammieren]] - [[Javascript:Webprogrammieren]] - [[Java:Webprogrammieren]] - [[Python:Webprogrammieren]]
+==Webassembly==
+* [[C:Webassembly]] - [[C++:Webassembly]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>kn3n9tionusigzy7ot69nrk2up9bhga</sha1>
+    </revision>
+    <revision>
+      <id>385</id>
+      <parentid>367</parentid>
+      <timestamp>2022-11-17T23:26:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>385</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1224" sha1="ivcqahaf1va9btn87v16n3m1mjh2hip" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Go]] - [[Rust]] - [[Datenbank]] - [[Javascript]] - [[nginx]] - [[Java]] - [[Python]]
+
+==Webprogrammieren==
+* [[C:Webprogrammieren]] - [[C++:Webprogrammieren]] - [[Go:Webprogrammieren]] - [[Rust:Webprogrammieren]] - [[Javascript:Webprogrammieren]] - [[Python:Webprogrammieren]]
+==Webassembly==
+* [[C:Webassembly]] - [[C++:Webassembly]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>ivcqahaf1va9btn87v16n3m1mjh2hip</sha1>
+    </revision>
+    <revision>
+      <id>386</id>
+      <parentid>385</parentid>
+      <timestamp>2022-11-17T23:26:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>386</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1213" sha1="cl5ou9jok43x9c9o2lwgulhxu4mz2i3" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Go]] - [[Rust]] - [[Datenbank]] - [[Javascript]] - [[nginx]] - [[Python]]
+
+==Webprogrammieren==
+* [[C:Webprogrammieren]] - [[C++:Webprogrammieren]] - [[Go:Webprogrammieren]] - [[Rust:Webprogrammieren]] - [[Javascript:Webprogrammieren]] - [[Python:Webprogrammieren]]
+==Webassembly==
+* [[C:Webassembly]] - [[C++:Webassembly]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>cl5ou9jok43x9c9o2lwgulhxu4mz2i3</sha1>
+    </revision>
+    <revision>
+      <id>387</id>
+      <parentid>386</parentid>
+      <timestamp>2022-11-17T23:30:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>387</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1224" sha1="6tbfhy0i8pjqx06bpvpca3odjhhuh2d" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Go]] - [[Rust]] - [[Datenbank]] - [[Javascript]] - [[nginx]] - [[Python]] - [[Java]]
+
+==Webprogrammieren==
+* [[C:Webprogrammieren]] - [[C++:Webprogrammieren]] - [[Go:Webprogrammieren]] - [[Rust:Webprogrammieren]] - [[Javascript:Webprogrammieren]] - [[Python:Webprogrammieren]]
+==Webassembly==
+* [[C:Webassembly]] - [[C++:Webassembly]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>6tbfhy0i8pjqx06bpvpca3odjhhuh2d</sha1>
+    </revision>
+    <revision>
+      <id>388</id>
+      <parentid>387</parentid>
+      <timestamp>2022-11-17T23:30:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Webprogrammieren */</comment>
+      <origin>388</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1225" sha1="gt0ys567dy5ewc1het8q559ri2gv2g9" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Go]] - [[Rust]] - [[Datenbank]] - [[Javascript]] - [[nginx]] - [[Python]] - [[Java]]
+
+==Webprogrammieren==
+* [[C:Webprogrammieren]] - [[C++:Webprogrammieren]] - [[Go:Webprogrammieren]] - [[Rust:Webprogrammieren]] - [[Javascript:Webprogrammieren]] - [[Python:Webprogrammieren]]
+
+==Webassembly==
+* [[C:Webassembly]] - [[C++:Webassembly]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>gt0ys567dy5ewc1het8q559ri2gv2g9</sha1>
+    </revision>
+    <revision>
+      <id>389</id>
+      <parentid>388</parentid>
+      <timestamp>2022-11-17T23:32:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>389</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1214" sha1="lf9zr8p0uuzqgmbgos3m57ofw376do0" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Go]] - [[Rust]] - [[Datenbank]] - [[Javascript]] - [[nginx]] - [[Python]]
+
+==Webprogrammieren==
+* [[C:Webprogrammieren]] - [[C++:Webprogrammieren]] - [[Go:Webprogrammieren]] - [[Rust:Webprogrammieren]] - [[Javascript:Webprogrammieren]] - [[Python:Webprogrammieren]]
+
+==Webassembly==
+* [[C:Webassembly]] - [[C++:Webassembly]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>lf9zr8p0uuzqgmbgos3m57ofw376do0</sha1>
+    </revision>
+    <revision>
+      <id>390</id>
+      <parentid>389</parentid>
+      <timestamp>2022-11-17T23:44:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Programmiersprachen */</comment>
+      <origin>390</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1225" sha1="gt0ys567dy5ewc1het8q559ri2gv2g9" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Go]] - [[Rust]] - [[Datenbank]] - [[Javascript]] - [[nginx]] - [[Python]] - [[Java]]
+
+==Webprogrammieren==
+* [[C:Webprogrammieren]] - [[C++:Webprogrammieren]] - [[Go:Webprogrammieren]] - [[Rust:Webprogrammieren]] - [[Javascript:Webprogrammieren]] - [[Python:Webprogrammieren]]
+
+==Webassembly==
+* [[C:Webassembly]] - [[C++:Webassembly]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>gt0ys567dy5ewc1het8q559ri2gv2g9</sha1>
+    </revision>
   </page>
   <page>
     <title>Ahrensburg.dev:Impressum</title>
@@ -4725,6 +5039,114 @@ sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.or
 * [[C++:Webassembly:Hallo Welt]]</text>
       <sha1>qyqpwjbj8luu9hehoppo7d0yfr2zzuy</sha1>
     </revision>
+    <revision>
+      <id>370</id>
+      <parentid>353</parentid>
+      <timestamp>2022-11-17T20:05:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>370</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="74" sha1="pwqtrr7muz3wvw5r4yn7kvkeqrinrug" xml:space="preserve">==Console==
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]</text>
+      <sha1>pwqtrr7muz3wvw5r4yn7kvkeqrinrug</sha1>
+    </revision>
+    <revision>
+      <id>372</id>
+      <parentid>370</parentid>
+      <timestamp>2022-11-17T20:08:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>372</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="63" sha1="9jeo2lem8p7egoq84dn25bp22we8rl8" xml:space="preserve">
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]</text>
+      <sha1>9jeo2lem8p7egoq84dn25bp22we8rl8</sha1>
+    </revision>
+    <revision>
+      <id>413</id>
+      <parentid>372</parentid>
+      <timestamp>2022-11-19T12:17:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>413</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="84" sha1="s1fgq6gj7lyflkqcumej4od1sjxovmu" xml:space="preserve">
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+* [[C++:Operatoren]]</text>
+      <sha1>s1fgq6gj7lyflkqcumej4od1sjxovmu</sha1>
+    </revision>
+    <revision>
+      <id>414</id>
+      <parentid>413</parentid>
+      <timestamp>2022-11-19T12:29:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>414</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="116" sha1="ta87iaybxrhziw66favb26queaszk1m" xml:space="preserve">
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+* [[Automatische Typableitung]]
+* [[C++:Operatoren]]</text>
+      <sha1>ta87iaybxrhziw66favb26queaszk1m</sha1>
+    </revision>
+    <revision>
+      <id>416</id>
+      <parentid>414</parentid>
+      <timestamp>2022-11-19T13:16:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>416</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="120" sha1="drxxc75xadpj8t3gi8cgalfeoo9buyv" xml:space="preserve">
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+* [[C++:Automatische Typableitung]]
+* [[C++:Operatoren]]</text>
+      <sha1>drxxc75xadpj8t3gi8cgalfeoo9buyv</sha1>
+    </revision>
+    <revision>
+      <id>422</id>
+      <parentid>416</parentid>
+      <timestamp>2022-11-19T15:35:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>422</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="99" sha1="dyw0os523zbm3mnklx5h4i7ce2ssaqc" xml:space="preserve">
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+* [[C++:Automatische Typableitung]]</text>
+      <sha1>dyw0os523zbm3mnklx5h4i7ce2ssaqc</sha1>
+    </revision>
   </page>
   <page>
     <title>C++:Hallo Welt</title>
@@ -4819,6 +5241,39 @@ int main() {
 * [[Java:Variable]]</text>
       <sha1>7l2pm8qcb2dgrg3mlw0j60c0pzhduf6</sha1>
     </revision>
+    <revision>
+      <id>401</id>
+      <parentid>364</parentid>
+      <timestamp>2022-11-18T16:37:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>401</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="61" sha1="hfrh2f3v0r30o3z8ihzfw2766yu9ulh" xml:space="preserve">* [[Java:Hallo Welt]]
+* [[Java:Variable]]
+* [[Java:Konstant]]</text>
+      <sha1>hfrh2f3v0r30o3z8ihzfw2766yu9ulh</sha1>
+    </revision>
+    <revision>
+      <id>432</id>
+      <parentid>401</parentid>
+      <timestamp>2022-11-19T17:20:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>432</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="98" sha1="qst36wz9qf1wldyh5lnwdx0ifdcobhh" xml:space="preserve">* [[Java:Hallo Welt]]
+* [[Java:Variable]]
+* [[Java:Konstant]]
+* [[Java:Automatische Typableitung]]</text>
+      <sha1>qst36wz9qf1wldyh5lnwdx0ifdcobhh</sha1>
+    </revision>
   </page>
   <page>
     <title>Java:Hallo Welt</title>
@@ -4847,6 +5302,54 @@ public class Main {
 
 &lt;/pre&gt;</text>
       <sha1>e3yi4r3c9jcwcbjjndnup05j5rpxadb</sha1>
+    </revision>
+    <revision>
+      <id>399</id>
+      <parentid>59</parentid>
+      <timestamp>2022-11-18T14:04:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>399</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="146" sha1="ce7rb2ly2ycmfw2vaaihisolazcxyvd" xml:space="preserve">&lt;pre&gt;
+
+package main;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>ce7rb2ly2ycmfw2vaaihisolazcxyvd</sha1>
+    </revision>
+    <revision>
+      <id>400</id>
+      <parentid>399</parentid>
+      <timestamp>2022-11-18T14:19:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>400</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="144" sha1="5e2q4dg1w0ufrq5mnvnmuuoocxd9gl2" xml:space="preserve">&lt;pre&gt;
+
+package main;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hallo Welt");
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>5e2q4dg1w0ufrq5mnvnmuuoocxd9gl2</sha1>
     </revision>
   </page>
   <page>
@@ -5102,6 +5605,61 @@ fun main() {
 * [[Go:Konstanten]]</text>
       <sha1>km1yn8crq3w7jz75u2a2qbrifnzlx7d</sha1>
     </revision>
+    <revision>
+      <id>373</id>
+      <parentid>351</parentid>
+      <timestamp>2022-11-17T20:09:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Console */</comment>
+      <origin>373</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="60" sha1="lu90pigqvpi6hccd3fm1but96frhlvo" xml:space="preserve">
+* [[Go:Hallo Welt]]
+* [[Go:Datentypen]]
+* [[Go:Konstanten]]</text>
+      <sha1>lu90pigqvpi6hccd3fm1but96frhlvo</sha1>
+    </revision>
+    <revision>
+      <id>418</id>
+      <parentid>373</parentid>
+      <timestamp>2022-11-19T15:14:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>418</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="98" sha1="1jpq5ja9my9tzkx65bdj6519jim5plq" xml:space="preserve">
+* [[Go:Hallo Welt]]
+* [[Go:Datentypen]]
+* [[Go:Konstanten]]
+* [[Go:Kurze Variablendeklarationen]]</text>
+      <sha1>1jpq5ja9my9tzkx65bdj6519jim5plq</sha1>
+    </revision>
+    <revision>
+      <id>419</id>
+      <parentid>418</parentid>
+      <timestamp>2022-11-19T15:17:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>419</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="133" sha1="m84f92axpxj1hrjv8vht0w943ve4rdq" xml:space="preserve">
+* [[Go:Hallo Welt]]
+* [[Go:Datentypen]]
+* [[Go:Konstanten]]
+* [[Go:Automatische Typableitung]]
+* [[Go:Kurze Variablendeklarationen]]</text>
+      <sha1>m84f92axpxj1hrjv8vht0w943ve4rdq</sha1>
+    </revision>
   </page>
   <page>
     <title>Go:Hallo Welt</title>
@@ -5266,6 +5824,41 @@ func main() {
 * [[Rust:Konstanten]]</text>
       <sha1>njpz0873dyjhhhaa57d1stv93ixz2np</sha1>
     </revision>
+    <revision>
+      <id>374</id>
+      <parentid>354</parentid>
+      <timestamp>2022-11-17T20:10:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Konsole */</comment>
+      <origin>374</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="66" sha1="fc4m1y3bir11pxbtkagkclb0tppig94" xml:space="preserve">
+* [[Rust:Hallo Welt]]
+* [[Rust:Datentypen]]
+* [[Rust:Konstanten]]</text>
+      <sha1>fc4m1y3bir11pxbtkagkclb0tppig94</sha1>
+    </revision>
+    <revision>
+      <id>423</id>
+      <parentid>374</parentid>
+      <timestamp>2022-11-19T15:40:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>423</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="102" sha1="1ns0cnznwjby1jx3761ysy8kv73hsa3" xml:space="preserve">* [[Rust:Hallo Welt]]
+* [[Rust:Datentypen]]
+* [[Rust:Konstanten]]
+* [[Rust:Automatische Typableitung]]</text>
+      <sha1>1ns0cnznwjby1jx3761ysy8kv73hsa3</sha1>
+    </revision>
   </page>
   <page>
     <title>Rust:Hallo Welt</title>
@@ -5288,6 +5881,24 @@ fn main() {
 }
 &lt;/pre&gt;</text>
       <sha1>tfbaithv46whi9rm1o8qv0u9rv2js1b</sha1>
+    </revision>
+    <revision>
+      <id>391</id>
+      <parentid>73</parentid>
+      <timestamp>2022-11-18T07:05:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>391</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="54" sha1="amorq2swhpq3d06vh0jcm1a94antr1a" xml:space="preserve">&lt;pre&gt;
+fn main() {
+    println!("Hallo Welt");
+}
+&lt;/pre&gt;</text>
+      <sha1>amorq2swhpq3d06vh0jcm1a94antr1a</sha1>
     </revision>
   </page>
   <page>
@@ -6112,6 +6723,58 @@ target_link_libraries((der Projekt name) fcgi)
 * [[C:Webassembly:Hallo Welt]]</text>
       <sha1>dp7twvjxm5gpgh9qu3nm89z8lu77cyr</sha1>
     </revision>
+    <revision>
+      <id>368</id>
+      <parentid>347</parentid>
+      <timestamp>2022-11-17T19:59:27Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Webassembly */</comment>
+      <origin>368</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="77" sha1="oiji5r9heuwh33o47w0wkzscrh3srkw" xml:space="preserve">==Console Eingabe==
+
+* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+* [[C:Konstanten]]</text>
+      <sha1>oiji5r9heuwh33o47w0wkzscrh3srkw</sha1>
+    </revision>
+    <revision>
+      <id>371</id>
+      <parentid>368</parentid>
+      <timestamp>2022-11-17T20:08:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>371</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="56" sha1="ghn09l75okvdyunjv5nxgrq474m8qc3" xml:space="preserve">* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+* [[C:Konstanten]]</text>
+      <sha1>ghn09l75okvdyunjv5nxgrq474m8qc3</sha1>
+    </revision>
+    <revision>
+      <id>403</id>
+      <parentid>371</parentid>
+      <timestamp>2022-11-18T20:39:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>403</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="75" sha1="5fq6injbqe3c443w9c4bo5d78osgftk" xml:space="preserve">* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+* [[C:Konstanten]]
+* [[C:Operatoren]]</text>
+      <sha1>5fq6injbqe3c443w9c4bo5d78osgftk</sha1>
+    </revision>
   </page>
   <page>
     <title>Ruby</title>
@@ -6332,6 +6995,22 @@ exit();
 * [[Python:Variable]]</text>
       <sha1>hig3h4j45fpr3xls3cfz74cjsf4631q</sha1>
     </revision>
+    <revision>
+      <id>429</id>
+      <parentid>361</parentid>
+      <timestamp>2022-11-19T16:41:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>429</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="69" sha1="gq9gw8n54hkgc0ni0a3vdu0r6z8wcra" xml:space="preserve">* [[Python:Hallo Welt]]
+* [[Python:Variable]]
+* [[Python:Operatoren]]</text>
+      <sha1>gq9gw8n54hkgc0ni0a3vdu0r6z8wcra</sha1>
+    </revision>
   </page>
   <page>
     <title>Python:Hallo Welt</title>
@@ -6419,6 +7098,39 @@ print("Hallo Welt")
 * [[Javascript:Variable]]</text>
       <sha1>m63go93z446ot9jf6a7z957m40vf8lf</sha1>
     </revision>
+    <revision>
+      <id>395</id>
+      <parentid>280</parentid>
+      <timestamp>2022-11-18T08:20:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>395</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="79" sha1="20pahbrm0i4x9a9gw9n7y6rgh2oz76m" xml:space="preserve">* [[Javascript:Hallo Welt]]
+* [[Javascript:Variable]]
+* [[Javascript:Konstant]]</text>
+      <sha1>20pahbrm0i4x9a9gw9n7y6rgh2oz76m</sha1>
+    </revision>
+    <revision>
+      <id>425</id>
+      <parentid>395</parentid>
+      <timestamp>2022-11-19T15:57:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>425</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="107" sha1="t9gp5opal1s37ov6ba9t9r0uiaf5bw5" xml:space="preserve">* [[Javascript:Hallo Welt]]
+* [[Javascript:Variable]]
+* [[Javascript:Konstant]]
+* [[Javascript:Operatoren]]</text>
+      <sha1>t9gp5opal1s37ov6ba9t9r0uiaf5bw5</sha1>
+    </revision>
   </page>
   <page>
     <title>Javascript:Hallo Welt</title>
@@ -6439,6 +7151,22 @@ print("Hallo Welt")
 console.log("hello");
 &lt;/pre&gt;</text>
       <sha1>o6pafxpffdtq45etue8xmgcpfncvq00</sha1>
+    </revision>
+    <revision>
+      <id>393</id>
+      <parentid>91</parentid>
+      <timestamp>2022-11-18T08:06:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>393</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39" sha1="ad9njwdc7diowrsc8qcfocufulp0ly1" xml:space="preserve">&lt;pre&gt;
+console.log("Hallo Welt");
+&lt;/pre&gt;</text>
+      <sha1>ad9njwdc7diowrsc8qcfocufulp0ly1</sha1>
     </revision>
   </page>
   <page>
@@ -6588,6 +7316,28 @@ int main() {
 
 &lt;/pre&gt;</text>
       <sha1>eie79m9eab6fnief8p9im01vtmlzdgp</sha1>
+    </revision>
+    <revision>
+      <id>375</id>
+      <parentid>102</parentid>
+      <timestamp>2022-11-17T21:24:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>375</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="90" sha1="bd0v2c4fiv159yix8ge2douvvocvllt" xml:space="preserve">&lt;pre&gt;
+#include &lt;stdio.h&gt;
+
+int main() {
+    printf("Hallo Welt\n");
+    return 0;
+}
+
+&lt;/pre&gt;</text>
+      <sha1>bd0v2c4fiv159yix8ge2douvvocvllt</sha1>
     </revision>
   </page>
   <page>
@@ -6898,6 +7648,117 @@ char Buchstabe //buchstaben
 
 &lt;/pre&gt;</text>
       <sha1>q777kg40ox3c39e9enspviqinm19dfu</sha1>
+    </revision>
+    <revision>
+      <id>376</id>
+      <parentid>143</parentid>
+      <timestamp>2022-11-17T21:32:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>376</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="604" sha1="n5ixq0bt3c6br7fddsvgoi2soo5zskh" xml:space="preserve">&lt;pre&gt;
+#include &lt;stdint.h&gt;
+
+int main() {
+
+    // Postive und Negative Ganzezahlen
+    int8_t variable; // Byte 8
+    int16_t variable; // Byte 16
+    int32_t variable; // Byte 32
+    int64_t variable; // Byte 64
+
+    //Postive Ganzezahlen
+
+    uint8_t variable; //Byte 8
+    uint16_t variable; // Byte 16
+    uint32_t variable; // Byte 32
+    uint64_t variable; // Byte 64
+
+    return 0;
+
+}
+
+&lt;/pre&gt;
+
+== Kommazahlen==
+
+&lt;pre&gt;
+int main() {
+    float variable;  //Kommazahlen 32 Byte
+    double variable;  //Kommazahlen 64 Byte
+    return 0;
+}
+
+&lt;/pre&gt;
+
+==Buchstabe==
+
+&lt;pre&gt;
+
+char variable //buchstaben
+
+&lt;/pre&gt;</text>
+      <sha1>n5ixq0bt3c6br7fddsvgoi2soo5zskh</sha1>
+    </revision>
+    <revision>
+      <id>377</id>
+      <parentid>376</parentid>
+      <timestamp>2022-11-17T21:36:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Buchstabe */</comment>
+      <origin>377</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="605" sha1="8mdq55yppe7ktwoktvikxkmsr4ennuj" xml:space="preserve">&lt;pre&gt;
+#include &lt;stdint.h&gt;
+
+int main() {
+
+    // Postive und Negative Ganzezahlen
+    int8_t variable; // Byte 8
+    int16_t variable; // Byte 16
+    int32_t variable; // Byte 32
+    int64_t variable; // Byte 64
+
+    //Postive Ganzezahlen
+
+    uint8_t variable; //Byte 8
+    uint16_t variable; // Byte 16
+    uint32_t variable; // Byte 32
+    uint64_t variable; // Byte 64
+
+    return 0;
+
+}
+
+&lt;/pre&gt;
+
+== Kommazahlen==
+
+&lt;pre&gt;
+int main() {
+    float variable;  //Kommazahlen 32 Byte
+    double variable;  //Kommazahlen 64 Byte
+    return 0;
+}
+
+&lt;/pre&gt;
+
+==Buchstabe==
+
+&lt;pre&gt;
+
+char variable; //buchstaben
+
+&lt;/pre&gt;</text>
+      <sha1>8mdq55yppe7ktwoktvikxkmsr4ennuj</sha1>
     </revision>
   </page>
   <page>
@@ -9082,6 +9943,231 @@ var variable bool
 &lt;/pre&gt;</text>
       <sha1>i3mkb8p5h2d6z1bxz6rgzj7w8lki95o</sha1>
     </revision>
+    <revision>
+      <id>380</id>
+      <parentid>229</parentid>
+      <timestamp>2022-11-17T22:43:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Wahrheit Wert */</comment>
+      <origin>380</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="494" sha1="14w5rq5vehs8a7sxp4a3v8ncql4uk3y" xml:space="preserve">
+==Wahrheit Wert==
+&lt;pre&gt;
+var variable bool;
+&lt;/pre&gt;
+
+==Ganzezahlen==
+
+
+===positiv Zahlen und negativ Zahlen===
+&lt;pre&gt;
+	var variable int8  //byte 8
+	var variable int16 //byte 16
+	var variable int32 //byte 32
+	var variable int64 //byte 64
+&lt;/pre&gt;
+
+===positiv Zahlen===
+&lt;pre&gt;
+	var variable uint8  //byte 8
+	var variable uint16 //byte 16
+	var variable uint32 //byte 32
+	var variable uint64 //byte 64
+&lt;/pre&gt;
+
+==kommazahlen==
+
+&lt;pre&gt;
+	var variable float32 //byte 32
+	var variable float64 //byte 64
+&lt;/pre&gt;</text>
+      <sha1>14w5rq5vehs8a7sxp4a3v8ncql4uk3y</sha1>
+    </revision>
+    <revision>
+      <id>381</id>
+      <parentid>380</parentid>
+      <timestamp>2022-11-17T22:45:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* positiv Zahlen und negativ Zahlen */</comment>
+      <origin>381</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="498" sha1="aemj44grfkbr91ywhw3gp5jjheoj96u" xml:space="preserve">
+==Wahrheit Wert==
+&lt;pre&gt;
+var variable bool;
+&lt;/pre&gt;
+
+==Ganzezahlen==
+
+
+===positiv Zahlen und negativ Zahlen===
+&lt;pre&gt;
+	var variable int8;  //byte 8
+	var variable int16; //byte 16
+	var variable int32; //byte 32
+	var variable int64; //byte 64
+&lt;/pre&gt;
+
+===positiv Zahlen===
+&lt;pre&gt;
+	var variable uint8  //byte 8
+	var variable uint16 //byte 16
+	var variable uint32 //byte 32
+	var variable uint64 //byte 64
+&lt;/pre&gt;
+
+==kommazahlen==
+
+&lt;pre&gt;
+	var variable float32 //byte 32
+	var variable float64 //byte 64
+&lt;/pre&gt;</text>
+      <sha1>aemj44grfkbr91ywhw3gp5jjheoj96u</sha1>
+    </revision>
+    <revision>
+      <id>382</id>
+      <parentid>381</parentid>
+      <timestamp>2022-11-17T22:46:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Ganzezahlen */</comment>
+      <origin>382</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="502" sha1="m4y9de2oajyxja31brusq8gnru3viuw" xml:space="preserve">
+==Wahrheit Wert==
+&lt;pre&gt;
+var variable bool;
+&lt;/pre&gt;
+
+==Ganzezahlen==
+
+
+===positiv Zahlen und negativ Zahlen===
+&lt;pre&gt;
+	var variable int8;  //byte 8
+	var variable int16; //byte 16
+	var variable int32; //byte 32
+	var variable int64; //byte 64
+&lt;/pre&gt;
+
+===positiv Zahlen===
+&lt;pre&gt;
+	var variable uint8;  //byte 8
+	var variable uint16; //byte 16
+	var variable uint32; //byte 32
+	var variable uint64; //byte 64
+&lt;/pre&gt;
+
+==kommazahlen==
+
+&lt;pre&gt;
+	var variable float32 //byte 32
+	var variable float64 //byte 64
+&lt;/pre&gt;</text>
+      <sha1>m4y9de2oajyxja31brusq8gnru3viuw</sha1>
+    </revision>
+    <revision>
+      <id>383</id>
+      <parentid>382</parentid>
+      <timestamp>2022-11-17T22:46:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* kommazahlen */</comment>
+      <origin>383</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="504" sha1="s0stp59t78kzd3ymrfatkfhripcs2td" xml:space="preserve">
+==Wahrheit Wert==
+&lt;pre&gt;
+var variable bool;
+&lt;/pre&gt;
+
+==Ganzezahlen==
+
+
+===positiv Zahlen und negativ Zahlen===
+&lt;pre&gt;
+	var variable int8;  //byte 8
+	var variable int16; //byte 16
+	var variable int32; //byte 32
+	var variable int64; //byte 64
+&lt;/pre&gt;
+
+===positiv Zahlen===
+&lt;pre&gt;
+	var variable uint8;  //byte 8
+	var variable uint16; //byte 16
+	var variable uint32; //byte 32
+	var variable uint64; //byte 64
+&lt;/pre&gt;
+
+==kommazahlen==
+
+&lt;pre&gt;
+	var variable float32; //byte 32
+	var variable float64; //byte 64
+&lt;/pre&gt;</text>
+      <sha1>s0stp59t78kzd3ymrfatkfhripcs2td</sha1>
+    </revision>
+    <revision>
+      <id>384</id>
+      <parentid>383</parentid>
+      <timestamp>2022-11-17T23:01:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Wahrheit Wert */</comment>
+      <origin>384</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="503" sha1="h5un6sexnfsaff2a9bagbqgow0282xw" xml:space="preserve">
+==Wahrheit Wert==
+&lt;pre&gt;
+var variable bool
+&lt;/pre&gt;
+
+==Ganzezahlen==
+
+
+===positiv Zahlen und negativ Zahlen===
+&lt;pre&gt;
+	var variable int8;  //byte 8
+	var variable int16; //byte 16
+	var variable int32; //byte 32
+	var variable int64; //byte 64
+&lt;/pre&gt;
+
+===positiv Zahlen===
+&lt;pre&gt;
+	var variable uint8;  //byte 8
+	var variable uint16; //byte 16
+	var variable uint32; //byte 32
+	var variable uint64; //byte 64
+&lt;/pre&gt;
+
+==kommazahlen==
+
+&lt;pre&gt;
+	var variable float32; //byte 32
+	var variable float64; //byte 64
+&lt;/pre&gt;</text>
+      <sha1>h5un6sexnfsaff2a9bagbqgow0282xw</sha1>
+    </revision>
   </page>
   <page>
     <title>Go:Webprogrammieren:Hallo Welt</title>
@@ -9355,6 +10441,22 @@ let variable=daten;
 &lt;/pre&gt;</text>
       <sha1>0pou7df0gv74inpjkwworjbazxxoao8</sha1>
     </revision>
+    <revision>
+      <id>394</id>
+      <parentid>247</parentid>
+      <timestamp>2022-11-18T08:15:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>394</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="s1fon0t2580yur2s9hthx9sf3ry59wg" xml:space="preserve">&lt;pre&gt;
+let variable=wert;
+&lt;/pre&gt;</text>
+      <sha1>s1fon0t2580yur2s9hthx9sf3ry59wg</sha1>
+    </revision>
   </page>
   <page>
     <title>Javascript:Webprogrammierung:Hallo Welt</title>
@@ -9538,6 +10640,36 @@ boolean variable;
       <format>text/x-wiki</format>
       <text bytes="16" sha1="fucgtxa7jx9xj4lm30ynmhx2q52ilz0" xml:space="preserve">* variable=daten</text>
       <sha1>fucgtxa7jx9xj4lm30ynmhx2q52ilz0</sha1>
+    </revision>
+    <revision>
+      <id>397</id>
+      <parentid>261</parentid>
+      <timestamp>2022-11-18T13:21:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>397</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="15" sha1="8v4qp9fpbjsiklc0jqurbn5tnz3qtrb" xml:space="preserve">* variable=wert</text>
+      <sha1>8v4qp9fpbjsiklc0jqurbn5tnz3qtrb</sha1>
+    </revision>
+    <revision>
+      <id>398</id>
+      <parentid>397</parentid>
+      <timestamp>2022-11-18T13:43:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>398</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="26" sha1="nx3co3cpanounfpp8qihw02y0urpxh8" xml:space="preserve">&lt;pre&gt;
+variable=wert
+&lt;/pre&gt;</text>
+      <sha1>nx3co3cpanounfpp8qihw02y0urpxh8</sha1>
     </revision>
   </page>
   <page>
@@ -10502,6 +11634,38 @@ const datentypen daten;
 &lt;/pre&gt;</text>
       <sha1>7hg9gjo7r5b8c8lur1se0ic4y4dmjre</sha1>
     </revision>
+    <revision>
+      <id>378</id>
+      <parentid>300</parentid>
+      <timestamp>2022-11-17T21:47:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>378</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="1pm65eyajbeah4oqhalstabmykehhhg" xml:space="preserve">&lt;pre&gt;
+const datentypen wert;
+&lt;/pre&gt;</text>
+      <sha1>1pm65eyajbeah4oqhalstabmykehhhg</sha1>
+    </revision>
+    <revision>
+      <id>379</id>
+      <parentid>378</parentid>
+      <timestamp>2022-11-17T22:33:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>379</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="c2mlw5nt4bg8572m61xj6fm6gaghkaj" xml:space="preserve">&lt;pre&gt;
+const datentypen=wert;
+&lt;/pre&gt;</text>
+      <sha1>c2mlw5nt4bg8572m61xj6fm6gaghkaj</sha1>
+    </revision>
   </page>
   <page>
     <title>Bibliothek:C++:Boost</title>
@@ -10985,6 +12149,23 @@ const variable:Datentype = daten;
 &lt;/pre&gt;</text>
       <sha1>g6uzcd7bovxruw63cal5ef1u4i7uwqh</sha1>
     </revision>
+    <revision>
+      <id>392</id>
+      <parentid>336</parentid>
+      <timestamp>2022-11-18T07:31:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>392</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="23vgp2gtxdv1u6rl4x4xasuz9hnmglb" xml:space="preserve">&lt;pre&gt;
+
+const variable:Datentype=wert;
+&lt;/pre&gt;</text>
+      <sha1>23vgp2gtxdv1u6rl4x4xasuz9hnmglb</sha1>
+    </revision>
   </page>
   <page>
     <title>C:Webprogrammieren</title>
@@ -11194,6 +12375,679 @@ def hello_world():
 
 &lt;/pre&gt;</text>
       <sha1>cvf4djft87wol931p3d8bgvk50ab5fl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:Webassembly</title>
+    <ns>0</ns>
+    <id>83</id>
+    <revision>
+      <id>366</id>
+      <timestamp>2022-11-17T19:56:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[C:Webassembly:Installieren]] * [[C:Webassembly:Hallo Welt]]“</comment>
+      <origin>366</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="63" sha1="36amzpunhsv4742e436zh42sogsg1b4" xml:space="preserve">* [[C:Webassembly:Installieren]]
+* [[C:Webassembly:Hallo Welt]]</text>
+      <sha1>36amzpunhsv4742e436zh42sogsg1b4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++:Webassembly</title>
+    <ns>0</ns>
+    <id>84</id>
+    <revision>
+      <id>369</id>
+      <timestamp>2022-11-17T20:04:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[C++:Webassembly:Hallo Welt]]“</comment>
+      <origin>369</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" sha1="fztup2g0sm2almtbyx990bn9zgah35t" xml:space="preserve">* [[C++:Webassembly:Hallo Welt]]</text>
+      <sha1>fztup2g0sm2almtbyx990bn9zgah35t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Javascript:Konstant</title>
+    <ns>0</ns>
+    <id>85</id>
+    <revision>
+      <id>396</id>
+      <timestamp>2022-11-18T08:21:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; const variable=wert; &lt;/pre&gt;“</comment>
+      <origin>396</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="33" sha1="af61z2xg59fxe6k7gtfeaeo5up5kcg9" xml:space="preserve">&lt;pre&gt;
+const variable=wert;
+&lt;/pre&gt;</text>
+      <sha1>af61z2xg59fxe6k7gtfeaeo5up5kcg9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Java:Konstant</title>
+    <ns>0</ns>
+    <id>86</id>
+    <revision>
+      <id>402</id>
+      <timestamp>2022-11-18T16:43:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;  final datentypen variable=wert;  &lt;/pre&gt;“</comment>
+      <origin>402</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="46" sha1="s46q2i2ant8drrhl86rev7a80qmefgk" xml:space="preserve">&lt;pre&gt;
+
+final datentypen variable=wert;
+
+&lt;/pre&gt;</text>
+      <sha1>s46q2i2ant8drrhl86rev7a80qmefgk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:Operatoren</title>
+    <ns>0</ns>
+    <id>87</id>
+    <revision>
+      <id>404</id>
+      <timestamp>2022-11-19T10:40:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{| class="wikitable" |+Operatoren |- |Orange |Apfel |- |Brot |Torte |- |Butter |Eis  |}“</comment>
+      <origin>404</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="87" sha1="8pxrgoc0cdxxat53hytnsyf2appdpbx" xml:space="preserve">{| class="wikitable"
+|+Operatoren
+|-
+|Orange
+|Apfel
+|-
+|Brot
+|Torte
+|-
+|Butter
+|Eis 
+|}</text>
+      <sha1>8pxrgoc0cdxxat53hytnsyf2appdpbx</sha1>
+    </revision>
+    <revision>
+      <id>405</id>
+      <parentid>404</parentid>
+      <timestamp>2022-11-19T10:41:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>405</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="85" sha1="8ehqxqv8h9d4ee77104cs9agwuwtnsa" xml:space="preserve">{| class="wikitable"
+|+Operatoren
+|-
+|Addition
+|+
+|-
+|Brot
+|Torte
+|-
+|Butter
+|Eis 
+|}</text>
+      <sha1>8ehqxqv8h9d4ee77104cs9agwuwtnsa</sha1>
+    </revision>
+    <revision>
+      <id>406</id>
+      <parentid>405</parentid>
+      <timestamp>2022-11-19T10:41:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>406</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="86" sha1="ogbfeu44uq1cgv0thozycsdor2jfig0" xml:space="preserve">{| class="wikitable"
+|+Operatoren
+|-
+|Addition
+| +
+|-
+|Brot
+|Torte
+|-
+|Butter
+|Eis 
+|}</text>
+      <sha1>ogbfeu44uq1cgv0thozycsdor2jfig0</sha1>
+    </revision>
+    <revision>
+      <id>407</id>
+      <parentid>406</parentid>
+      <timestamp>2022-11-19T10:42:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>407</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="90" sha1="36wa3eobroyve386q19f3ckrmfm30wl" xml:space="preserve">{| class="wikitable"
+|+Operatoren
+|-
+|Addition
+| +
+|-
+|Subtraktion
+| -
+|-
+|Butter
+|Eis 
+|}</text>
+      <sha1>36wa3eobroyve386q19f3ckrmfm30wl</sha1>
+    </revision>
+    <revision>
+      <id>408</id>
+      <parentid>407</parentid>
+      <timestamp>2022-11-19T10:44:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>408</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="80" sha1="cbk40xj5rv1cgbef8gi7u6swojncfmm" xml:space="preserve">{| class="wikitable"
+|+Operatoren
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Butter
+|Eis 
+|}</text>
+      <sha1>cbk40xj5rv1cgbef8gi7u6swojncfmm</sha1>
+    </revision>
+    <revision>
+      <id>409</id>
+      <parentid>408</parentid>
+      <timestamp>2022-11-19T10:46:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>409</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="101" sha1="cipolu9wga06qblp0q159fj1vk5k9p2" xml:space="preserve">{| class="wikitable"
+|+Operatoren
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+
+|}</text>
+      <sha1>cipolu9wga06qblp0q159fj1vk5k9p2</sha1>
+    </revision>
+    <revision>
+      <id>410</id>
+      <parentid>409</parentid>
+      <timestamp>2022-11-19T10:48:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>410</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="108" sha1="h9nyodtbnzw0ahw6431q0i7kirfi5yy" xml:space="preserve">{| class="wikitable"
+|+Grundrechnenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+
+|}</text>
+      <sha1>h9nyodtbnzw0ahw6431q0i7kirfi5yy</sha1>
+    </revision>
+    <revision>
+      <id>411</id>
+      <parentid>410</parentid>
+      <timestamp>2022-11-19T10:49:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>411</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="121" sha1="dq6im32uw3bjkylkla4n7aojzwq2kjc" xml:space="preserve">{| class="wikitable"
+|+Grundrechnenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|}</text>
+      <sha1>dq6im32uw3bjkylkla4n7aojzwq2kjc</sha1>
+    </revision>
+    <revision>
+      <id>412</id>
+      <parentid>411</parentid>
+      <timestamp>2022-11-19T10:51:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>412</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="120" sha1="o24g8vns72a6h9m734j8sn54r3o69dp" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|}</text>
+      <sha1>o24g8vns72a6h9m734j8sn54r3o69dp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Automatische Typableitung</title>
+    <ns>0</ns>
+    <id>88</id>
+    <revision>
+      <id>415</id>
+      <timestamp>2022-11-19T12:34:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;  auto variable=wert;  &lt;/pre&gt;“</comment>
+      <origin>415</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" sha1="dhrq6rc3edekyihptlifkaw1ac2bn32" xml:space="preserve">&lt;pre&gt;
+
+auto variable=wert;
+
+&lt;/pre&gt;</text>
+      <sha1>dhrq6rc3edekyihptlifkaw1ac2bn32</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++:Automatische Typableitung</title>
+    <ns>0</ns>
+    <id>89</id>
+    <revision>
+      <id>417</id>
+      <timestamp>2022-11-19T13:16:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;  auto variable=wert;  &lt;/pre&gt;“</comment>
+      <origin>417</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" sha1="dhrq6rc3edekyihptlifkaw1ac2bn32" xml:space="preserve">&lt;pre&gt;
+
+auto variable=wert;
+
+&lt;/pre&gt;</text>
+      <sha1>dhrq6rc3edekyihptlifkaw1ac2bn32</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Go:Automatische Typableitung</title>
+    <ns>0</ns>
+    <id>90</id>
+    <revision>
+      <id>420</id>
+      <timestamp>2022-11-19T15:23:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; var variable=wert &lt;/pre&gt;“</comment>
+      <origin>420</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30" sha1="nlowooir9qoeoeihy0g43r2a1egogyx" xml:space="preserve">&lt;pre&gt;
+var variable=wert
+&lt;/pre&gt;</text>
+      <sha1>nlowooir9qoeoeihy0g43r2a1egogyx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Go:Kurze Variablendeklarationen</title>
+    <ns>0</ns>
+    <id>91</id>
+    <revision>
+      <id>421</id>
+      <timestamp>2022-11-19T15:32:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; variable:=wert &lt;/pre&gt;“</comment>
+      <origin>421</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="27" sha1="fgc7qgyt9pmli5mm7sqe5si64uw07rk" xml:space="preserve">&lt;pre&gt;
+variable:=wert
+&lt;/pre&gt;</text>
+      <sha1>fgc7qgyt9pmli5mm7sqe5si64uw07rk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rust:Automatische Typableitung</title>
+    <ns>0</ns>
+    <id>92</id>
+    <revision>
+      <id>424</id>
+      <timestamp>2022-11-19T15:46:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;  let variable=wert; &lt;/pre&gt;“</comment>
+      <origin>424</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" sha1="b66vdl2aizug5a8zq4vz0j0qkntss21" xml:space="preserve">&lt;pre&gt;
+
+let variable=wert;
+&lt;/pre&gt;</text>
+      <sha1>b66vdl2aizug5a8zq4vz0j0qkntss21</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Javascript:Operatoren</title>
+    <ns>0</ns>
+    <id>93</id>
+    <revision>
+      <id>426</id>
+      <timestamp>2022-11-19T16:06:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{| class="wikitable" |+Grundrechenarten |- |Plus | + |- |Minus | - |- |Malnehmen | *    |- |Teilen | /  |- |Rest | %  |- |Erhöht um Wert eins | ++ |- Verringert um Wert eins | --  |}“</comment>
+      <origin>426</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="183" sha1="25ivhfthlmtzjl1kg86am7npxohen14" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+Verringert um Wert eins
+| --
+
+|}</text>
+      <sha1>25ivhfthlmtzjl1kg86am7npxohen14</sha1>
+    </revision>
+    <revision>
+      <id>427</id>
+      <parentid>426</parentid>
+      <timestamp>2022-11-19T16:07:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>427</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="igdi0se40xi3fr2ecmsozlbf1tol85n" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+Verringert um Wert eins
+| --
+|-
+|}</text>
+      <sha1>igdi0se40xi3fr2ecmsozlbf1tol85n</sha1>
+    </revision>
+    <revision>
+      <id>428</id>
+      <parentid>427</parentid>
+      <timestamp>2022-11-19T16:07:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>428</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="186" sha1="ewl8kcvjbxpil4ff39px18lh4hilvze" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}</text>
+      <sha1>ewl8kcvjbxpil4ff39px18lh4hilvze</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Python:Operatoren</title>
+    <ns>0</ns>
+    <id>94</id>
+    <revision>
+      <id>430</id>
+      <timestamp>2022-11-19T16:48:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{| class="wikitable" |+Grundrechenarten |- |Plus | + |- |Minus | - |- |Malnehmen | *    |- |Teilen | /  |- |Rest | %  |- |Potenz | ** |- |Verringert um Wert eins | -- |- |}“</comment>
+      <origin>430</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="172" sha1="4t6fcnw9joj0j28kw6oaka97w8i70bd" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Potenz
+| **
+|-
+|Verringert um Wert eins
+| --
+|-
+|}</text>
+      <sha1>4t6fcnw9joj0j28kw6oaka97w8i70bd</sha1>
+    </revision>
+    <revision>
+      <id>431</id>
+      <parentid>430</parentid>
+      <timestamp>2022-11-19T16:55:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>431</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="182" sha1="0au4455uxswc9gd4nurkdg8e30udk8k" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Potenz
+| **
+|-
+|Aufrunden von float auf Ganzahlen
+| //
+|-
+|}</text>
+      <sha1>0au4455uxswc9gd4nurkdg8e30udk8k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Java:Automatische Typableitung</title>
+    <ns>0</ns>
+    <id>95</id>
+    <revision>
+      <id>433</id>
+      <timestamp>2022-11-19T17:26:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; var variable=wert; &lt;/pre&gt;“</comment>
+      <origin>433</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="tpz6nd2a5e3f8txdtjp0znpkb46q04l" xml:space="preserve">&lt;pre&gt;
+var variable=wert;
+&lt;/pre&gt;</text>
+      <sha1>tpz6nd2a5e3f8txdtjp0znpkb46q04l</sha1>
     </revision>
   </page>
 </mediawiki>
