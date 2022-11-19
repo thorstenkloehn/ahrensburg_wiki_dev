@@ -5147,6 +5147,25 @@ sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.or
 * [[C++:Automatische Typableitung]]</text>
       <sha1>dyw0os523zbm3mnklx5h4i7ce2ssaqc</sha1>
     </revision>
+    <revision>
+      <id>443</id>
+      <parentid>422</parentid>
+      <timestamp>2022-11-19T22:35:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>443</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="120" sha1="drxxc75xadpj8t3gi8cgalfeoo9buyv" xml:space="preserve">
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+* [[C++:Automatische Typableitung]]
+* [[C++:Operatoren]]</text>
+      <sha1>drxxc75xadpj8t3gi8cgalfeoo9buyv</sha1>
+    </revision>
   </page>
   <page>
     <title>C++:Hallo Welt</title>
@@ -5659,6 +5678,26 @@ fun main() {
 * [[Go:Automatische Typableitung]]
 * [[Go:Kurze Variablendeklarationen]]</text>
       <sha1>m84f92axpxj1hrjv8vht0w943ve4rdq</sha1>
+    </revision>
+    <revision>
+      <id>445</id>
+      <parentid>419</parentid>
+      <timestamp>2022-11-19T23:01:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>445</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="153" sha1="i139rc9saifhhl8hwgz0jtzccm8xh1e" xml:space="preserve">
+* [[Go:Hallo Welt]]
+* [[Go:Datentypen]]
+* [[Go:Konstanten]]
+* [[Go:Automatische Typableitung]]
+* [[Go:Kurze Variablendeklarationen]]
+* [[Go:Operatoren]]</text>
+      <sha1>i139rc9saifhhl8hwgz0jtzccm8xh1e</sha1>
     </revision>
   </page>
   <page>
@@ -12713,6 +12752,383 @@ final datentypen variable=wert;
 |}</text>
       <sha1>o24g8vns72a6h9m734j8sn54r3o69dp</sha1>
     </revision>
+    <revision>
+      <id>434</id>
+      <parentid>412</parentid>
+      <timestamp>2022-11-19T21:38:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>434</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="i444mb5x54ye0540foh6pfeqrl04r41" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}</text>
+      <sha1>i444mb5x54ye0540foh6pfeqrl04r41</sha1>
+    </revision>
+    <revision>
+      <id>435</id>
+      <parentid>434</parentid>
+      <timestamp>2022-11-19T21:40:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>435</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="186" sha1="ewl8kcvjbxpil4ff39px18lh4hilvze" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}</text>
+      <sha1>ewl8kcvjbxpil4ff39px18lh4hilvze</sha1>
+    </revision>
+    <revision>
+      <id>436</id>
+      <parentid>435</parentid>
+      <timestamp>2022-11-19T21:53:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>436</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="g1zbz1orcslpk3p28pya2z7uzh531dl" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}</text>
+      <sha1>g1zbz1orcslpk3p28pya2z7uzh531dl</sha1>
+    </revision>
+    <revision>
+      <id>437</id>
+      <parentid>436</parentid>
+      <timestamp>2022-11-19T21:54:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>437</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="211" sha1="k9qg1rn3yen564e2dlyqdcas4ficndm" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+==Vergleichsoperatoren==</text>
+      <sha1>k9qg1rn3yen564e2dlyqdcas4ficndm</sha1>
+    </revision>
+    <revision>
+      <id>438</id>
+      <parentid>437</parentid>
+      <timestamp>2022-11-19T21:56:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>438</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="0lywa3g6tgwitzq8xwwph1b6cvraukn" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+==Vergleichsoperatoren==
+* Ist gleich ==</text>
+      <sha1>0lywa3g6tgwitzq8xwwph1b6cvraukn</sha1>
+    </revision>
+    <revision>
+      <id>439</id>
+      <parentid>438</parentid>
+      <timestamp>2022-11-19T21:57:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Vergleichsoperatoren */</comment>
+      <origin>439</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="241" sha1="tra3e14folv22bupq7e6bo2xv4g391l" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+==Vergleichsoperatoren==
+* Ist gleich ==
+* ungleich !=</text>
+      <sha1>tra3e14folv22bupq7e6bo2xv4g391l</sha1>
+    </revision>
+    <revision>
+      <id>440</id>
+      <parentid>439</parentid>
+      <timestamp>2022-11-19T22:00:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Vergleichsoperatoren */</comment>
+      <origin>440</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="273" sha1="stne72y1oplty4x2hwa3f8apebb9anm" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+==Vergleichsoperatoren==
+* Ist gleich ==
+* ungleich !=
+* Kleiner &lt;
+* Kleiner gleich &lt;=</text>
+      <sha1>stne72y1oplty4x2hwa3f8apebb9anm</sha1>
+    </revision>
+    <revision>
+      <id>441</id>
+      <parentid>440</parentid>
+      <timestamp>2022-11-19T22:04:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Vergleichsoperatoren */</comment>
+      <origin>441</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="286" sha1="nw647w4r00ql6e1cyy5m57700qlljk1" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+==Vergleichsoperatoren==
+* Ist gleich ==
+* ungleich !=
+* Kleiner &lt;
+* Kleiner gleich &lt;=
+* Größer &gt;</text>
+      <sha1>nw647w4r00ql6e1cyy5m57700qlljk1</sha1>
+    </revision>
+    <revision>
+      <id>442</id>
+      <parentid>441</parentid>
+      <timestamp>2022-11-19T22:07:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>442</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="307" sha1="43e4cx90re9ptxc5cwnyyv591ghqbwy" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+==Vergleichsoperatoren==
+* Ist gleich ==
+* ungleich !=
+* Kleiner &lt;
+* Kleiner gleich &lt;=
+* Größer &gt;
+* Größer gleich &gt;=</text>
+      <sha1>43e4cx90re9ptxc5cwnyyv591ghqbwy</sha1>
+    </revision>
   </page>
   <page>
     <title>Automatische Typableitung</title>
@@ -13048,6 +13464,106 @@ Verringert um Wert eins
 var variable=wert;
 &lt;/pre&gt;</text>
       <sha1>tpz6nd2a5e3f8txdtjp0znpkb46q04l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++:Operatoren</title>
+    <ns>0</ns>
+    <id>96</id>
+    <revision>
+      <id>444</id>
+      <timestamp>2022-11-19T22:37:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{| class="wikitable" |+Grundrechenarten |- |Plus | + |- |Minus | - |- |Malnehmen | *   |- |Teilen | /  |- |Rest | %  |- |Erhöht um Wert eins | ++ |- |Verringert um Wert eins | -- |- |}“</comment>
+      <origin>444</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="g1zbz1orcslpk3p28pya2z7uzh531dl" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}</text>
+      <sha1>g1zbz1orcslpk3p28pya2z7uzh531dl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Go:Operatoren</title>
+    <ns>0</ns>
+    <id>97</id>
+    <revision>
+      <id>446</id>
+      <timestamp>2022-11-19T23:05:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Leere Seite erstellt</comment>
+      <origin>446</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+    <revision>
+      <id>447</id>
+      <parentid>446</parentid>
+      <timestamp>2022-11-19T23:07:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>447</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="g1zbz1orcslpk3p28pya2z7uzh531dl" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}</text>
+      <sha1>g1zbz1orcslpk3p28pya2z7uzh531dl</sha1>
     </revision>
   </page>
 </mediawiki>
