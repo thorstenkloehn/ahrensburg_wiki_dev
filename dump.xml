@@ -5166,6 +5166,48 @@ sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.or
 * [[C++:Operatoren]]</text>
       <sha1>drxxc75xadpj8t3gi8cgalfeoo9buyv</sha1>
     </revision>
+    <revision>
+      <id>493</id>
+      <parentid>443</parentid>
+      <timestamp>2022-11-25T11:31:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>493</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="132" sha1="eicr5hvpibga0ty82qa6nejl0ituj03" xml:space="preserve">
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+* [[C++:Automatische Typableitung]]
+* [[C++:Operatoren]]
+==Weblink==</text>
+      <sha1>eicr5hvpibga0ty82qa6nejl0ituj03</sha1>
+    </revision>
+    <revision>
+      <id>494</id>
+      <parentid>493</parentid>
+      <timestamp>2022-11-25T11:34:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Weblink */</comment>
+      <origin>494</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="6crumjpphx08zg9kr2whonso56g41il" xml:space="preserve">
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+* [[C++:Automatische Typableitung]]
+* [[C++:Operatoren]]
+==Weblink==
+* https://www.tutorialspoint.com/cplusplus/index.htm</text>
+      <sha1>6crumjpphx08zg9kr2whonso56g41il</sha1>
+    </revision>
   </page>
   <page>
     <title>C++:Hallo Welt</title>
@@ -5292,6 +5334,63 @@ int main() {
 * [[Java:Konstant]]
 * [[Java:Automatische Typableitung]]</text>
       <sha1>qst36wz9qf1wldyh5lnwdx0ifdcobhh</sha1>
+    </revision>
+    <revision>
+      <id>485</id>
+      <parentid>432</parentid>
+      <timestamp>2022-11-24T12:47:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>485</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="109" sha1="gb4mmv5orks64p9b8tix4sjhprtz4um" xml:space="preserve">* [[Java:Hallo Welt]]
+* [[Java:Variable]]
+* [[Java:Konstant]]
+* [[Java:Automatische Typableitung]]
+* [[Java]]</text>
+      <sha1>gb4mmv5orks64p9b8tix4sjhprtz4um</sha1>
+    </revision>
+    <revision>
+      <id>486</id>
+      <parentid>485</parentid>
+      <timestamp>2022-11-24T12:48:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>486</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="120" sha1="cxp87of0s316s3p5yce6lkaxn5h86aw" xml:space="preserve">* [[Java:Hallo Welt]]
+* [[Java:Variable]]
+* [[Java:Konstant]]
+* [[Java:Automatische Typableitung]]
+* [[Java:Operatoren]]</text>
+      <sha1>cxp87of0s316s3p5yce6lkaxn5h86aw</sha1>
+    </revision>
+    <revision>
+      <id>501</id>
+      <parentid>486</parentid>
+      <timestamp>2022-11-25T12:18:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>501</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="230" sha1="tv3mh5hsjql3l6g5dvi83bxp1l6faiu" xml:space="preserve">* [[Java:Hallo Welt]]
+* [[Java:Variable]]
+* [[Java:Konstant]]
+* [[Java:Automatische Typableitung]]
+* [[Java:Operatoren]]
+==Weblink==
+* https://www.tutorialspoint.com/java16/index.htm
+* https://www.tutorialspoint.com/java/index.htm</text>
+      <sha1>tv3mh5hsjql3l6g5dvi83bxp1l6faiu</sha1>
     </revision>
   </page>
   <page>
@@ -5699,6 +5798,28 @@ fun main() {
 * [[Go:Operatoren]]</text>
       <sha1>i139rc9saifhhl8hwgz0jtzccm8xh1e</sha1>
     </revision>
+    <revision>
+      <id>495</id>
+      <parentid>445</parentid>
+      <timestamp>2022-11-25T11:37:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>495</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="211" sha1="nemo6x9n8qyjbaecz9djjjindvkb5ot" xml:space="preserve">* [[Go:Hallo Welt]]
+* [[Go:Datentypen]]
+* [[Go:Konstanten]]
+* [[Go:Automatische Typableitung]]
+* [[Go:Kurze Variablendeklarationen]]
+* [[Go:Operatoren]]
+
+==Weblink==
+* https://www.tutorialspoint.com/go/index.htm</text>
+      <sha1>nemo6x9n8qyjbaecz9djjjindvkb5ot</sha1>
+    </revision>
   </page>
   <page>
     <title>Go:Hallo Welt</title>
@@ -5897,6 +6018,65 @@ func main() {
 * [[Rust:Konstanten]]
 * [[Rust:Automatische Typableitung]]</text>
       <sha1>1ns0cnznwjby1jx3761ysy8kv73hsa3</sha1>
+    </revision>
+    <revision>
+      <id>448</id>
+      <parentid>423</parentid>
+      <timestamp>2022-11-20T10:13:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>448</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="120" sha1="ont56bjnz0qk9ola7340zevzlhlnq3s" xml:space="preserve">* [[Rust:Hallo Welt]]
+* [[Rust:Datentypen]]
+* [[Rust:Konstanten]]
+* [[Rust:Automatische Typableitung]]
+* [[Rust:String]]</text>
+      <sha1>ont56bjnz0qk9ola7340zevzlhlnq3s</sha1>
+    </revision>
+    <revision>
+      <id>496</id>
+      <parentid>448</parentid>
+      <timestamp>2022-11-25T11:42:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>496</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="180" sha1="gvwktbneo3j44m67ke2jjwsa2ia51ci" xml:space="preserve">* [[Rust:Hallo Welt]]
+* [[Rust:Datentypen]]
+* [[Rust:Konstanten]]
+* [[Rust:Automatische Typableitung]]
+* [[Rust:String]]
+==Weblink==
+* https://www.tutorialspoint.com/rust/index.htm</text>
+      <sha1>gvwktbneo3j44m67ke2jjwsa2ia51ci</sha1>
+    </revision>
+    <revision>
+      <id>503</id>
+      <parentid>496</parentid>
+      <timestamp>2022-11-25T12:50:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>503</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="202" sha1="nd8n6mp395sgi3jzh5q5ms8x2dozb9z" xml:space="preserve">* [[Rust:Hallo Welt]]
+* [[Rust:Datentypen]]
+* [[Rust:Konstanten]]
+* [[Rust:Automatische Typableitung]]
+* [[Rust:String]]
+* [[Rust:Operatoren]]
+==Weblink==
+* https://www.tutorialspoint.com/rust/index.htm</text>
+      <sha1>nd8n6mp395sgi3jzh5q5ms8x2dozb9z</sha1>
     </revision>
   </page>
   <page>
@@ -6814,6 +6994,45 @@ target_link_libraries((der Projekt name) fcgi)
 * [[C:Operatoren]]</text>
       <sha1>5fq6injbqe3c443w9c4bo5d78osgftk</sha1>
     </revision>
+    <revision>
+      <id>492</id>
+      <parentid>403</parentid>
+      <timestamp>2022-11-25T11:24:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>492</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="143" sha1="hezni3uqp63uowka7ahz0dojitwyk75" xml:space="preserve">* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+* [[C:Konstanten]]
+* [[C:Operatoren]]
+==Weblink==
+* https://www.tutorialspoint.com/cprogramming/index.htm</text>
+      <sha1>hezni3uqp63uowka7ahz0dojitwyk75</sha1>
+    </revision>
+    <revision>
+      <id>511</id>
+      <parentid>492</parentid>
+      <timestamp>2022-11-25T14:25:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>511</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="172" sha1="b4soe9blmjqd5f6ss97fmlamzg5mygr" xml:space="preserve">* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+* [[C:Konstanten]]
+* [[C:Operatoren]]
+* [[C:Entscheidungsfindung]]
+==Weblink==
+* https://www.tutorialspoint.com/cprogramming/index.htm</text>
+      <sha1>b4soe9blmjqd5f6ss97fmlamzg5mygr</sha1>
+    </revision>
   </page>
   <page>
     <title>Ruby</title>
@@ -7050,6 +7269,24 @@ exit();
 * [[Python:Operatoren]]</text>
       <sha1>gq9gw8n54hkgc0ni0a3vdu0r6z8wcra</sha1>
     </revision>
+    <revision>
+      <id>500</id>
+      <parentid>429</parentid>
+      <timestamp>2022-11-25T12:05:27Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>500</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="132" sha1="e3hoj03wrhz5ca9nfpdoabf4r7vpp9f" xml:space="preserve">* [[Python:Hallo Welt]]
+* [[Python:Variable]]
+* [[Python:Operatoren]]
+==Weblink==
+* https://www.tutorialspoint.com/python3/index.htm</text>
+      <sha1>e3hoj03wrhz5ca9nfpdoabf4r7vpp9f</sha1>
+    </revision>
   </page>
   <page>
     <title>Python:Hallo Welt</title>
@@ -7169,6 +7406,25 @@ print("Hallo Welt")
 * [[Javascript:Konstant]]
 * [[Javascript:Operatoren]]</text>
       <sha1>t9gp5opal1s37ov6ba9t9r0uiaf5bw5</sha1>
+    </revision>
+    <revision>
+      <id>499</id>
+      <parentid>425</parentid>
+      <timestamp>2022-11-25T11:58:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>499</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="173" sha1="denq46l19avqk2mkw96lipgwdaj9pkw" xml:space="preserve">* [[Javascript:Hallo Welt]]
+* [[Javascript:Variable]]
+* [[Javascript:Konstant]]
+* [[Javascript:Operatoren]]
+==Weblink==
+* https://www.tutorialspoint.com/javascript/index.htm</text>
+      <sha1>denq46l19avqk2mkw96lipgwdaj9pkw</sha1>
     </revision>
   </page>
   <page>
@@ -8973,6 +9229,78 @@ Console.WriteLine("Hallo Welt");
       <text bytes="52" sha1="gvhq6tqoywugv3sq59vqqr83j4ncj78" xml:space="preserve">* [[Datenbank:Konsole]]
 * [[Datenbank:Psql Konsole]]</text>
       <sha1>gvhq6tqoywugv3sq59vqqr83j4ncj78</sha1>
+    </revision>
+    <revision>
+      <id>478</id>
+      <parentid>237</parentid>
+      <timestamp>2022-11-23T20:57:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>478</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="88" sha1="trpqllf2eko6vvf7jsk0t9z5m56z80r" xml:space="preserve">* [[Datenbank:Konsole]]
+* [[Datenbank:Psql Konsole]]
+* [[Datenbank:Datenbank erstellen]]</text>
+      <sha1>trpqllf2eko6vvf7jsk0t9z5m56z80r</sha1>
+    </revision>
+    <revision>
+      <id>497</id>
+      <parentid>478</parentid>
+      <timestamp>2022-11-25T11:50:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>497</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="152" sha1="t0sw0q9s3pxhaa3uwtz6g93jofdhuev" xml:space="preserve">* [[Datenbank:Konsole]]
+* [[Datenbank:Psql Konsole]]
+* [[Datenbank:Datenbank erstellen]]
+==Weblink==
+https://www.tutorialspoint.com/postgresql/index.htm</text>
+      <sha1>t0sw0q9s3pxhaa3uwtz6g93jofdhuev</sha1>
+    </revision>
+    <revision>
+      <id>498</id>
+      <parentid>497</parentid>
+      <timestamp>2022-11-25T11:50:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Weblink */</comment>
+      <origin>498</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="154" sha1="r5f3bqppwzi23xedvwaxi4grrcxti2w" xml:space="preserve">* [[Datenbank:Konsole]]
+* [[Datenbank:Psql Konsole]]
+* [[Datenbank:Datenbank erstellen]]
+==Weblink==
+* https://www.tutorialspoint.com/postgresql/index.htm</text>
+      <sha1>r5f3bqppwzi23xedvwaxi4grrcxti2w</sha1>
+    </revision>
+    <revision>
+      <id>505</id>
+      <parentid>498</parentid>
+      <timestamp>2022-11-25T13:12:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>505</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="7w0fz14tkyz6xj0c1i7ahrk20cbk8xm" xml:space="preserve">* [[Datenbank:Konsole]]
+* [[Datenbank:Psql Konsole]]
+* [[Datenbank:Datenbank erstellen]]
+* [[Datenbank:Datenbank auswählen]]
+==Weblink==
+* https://www.tutorialspoint.com/postgresql/index.htm</text>
+      <sha1>7w0fz14tkyz6xj0c1i7ahrk20cbk8xm</sha1>
     </revision>
   </page>
   <page>
@@ -13129,6 +13457,157 @@ final datentypen variable=wert;
 * Größer gleich &gt;=</text>
       <sha1>43e4cx90re9ptxc5cwnyyv591ghqbwy</sha1>
     </revision>
+    <revision>
+      <id>488</id>
+      <parentid>442</parentid>
+      <timestamp>2022-11-24T17:37:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Vergleichsoperatoren */</comment>
+      <origin>488</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="331" sha1="6obwngrxt3orxi5qqqc4p131n8xysqz" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+==Vergleichsoperatoren==
+* Ist gleich ==
+* ungleich !=
+* Kleiner &lt;
+* Kleiner gleich &lt;=
+* Größer &gt;
+* Größer gleich &gt;=
+==Logische Operatoren==</text>
+      <sha1>6obwngrxt3orxi5qqqc4p131n8xysqz</sha1>
+    </revision>
+    <revision>
+      <id>489</id>
+      <parentid>488</parentid>
+      <timestamp>2022-11-24T17:38:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Logische Operatoren */</comment>
+      <origin>489</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="344" sha1="j9pdma0edc11176n9q46j51glvgs3ai" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+==Vergleichsoperatoren==
+* Ist gleich ==
+* ungleich !=
+* Kleiner &lt;
+* Kleiner gleich &lt;=
+* Größer &gt;
+* Größer gleich &gt;=
+==Logische Operatoren==
+&lt;pre&gt;
+&amp;&amp; und</text>
+      <sha1>j9pdma0edc11176n9q46j51glvgs3ai</sha1>
+    </revision>
+    <revision>
+      <id>490</id>
+      <parentid>489</parentid>
+      <timestamp>2022-11-24T17:43:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Logische Operatoren */</comment>
+      <origin>490</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="367" sha1="qiytgm0eah3t28j35u69hsgdb33j1qn" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+==Vergleichsoperatoren==
+* Ist gleich ==
+* ungleich !=
+* Kleiner &lt;
+* Kleiner gleich &lt;=
+* Größer &gt;
+* Größer gleich &gt;=
+==Logische Operatoren==
+&lt;pre&gt;
+&amp;&amp; und
+|| oder
+! nicht
+&lt;/pre&gt;</text>
+      <sha1>qiytgm0eah3t28j35u69hsgdb33j1qn</sha1>
+    </revision>
   </page>
   <page>
     <title>Automatische Typableitung</title>
@@ -13361,6 +13840,111 @@ Verringert um Wert eins
 |}</text>
       <sha1>ewl8kcvjbxpil4ff39px18lh4hilvze</sha1>
     </revision>
+    <revision>
+      <id>483</id>
+      <parentid>428</parentid>
+      <timestamp>2022-11-23T22:34:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>483</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="343" sha1="4ktlhjzzdp4rkq6gbnv9kisamlnqokg" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+==Vergleichsoperatoren==
+&lt;pre&gt;
+== (gleich)
+!= (Ungleich)
+&gt; (größer als)
+&lt; (kleiner als)
+&gt;= (Größer als oder gleich)
+&lt;= (Kleiner als oder gleich)
+&lt;/pre&gt;</text>
+      <sha1>4ktlhjzzdp4rkq6gbnv9kisamlnqokg</sha1>
+    </revision>
+    <revision>
+      <id>507</id>
+      <parentid>483</parentid>
+      <timestamp>2022-11-25T13:24:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Vergleichsoperatoren */</comment>
+      <origin>507</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="403" sha1="7uwcikxcnk1jznzkhn5gev5txc8s0e0" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+==Vergleichsoperatoren==
+&lt;pre&gt;
+== (gleich)
+!= (Ungleich)
+&gt; (größer als)
+&lt; (kleiner als)
+&gt;= (Größer als oder gleich)
+&lt;= (Kleiner als oder gleich)
+&lt;/pre&gt;
+==Logische Operatoren==
+&lt;pre&gt;
+&amp;&amp; und
+|| oder
+! nicht
+&lt;/pre&gt;</text>
+      <sha1>7uwcikxcnk1jznzkhn5gev5txc8s0e0</sha1>
+    </revision>
   </page>
   <page>
     <title>Python:Operatoren</title>
@@ -13444,6 +14028,170 @@ Verringert um Wert eins
 |}</text>
       <sha1>0au4455uxswc9gd4nurkdg8e30udk8k</sha1>
     </revision>
+    <revision>
+      <id>484</id>
+      <parentid>431</parentid>
+      <timestamp>2022-11-24T12:24:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>484</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="339" sha1="h9t5rfo9ildw9cgtsur9wur3a5wjklu" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Potenz
+| **
+|-
+|Aufrunden von float auf Ganzahlen
+| //
+|-
+|}
+
+==Vergleichsoperatoren==
+&lt;pre&gt;
+== (gleich)
+!= (Ungleich)
+&gt; (größer als)
+&lt; (kleiner als)
+&gt;= (Größer als oder gleich)
+&lt;= (Kleiner als oder gleich)
+&lt;/pre&gt;</text>
+      <sha1>h9t5rfo9ildw9cgtsur9wur3a5wjklu</sha1>
+    </revision>
+    <revision>
+      <id>508</id>
+      <parentid>484</parentid>
+      <timestamp>2022-11-25T13:39:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Vergleichsoperatoren */</comment>
+      <origin>508</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="387" sha1="bn72hz5rlek21frcmt6jlndztbby6cz" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Potenz
+| **
+|-
+|Aufrunden von float auf Ganzahlen
+| //
+|-
+|}
+
+==Vergleichsoperatoren==
+&lt;pre&gt;
+== (gleich)
+!= (Ungleich)
+&gt; (größer als)
+&lt; (kleiner als)
+&gt;= (Größer als oder gleich)
+&lt;= (Kleiner als oder gleich)
+&lt;/pre&gt;
+==Logische Operatoren==
+
+&lt;pre&gt;
+
+und and
+oder or</text>
+      <sha1>bn72hz5rlek21frcmt6jlndztbby6cz</sha1>
+    </revision>
+    <revision>
+      <id>509</id>
+      <parentid>508</parentid>
+      <timestamp>2022-11-25T13:45:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Logische Operatoren */</comment>
+      <origin>509</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="405" sha1="r1fl6fqilczi4rl3vm5jyq50gml4afk" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Potenz
+| **
+|-
+|Aufrunden von float auf Ganzahlen
+| //
+|-
+|}
+
+==Vergleichsoperatoren==
+&lt;pre&gt;
+== (gleich)
+!= (Ungleich)
+&gt; (größer als)
+&lt; (kleiner als)
+&gt;= (Größer als oder gleich)
+&lt;= (Kleiner als oder gleich)
+&lt;/pre&gt;
+==Logische Operatoren==
+
+&lt;pre&gt;
+
+und and
+oder or
+nicht not
+
+&lt;/pre&gt;</text>
+      <sha1>r1fl6fqilczi4rl3vm5jyq50gml4afk</sha1>
+    </revision>
   </page>
   <page>
     <title>Java:Automatische Typableitung</title>
@@ -13508,6 +14256,104 @@ var variable=wert;
 |}</text>
       <sha1>g1zbz1orcslpk3p28pya2z7uzh531dl</sha1>
     </revision>
+    <revision>
+      <id>491</id>
+      <parentid>444</parentid>
+      <timestamp>2022-11-25T10:56:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>491</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="307" sha1="43e4cx90re9ptxc5cwnyyv591ghqbwy" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+==Vergleichsoperatoren==
+* Ist gleich ==
+* ungleich !=
+* Kleiner &lt;
+* Kleiner gleich &lt;=
+* Größer &gt;
+* Größer gleich &gt;=</text>
+      <sha1>43e4cx90re9ptxc5cwnyyv591ghqbwy</sha1>
+    </revision>
+    <revision>
+      <id>523</id>
+      <parentid>491</parentid>
+      <timestamp>2022-11-25T22:33:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>523</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="367" sha1="qiytgm0eah3t28j35u69hsgdb33j1qn" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+==Vergleichsoperatoren==
+* Ist gleich ==
+* ungleich !=
+* Kleiner &lt;
+* Kleiner gleich &lt;=
+* Größer &gt;
+* Größer gleich &gt;=
+==Logische Operatoren==
+&lt;pre&gt;
+&amp;&amp; und
+|| oder
+! nicht
+&lt;/pre&gt;</text>
+      <sha1>qiytgm0eah3t28j35u69hsgdb33j1qn</sha1>
+    </revision>
   </page>
   <page>
     <title>Go:Operatoren</title>
@@ -13564,6 +14410,1576 @@ var variable=wert;
 |-
 |}</text>
       <sha1>g1zbz1orcslpk3p28pya2z7uzh531dl</sha1>
+    </revision>
+    <revision>
+      <id>502</id>
+      <parentid>447</parentid>
+      <timestamp>2022-11-25T12:23:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>502</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="308" sha1="oc87vxe2vljugk1mw5d7j7ladj83i05" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+
+==Vergleichsoperatoren==
+* Ist gleich ==
+* ungleich !=
+* Kleiner &lt;
+* Kleiner gleich &lt;=
+* Größer &gt;
+* Größer gleich &gt;=</text>
+      <sha1>oc87vxe2vljugk1mw5d7j7ladj83i05</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rust:String</title>
+    <ns>0</ns>
+    <id>98</id>
+    <revision>
+      <id>449</id>
+      <timestamp>2022-11-20T10:24:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;String-Literal&lt;/pre&gt;  let variable:&amp;str=wert; let variable=wert;“</comment>
+      <origin>449</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="69" sha1="hz5qqsb2jxd5ia4syec3xysbisl0om4" xml:space="preserve">&lt;pre&gt;String-Literal&lt;/pre&gt;
+
+let variable:&amp;str=wert;
+let variable=wert;</text>
+      <sha1>hz5qqsb2jxd5ia4syec3xysbisl0om4</sha1>
+    </revision>
+    <revision>
+      <id>450</id>
+      <parentid>449</parentid>
+      <timestamp>2022-11-20T10:26:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>450</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="74" sha1="3shnkj6kkl6br65zrgs8kkxc6ax6h7b" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;</text>
+      <sha1>3shnkj6kkl6br65zrgs8kkxc6ax6h7b</sha1>
+    </revision>
+    <revision>
+      <id>451</id>
+      <parentid>450</parentid>
+      <timestamp>2022-11-20T10:27:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>451</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="92" sha1="ern1ym6ivf6gzkr7rmlbeou7s8p5m7g" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==</text>
+      <sha1>ern1ym6ivf6gzkr7rmlbeou7s8p5m7g</sha1>
+    </revision>
+    <revision>
+      <id>452</id>
+      <parentid>451</parentid>
+      <timestamp>2022-11-20T10:32:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* String-Objekt */</comment>
+      <origin>452</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="241" sha1="6jqcz6znkdn5uw9h8lyadhojphswj81" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new() //Leere String
+let variable=String::from(wert) //Mit einem Wert zuweisen                      // mit Wert zuweisen</text>
+      <sha1>6jqcz6znkdn5uw9h8lyadhojphswj81</sha1>
+    </revision>
+    <revision>
+      <id>453</id>
+      <parentid>452</parentid>
+      <timestamp>2022-11-20T10:36:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* String-Objekt */</comment>
+      <origin>453</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="199" sha1="rcddexmwu52muwebntxk8tubvuxfoz8" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new() //Leere String
+let variable=String::from(wert) //Mit einem Wert zuweisen</text>
+      <sha1>rcddexmwu52muwebntxk8tubvuxfoz8</sha1>
+    </revision>
+    <revision>
+      <id>454</id>
+      <parentid>453</parentid>
+      <timestamp>2022-11-20T10:40:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>454</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="260" sha1="761nevufivm3egzurvjf3u84r72ww49" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(wert); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen</text>
+      <sha1>761nevufivm3egzurvjf3u84r72ww49</sha1>
+    </revision>
+    <revision>
+      <id>455</id>
+      <parentid>454</parentid>
+      <timestamp>2022-11-20T11:06:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* String-Objekt */</comment>
+      <origin>455</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="289" sha1="2cltn2epeakiwlpnybhuhlde74khrjj" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(wert); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;</text>
+      <sha1>2cltn2epeakiwlpnybhuhlde74khrjj</sha1>
+    </revision>
+    <revision>
+      <id>456</id>
+      <parentid>455</parentid>
+      <timestamp>2022-11-20T11:10:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Ersetzen */</comment>
+      <origin>456</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="382" sha1="998hvykmh05a1yy7hl2yneeghm3epvs" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(wert); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable = wert.to_string();
+   let variable1 =variable.replace("altewert","neuwert");</text>
+      <sha1>998hvykmh05a1yy7hl2yneeghm3epvs</sha1>
+    </revision>
+    <revision>
+      <id>457</id>
+      <parentid>456</parentid>
+      <timestamp>2022-11-20T11:10:27Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Ersetzen */</comment>
+      <origin>457</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="380" sha1="loz852izbc9h06jlbvraf3l9jd8p0ux" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(wert); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable = wert.to_string();
+ let variable1 =variable.replace("altewert","neuwert");</text>
+      <sha1>loz852izbc9h06jlbvraf3l9jd8p0ux</sha1>
+    </revision>
+    <revision>
+      <id>458</id>
+      <parentid>457</parentid>
+      <timestamp>2022-11-20T11:10:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Ersetzen */</comment>
+      <origin>458</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="382" sha1="60u5sm81y5vus8bccetezcpykv9zmxl" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(wert); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable = "wert".to_string();
+ let variable1 =variable.replace("altewert","neuwert");</text>
+      <sha1>60u5sm81y5vus8bccetezcpykv9zmxl</sha1>
+    </revision>
+    <revision>
+      <id>459</id>
+      <parentid>458</parentid>
+      <timestamp>2022-11-20T11:11:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Ersetzen */</comment>
+      <origin>459</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="379" sha1="69t3rp83bkg1itiz7hegap03fbxmqo2" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(wert); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altewert","neuwert");</text>
+      <sha1>69t3rp83bkg1itiz7hegap03fbxmqo2</sha1>
+    </revision>
+    <revision>
+      <id>460</id>
+      <parentid>459</parentid>
+      <timestamp>2022-11-20T15:13:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>460</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="413" sha1="as78kltwde15syc97fxtjckr0mwvvfj" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(wert); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altewert","neuwert");
+===Extrahiert ein String-Slice===</text>
+      <sha1>as78kltwde15syc97fxtjckr0mwvvfj</sha1>
+    </revision>
+    <revision>
+      <id>461</id>
+      <parentid>460</parentid>
+      <timestamp>2022-11-20T15:14:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Ersetzen */</comment>
+      <origin>461</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="414" sha1="at8icd7pz3jb0gfim06k3t3j1a5c2ee" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(wert); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altewert","neuwert");
+
+===Extrahiert ein String-Slice===</text>
+      <sha1>at8icd7pz3jb0gfim06k3t3j1a5c2ee</sha1>
+    </revision>
+    <revision>
+      <id>462</id>
+      <parentid>461</parentid>
+      <timestamp>2022-11-20T15:15:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>462</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="420" sha1="a347nfdihrp8lp9gn2gy8tc0a1un2vm" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(wert); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altewert","neuwert");
+&lt;/pre&gt;
+===Extrahiert ein String-Slice===</text>
+      <sha1>a347nfdihrp8lp9gn2gy8tc0a1un2vm</sha1>
+    </revision>
+    <revision>
+      <id>463</id>
+      <parentid>462</parentid>
+      <timestamp>2022-11-20T16:04:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Extrahiert ein String-Slice */</comment>
+      <origin>463</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="582" sha1="2k0tqrsll65k48eoy266hpfrw9o5ub1" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(wert); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altewert","neuwert");
+&lt;/pre&gt;
+===Extrahiert ein String-Slice===
+&lt;pre&gt;
+fn main(){
+
+    let  variable = String::from("example_string");
+    funktion(variable.as_str());
+}
+fn funktion(wert:&amp;str) {
+    print!("{}",wert);
+}
+&lt;/pre&gt;</text>
+      <sha1>2k0tqrsll65k48eoy266hpfrw9o5ub1</sha1>
+    </revision>
+    <revision>
+      <id>464</id>
+      <parentid>463</parentid>
+      <timestamp>2022-11-20T16:27:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Ersetzen */</comment>
+      <origin>464</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="584" sha1="f7vgglk43ovejtsfx4ag8c6kffzj020" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(wert); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altewert","neuewert");
+&lt;/pre&gt;
+
+===Extrahiert ein String-Slice===
+&lt;pre&gt;
+fn main(){
+
+    let  variable = String::from("example_string");
+    funktion(variable.as_str());
+}
+fn funktion(wert:&amp;str) {
+    print!("{}",wert);
+}
+&lt;/pre&gt;</text>
+      <sha1>f7vgglk43ovejtsfx4ag8c6kffzj020</sha1>
+    </revision>
+    <revision>
+      <id>465</id>
+      <parentid>464</parentid>
+      <timestamp>2022-11-20T16:31:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Extrahiert ein String-Slice */</comment>
+      <origin>465</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="580" sha1="py3pug3o4o6urhhjdyiid5l2wm06s0l" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(wert); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altewert","neuewert");
+&lt;/pre&gt;
+
+===Extrahiert ein String-Slice===
+&lt;pre&gt;
+fn main(){
+
+    let  variable = String::from("Hallo Welt");
+    funktion(variable.as_str());
+}
+fn funktion(wert:&amp;str) {
+    print!("{}",wert);
+}
+&lt;/pre&gt;</text>
+      <sha1>py3pug3o4o6urhhjdyiid5l2wm06s0l</sha1>
+    </revision>
+    <revision>
+      <id>466</id>
+      <parentid>465</parentid>
+      <timestamp>2022-11-23T13:17:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Extrahiert ein String-Slice */</comment>
+      <origin>466</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="387" sha1="tqpip97b76gktbyjzl2mwxum7a7vr83" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(wert); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altewert","neuewert");
+&lt;/pre&gt;</text>
+      <sha1>tqpip97b76gktbyjzl2mwxum7a7vr83</sha1>
+    </revision>
+    <revision>
+      <id>467</id>
+      <parentid>466</parentid>
+      <timestamp>2022-11-23T13:39:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>467</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="424" sha1="euy93015kqhzv6qisnx93z4rfw6wixm" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(wert); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altewert","neuewert");
+&lt;/pre&gt;
+===Anhängen an eine Zeichenkette===</text>
+      <sha1>euy93015kqhzv6qisnx93z4rfw6wixm</sha1>
+    </revision>
+    <revision>
+      <id>468</id>
+      <parentid>467</parentid>
+      <timestamp>2022-11-23T13:48:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Anhängen an eine Zeichenkette */</comment>
+      <origin>468</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="432" sha1="fch1uz6k8j3mhjzh2l2jie782i4whr2" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=wert;
+let variable=wert;
+&lt;/pre&gt;
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(wert); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altewert","neuewert");
+&lt;/pre&gt;
+===Anhängen an eine Zeichenkette (Hallo)===</text>
+      <sha1>fch1uz6k8j3mhjzh2l2jie782i4whr2</sha1>
+    </revision>
+    <revision>
+      <id>469</id>
+      <parentid>468</parentid>
+      <timestamp>2022-11-23T13:49:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* String-Literal */</comment>
+      <origin>469</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="433" sha1="sooe0nag1turl6mn18551vq0ybro58v" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=text;
+let variable=text;
+&lt;/pre&gt;
+
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(wert); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altewert","neuewert");
+&lt;/pre&gt;
+===Anhängen an eine Zeichenkette (Hallo)===</text>
+      <sha1>sooe0nag1turl6mn18551vq0ybro58v</sha1>
+    </revision>
+    <revision>
+      <id>470</id>
+      <parentid>469</parentid>
+      <timestamp>2022-11-23T13:50:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* String-Objekt */</comment>
+      <origin>470</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="433" sha1="7a7yn52hi1t41goab6it1jr19yte91h" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=text;
+let variable=text;
+&lt;/pre&gt;
+
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(Text); //Mit einem Wert zuweisen
+let variable=wert.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altetext","neuetext");
+&lt;/pre&gt;
+===Anhängen an eine Zeichenkette (Hallo)===</text>
+      <sha1>7a7yn52hi1t41goab6it1jr19yte91h</sha1>
+    </revision>
+    <revision>
+      <id>471</id>
+      <parentid>470</parentid>
+      <timestamp>2022-11-23T13:51:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* String-Objekt */</comment>
+      <origin>471</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="433" sha1="ddyxcdyv549xrxyg69o8nhxb9qprkbb" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=text;
+let variable=text;
+&lt;/pre&gt;
+
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(Text); //Mit einem Wert zuweisen
+let variable=text.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altetext","neuetext");
+&lt;/pre&gt;
+===Anhängen an eine Zeichenkette (Hallo)===</text>
+      <sha1>ddyxcdyv549xrxyg69o8nhxb9qprkbb</sha1>
+    </revision>
+    <revision>
+      <id>472</id>
+      <parentid>471</parentid>
+      <timestamp>2022-11-23T13:59:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Anhängen an eine Zeichenkette (Hallo) */</comment>
+      <origin>472</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="579" sha1="2ugk0lxlqs9nm0dqtkn30nxitstapu9" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=text;
+let variable=text;
+&lt;/pre&gt;
+
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(Text); //Mit einem Wert zuweisen
+let variable=text.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altetext","neuetext");
+&lt;/pre&gt;
+===Anhängen an eine Zeichenkette (Hallo Thorsten)===
+&lt;pre&gt;
+let mut variable="Hallo".to_string; //Hallo
+variable.push_str("Thorsten");          //Anhang Thorsten
+print!("{}",variable)
+&lt;/pre&gt;</text>
+      <sha1>2ugk0lxlqs9nm0dqtkn30nxitstapu9</sha1>
+    </revision>
+    <revision>
+      <id>473</id>
+      <parentid>472</parentid>
+      <timestamp>2022-11-23T14:04:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Anhängen an eine Zeichenkette (Hallo Thorsten) */</comment>
+      <origin>473</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="615" sha1="hypfzd4bak6r3hlcxr69uobsg9jy5rr" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=text;
+let variable=text;
+&lt;/pre&gt;
+
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(Text); //Mit einem Wert zuweisen
+let variable=text.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altetext","neuetext");
+&lt;/pre&gt;
+===Anhängen an eine Zeichenkette (Hallo Thorsten)===
+&lt;pre&gt;
+let mut variable="Hallo".to_string; //Hallo
+variable.push_str("Thorsten");          //Anhang Thorsten
+print!("{}",variable)
+&lt;/pre&gt;
+===Anhängen an eine Zeichen (H)===</text>
+      <sha1>hypfzd4bak6r3hlcxr69uobsg9jy5rr</sha1>
+    </revision>
+    <revision>
+      <id>474</id>
+      <parentid>473</parentid>
+      <timestamp>2022-11-23T14:11:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Anhängen an eine Zeichenkette (Hallo Thorsten) */</comment>
+      <origin>474</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="626" sha1="d3uxv52nbfnze9yhocfbe1jc05okzad" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=text;
+let variable=text;
+&lt;/pre&gt;
+
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(Text); //Mit einem Wert zuweisen
+let variable=text.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altetext","neuetext");
+&lt;/pre&gt;
+===Anhängen an eine Zeichenkette (Hallo Thorsten)===
+&lt;pre&gt;
+let mut variable="Hallo".to_string; //Hallo
+variable.push_str("Thorsten");          //Anhang Thorsten
+print!("{}",variable) //Ausgabe
+&lt;/pre&gt;
+
+===Anhängen an eine Zeichen (H)===</text>
+      <sha1>d3uxv52nbfnze9yhocfbe1jc05okzad</sha1>
+    </revision>
+    <revision>
+      <id>475</id>
+      <parentid>474</parentid>
+      <timestamp>2022-11-23T14:13:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Anhängen an eine Zeichen (H) */</comment>
+      <origin>475</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="755" sha1="6ig08736kank57cx8fvy4jlt80o2rlq" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=text;
+let variable=text;
+&lt;/pre&gt;
+
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(Text); //Mit einem Wert zuweisen
+let variable=text.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="wert".to_string();
+ let variable1=variable.replace("altetext","neuetext");
+&lt;/pre&gt;
+===Anhängen an eine Zeichenkette (Hallo Thorsten)===
+&lt;pre&gt;
+let mut variable="Hallo".to_string; //Hallo
+variable.push_str("Thorsten");          //Anhang Thorsten
+print!("{}",variable) //Ausgabe
+&lt;/pre&gt;
+
+===Anhängen an eine Zeichen (H)===
+&lt;pre&gt;
+let mut variable="Hallo".to_string; //Hallo
+variable.push('H');          //Anhang H
+print!("{}",variable) //Ausgabe
+&lt;/pre&gt;</text>
+      <sha1>6ig08736kank57cx8fvy4jlt80o2rlq</sha1>
+    </revision>
+    <revision>
+      <id>476</id>
+      <parentid>475</parentid>
+      <timestamp>2022-11-23T14:13:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Ersetzen */</comment>
+      <origin>476</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="756" sha1="lo3yngbyigb383ogjx2fmtorzf89q31" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=text;
+let variable=text;
+&lt;/pre&gt;
+
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(Text); //Mit einem Wert zuweisen
+let variable=text.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Ersetzen===
+&lt;pre&gt;
+ let  variable="Text".to_string();
+ let variable1=variable.replace("altetext","neuetext");
+&lt;/pre&gt;
+
+===Anhängen an eine Zeichenkette (Hallo Thorsten)===
+&lt;pre&gt;
+let mut variable="Hallo".to_string; //Hallo
+variable.push_str("Thorsten");          //Anhang Thorsten
+print!("{}",variable) //Ausgabe
+&lt;/pre&gt;
+
+===Anhängen an eine Zeichen (H)===
+&lt;pre&gt;
+let mut variable="Hallo".to_string; //Hallo
+variable.push('H');          //Anhang H
+print!("{}",variable) //Ausgabe
+&lt;/pre&gt;</text>
+      <sha1>lo3yngbyigb383ogjx2fmtorzf89q31</sha1>
+    </revision>
+    <revision>
+      <id>477</id>
+      <parentid>476</parentid>
+      <timestamp>2022-11-23T14:17:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Ersetzen */</comment>
+      <origin>477</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="636" sha1="dqavq9zppgk0zxi7q9lzh3m4ox7dwnc" xml:space="preserve">==String-Literal==
+&lt;pre&gt;
+let variable:&amp;str=text;
+let variable=text;
+&lt;/pre&gt;
+
+==String-Objekt==
+
+&lt;pre&gt;
+let variable=String::new(); //Leere String
+let variable=String::from(Text); //Mit einem Wert zuweisen
+let variable=text.to_string();  //Mit String Wert zuweisen
+&lt;/pre&gt;
+
+===Anhängen an eine Zeichenkette (Hallo Thorsten)===
+&lt;pre&gt;
+let mut variable="Hallo".to_string; //Hallo
+variable.push_str("Thorsten");          //Anhang Thorsten
+print!("{}",variable) //Ausgabe
+&lt;/pre&gt;
+
+===Anhängen an eine Zeichen (H)===
+&lt;pre&gt;
+let mut variable="Hallo".to_string; //Hallo
+variable.push('H');          //Anhang H
+print!("{}",variable) //Ausgabe
+&lt;/pre&gt;</text>
+      <sha1>dqavq9zppgk0zxi7q9lzh3m4ox7dwnc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datenbank:Datenbank erstellen</title>
+    <ns>0</ns>
+    <id>99</id>
+    <revision>
+      <id>479</id>
+      <timestamp>2022-11-23T21:16:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Console==“</comment>
+      <origin>479</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11" sha1="5xfqfpd22ijyj5m30vg7yrgtbhmeglg" xml:space="preserve">==Console==</text>
+      <sha1>5xfqfpd22ijyj5m30vg7yrgtbhmeglg</sha1>
+    </revision>
+    <revision>
+      <id>480</id>
+      <parentid>479</parentid>
+      <timestamp>2022-11-23T21:19:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>480</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="80" sha1="irav2gtq1n985p34sjcdhf1yn8uq76a" xml:space="preserve">==Console==
+&lt;pre&gt;
+createdb -U postgres-E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;</text>
+      <sha1>irav2gtq1n985p34sjcdhf1yn8uq76a</sha1>
+    </revision>
+    <revision>
+      <id>481</id>
+      <parentid>480</parentid>
+      <timestamp>2022-11-23T21:24:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>481</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="81" sha1="1p7ncldk6w89kb8a27x9yyfdqz82s30" xml:space="preserve">==Console==
+&lt;pre&gt;
+createdb -U postgres -E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;</text>
+      <sha1>1p7ncldk6w89kb8a27x9yyfdqz82s30</sha1>
+    </revision>
+    <revision>
+      <id>482</id>
+      <parentid>481</parentid>
+      <timestamp>2022-11-23T21:34:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Console */</comment>
+      <origin>482</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="133" sha1="9ktyno9fgl80v32dze4fumc83wh2yyj" xml:space="preserve">==Console==
+&lt;pre&gt;
+createdb -U postgres -E UTF8 -O Nutzername Datenbankname
+&lt;/pre&gt;
+==Psql==
+&lt;pre&gt;
+
+CREATE DATABASE datenkname;
+
+&lt;/pre&gt;</text>
+      <sha1>9ktyno9fgl80v32dze4fumc83wh2yyj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Java:Operatoren</title>
+    <ns>0</ns>
+    <id>100</id>
+    <revision>
+      <id>487</id>
+      <timestamp>2022-11-24T12:54:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{| class="wikitable" |+Grundrechenarten |- |Plus | + |- |Minus | - |- |Malnehmen | *    |- |Teilen | /  |- |Rest | %  |- |Erhöht um Wert eins | ++ |- |Verringert um Wert eins | -- |- |}“</comment>
+      <origin>487</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="186" sha1="ewl8kcvjbxpil4ff39px18lh4hilvze" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}</text>
+      <sha1>ewl8kcvjbxpil4ff39px18lh4hilvze</sha1>
+    </revision>
+    <revision>
+      <id>510</id>
+      <parentid>487</parentid>
+      <timestamp>2022-11-25T14:07:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>510</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="308" sha1="49bb5er9f3n6k2qqd9nrdj5ff17tabu" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+==Vergleichsoperatoren==
+* Ist gleich ==
+* ungleich !=
+* Kleiner &lt;
+* Kleiner gleich &lt;=
+* Größer &gt;
+* Größer gleich &gt;=</text>
+      <sha1>49bb5er9f3n6k2qqd9nrdj5ff17tabu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rust:Operatoren</title>
+    <ns>0</ns>
+    <id>101</id>
+    <revision>
+      <id>504</id>
+      <timestamp>2022-11-25T12:54:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{| class="wikitable" |+Grundrechenarten |- |Plus | + |- |Minus | - |- |Malnehmen | *   |- |Teilen | /  |- |Rest | %  |- |Erhöht um Wert eins | ++ |- |Verringert um Wert eins | -- |- |}“</comment>
+      <origin>504</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="g1zbz1orcslpk3p28pya2z7uzh531dl" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}</text>
+      <sha1>g1zbz1orcslpk3p28pya2z7uzh531dl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datenbank:Datenbank auswählen</title>
+    <ns>0</ns>
+    <id>102</id>
+    <revision>
+      <id>506</id>
+      <timestamp>2022-11-25T13:16:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; \c datenbankname; &lt;/pre&gt;“</comment>
+      <origin>506</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30" sha1="fjd1akira3ne2jxsirlvppmgxbwlt9s" xml:space="preserve">&lt;pre&gt;
+\c datenbankname;
+&lt;/pre&gt;</text>
+      <sha1>fjd1akira3ne2jxsirlvppmgxbwlt9s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:Entscheidungsfindung</title>
+    <ns>0</ns>
+    <id>103</id>
+    <revision>
+      <id>512</id>
+      <timestamp>2022-11-25T14:43:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; if (Bedingung) {   Anweisung; } &lt;/pre&gt;“</comment>
+      <origin>512</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="rmfhoy3k9ztexla1vgurikeqaxdwthw" xml:space="preserve">&lt;pre&gt;
+if (Bedingung) {
+  Anweisung;
+}
+&lt;/pre&gt;</text>
+      <sha1>rmfhoy3k9ztexla1vgurikeqaxdwthw</sha1>
+    </revision>
+    <revision>
+      <id>513</id>
+      <parentid>512</parentid>
+      <timestamp>2022-11-25T14:46:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>513</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="74" sha1="99l5cjj8sd8h978ygga9bkp4tz4r4hr" xml:space="preserve">Einfache Entscheidungsfindung
+&lt;pre&gt;
+if (Bedingung) {
+  Anweisung;
+}
+&lt;/pre&gt;</text>
+      <sha1>99l5cjj8sd8h978ygga9bkp4tz4r4hr</sha1>
+    </revision>
+    <revision>
+      <id>514</id>
+      <parentid>513</parentid>
+      <timestamp>2022-11-25T14:51:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>514</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="139" sha1="hdvdall0lnpq8llcwtn5os6dlj90aqy" xml:space="preserve">Einfache Entscheidungsfindung
+&lt;pre&gt;
+if (Bedingung) {
+  Anweisung;
+}
+&lt;/pre&gt;
+Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist</text>
+      <sha1>hdvdall0lnpq8llcwtn5os6dlj90aqy</sha1>
+    </revision>
+    <revision>
+      <id>515</id>
+      <parentid>514</parentid>
+      <timestamp>2022-11-25T14:53:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>515</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="203" sha1="0lh9jftacpsmhmv9mfney202vy7fel7" xml:space="preserve">Einfache Entscheidungsfindung
+&lt;pre&gt;
+if (Bedingung) {
+  Anweisung;
+}
+&lt;/pre&gt;
+Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist
+if (Bedingung) {
+  richtig Anweisung;
+} else {
+falsch Anweisung</text>
+      <sha1>0lh9jftacpsmhmv9mfney202vy7fel7</sha1>
+    </revision>
+    <revision>
+      <id>516</id>
+      <parentid>515</parentid>
+      <timestamp>2022-11-25T14:53:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>516</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="217" sha1="e1mt1k35kqv22uy2zs2zln3uobgye0m" xml:space="preserve">Einfache Entscheidungsfindung
+&lt;pre&gt;
+if (Bedingung) {
+  Anweisung;
+}
+&lt;/pre&gt;
+Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist
+&lt;pre&gt;
+if (Bedingung) {
+  richtig Anweisung;
+} else {
+falsch Anweisung;
+&lt;/pre&gt;</text>
+      <sha1>e1mt1k35kqv22uy2zs2zln3uobgye0m</sha1>
+    </revision>
+    <revision>
+      <id>517</id>
+      <parentid>516</parentid>
+      <timestamp>2022-11-25T15:09:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>517</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="5rsuqosl88tobxvoyj138qhrnsqo9nz" xml:space="preserve">Einfache Entscheidungsfindung
+&lt;pre&gt;
+if (Bedingung) {
+  Anweisung;
+}
+&lt;/pre&gt;
+Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist
+&lt;pre&gt;
+if (Bedingung) {
+  richtig Anweisung;
+} else {
+falsch Anweisung;
+&lt;/pre&gt;
+
+Mehrfache Verzweigung</text>
+      <sha1>5rsuqosl88tobxvoyj138qhrnsqo9nz</sha1>
+    </revision>
+    <revision>
+      <id>518</id>
+      <parentid>517</parentid>
+      <timestamp>2022-11-25T15:17:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>518</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="260" sha1="rsqravb9tsrvb33ehhiscvdacj4sey4" xml:space="preserve">Einfache Entscheidungsfindung
+&lt;pre&gt;
+if (Bedingung) {
+  Anweisung;
+}
+&lt;/pre&gt;
+Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist
+&lt;pre&gt;
+if (Bedingung) {
+  richtig Bedingung Anweisung;
+} else {
+falsch Bedingung Anweisung;
+&lt;/pre&gt;
+
+Mehrfache Verzweigung</text>
+      <sha1>rsqravb9tsrvb33ehhiscvdacj4sey4</sha1>
+    </revision>
+    <revision>
+      <id>519</id>
+      <parentid>518</parentid>
+      <timestamp>2022-11-25T21:59:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>519</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="433" sha1="euvu9blgidxs8i5skricbdan13w0i0q" xml:space="preserve">Einfache Entscheidungsfindung
+&lt;pre&gt;
+if (Bedingung) {
+  Anweisung;
+}
+&lt;/pre&gt;
+Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist
+&lt;pre&gt;
+if (Bedingung) {
+  richtig Bedingung Anweisung;
+} else {
+falsch Bedingung Anweisung;
+&lt;/pre&gt;
+
+Mehrfache Verzweigung
+&lt;pre&gt;
+    switch (Bedingung) {
+
+        case 1 :
+            Anweisung 1;
+            break;
+        default:
+            Default Anweisung;
+            break;
+    }
+&lt;/pre&gt;</text>
+      <sha1>euvu9blgidxs8i5skricbdan13w0i0q</sha1>
+    </revision>
+    <revision>
+      <id>520</id>
+      <parentid>519</parentid>
+      <timestamp>2022-11-25T22:01:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>520</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="445" sha1="kvfo1mbrz7fwrufe3jrry7r4sdgv9xl" xml:space="preserve">==Einfache Entscheidungsfindung==
+&lt;pre&gt;
+if (Bedingung) {
+  Anweisung;
+}
+&lt;/pre&gt;
+==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist==
+&lt;pre&gt;
+if (Bedingung) {
+  richtig Bedingung Anweisung;
+} else {
+falsch Bedingung Anweisung;
+&lt;/pre&gt;
+
+==Mehrfache Verzweigung==
+&lt;pre&gt;
+    switch (Bedingung) {
+
+        case 1 :
+            Anweisung 1;
+            break;
+        default:
+            Default Anweisung;
+            break;
+    }
+&lt;/pre&gt;</text>
+      <sha1>kvfo1mbrz7fwrufe3jrry7r4sdgv9xl</sha1>
+    </revision>
+    <revision>
+      <id>521</id>
+      <parentid>520</parentid>
+      <timestamp>2022-11-25T22:02:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Mehrfache Verzweigung */</comment>
+      <origin>521</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="444" sha1="8zlwlctelw94r2hycxlkphbn6nz7a83" xml:space="preserve">==Einfache Entscheidungsfindung==
+&lt;pre&gt;
+if (Bedingung) {
+  Anweisung;
+}
+&lt;/pre&gt;
+==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist==
+&lt;pre&gt;
+if (Bedingung) {
+  richtig Bedingung Anweisung;
+} else {
+falsch Bedingung Anweisung;
+&lt;/pre&gt;
+
+==Mehrfache Verzweigung==
+&lt;pre&gt;
+    switch (Bedingung) {
+
+        case 1:
+            Anweisung 1;
+            break;
+        default:
+            Default Anweisung;
+            break;
+    }
+&lt;/pre&gt;</text>
+      <sha1>8zlwlctelw94r2hycxlkphbn6nz7a83</sha1>
+    </revision>
+    <revision>
+      <id>522</id>
+      <parentid>521</parentid>
+      <timestamp>2022-11-25T22:12:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist */</comment>
+      <origin>522</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="446" sha1="bugcg0h0u4to7hwh8ezvd8o39m0cptk" xml:space="preserve">==Einfache Entscheidungsfindung==
+&lt;pre&gt;
+if (Bedingung) {
+  Anweisung;
+}
+&lt;/pre&gt;
+==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist==
+&lt;pre&gt;
+if (Bedingung) {
+  richtig Bedingung Anweisung;
+} else {
+falsch Bedingung Anweisung;
+}
+&lt;/pre&gt;
+
+==Mehrfache Verzweigung==
+&lt;pre&gt;
+    switch (Bedingung) {
+
+        case 1:
+            Anweisung 1;
+            break;
+        default:
+            Default Anweisung;
+            break;
+    }
+&lt;/pre&gt;</text>
+      <sha1>bugcg0h0u4to7hwh8ezvd8o39m0cptk</sha1>
     </revision>
   </page>
 </mediawiki>
