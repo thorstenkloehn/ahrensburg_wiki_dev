@@ -5208,6 +5208,28 @@ sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.or
 * https://www.tutorialspoint.com/cplusplus/index.htm</text>
       <sha1>6crumjpphx08zg9kr2whonso56g41il</sha1>
     </revision>
+    <revision>
+      <id>551</id>
+      <parentid>494</parentid>
+      <timestamp>2022-11-27T16:44:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>551</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="216" sha1="r5xily3dkugycs0sgkasoli5rx9obd9" xml:space="preserve">
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+* [[C++:Automatische Typableitung]]
+* [[C++:Operatoren]]
+* [[C++:Entscheidungsfindung]]
+==Weblink==
+* https://www.tutorialspoint.com/cplusplus/index.htm</text>
+      <sha1>r5xily3dkugycs0sgkasoli5rx9obd9</sha1>
+    </revision>
   </page>
   <page>
     <title>C++:Hallo Welt</title>
@@ -5819,6 +5841,28 @@ fun main() {
 ==Weblink==
 * https://www.tutorialspoint.com/go/index.htm</text>
       <sha1>nemo6x9n8qyjbaecz9djjjindvkb5ot</sha1>
+    </revision>
+    <revision>
+      <id>553</id>
+      <parentid>495</parentid>
+      <timestamp>2022-11-28T02:07:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>553</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="8s60d47dstkutrthcj4y4641a956i2s" xml:space="preserve">* [[Go:Hallo Welt]]
+* [[Go:Datentypen]]
+* [[Go:Konstanten]]
+* [[Go:Automatische Typableitung]]
+* [[Go:Kurze Variablendeklarationen]]
+* [[Go:Operatoren]]
+* [[Go:Entscheidungsfindung]]
+==Weblink==
+* https://www.tutorialspoint.com/go/index.htm</text>
+      <sha1>8s60d47dstkutrthcj4y4641a956i2s</sha1>
     </revision>
   </page>
   <page>
@@ -7033,6 +7077,27 @@ target_link_libraries((der Projekt name) fcgi)
 * https://www.tutorialspoint.com/cprogramming/index.htm</text>
       <sha1>b4soe9blmjqd5f6ss97fmlamzg5mygr</sha1>
     </revision>
+    <revision>
+      <id>541</id>
+      <parentid>511</parentid>
+      <timestamp>2022-11-27T15:51:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>541</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="l6x9yqdilooz3z65qtporz01j3mrfdf" xml:space="preserve">* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+* [[C:Konstanten]]
+* [[C:Operatoren]]
+* [[C:Entscheidungsfindung]]
+* [[C:Schleife]]
+==Weblink==
+* https://www.tutorialspoint.com/cprogramming/index.htm</text>
+      <sha1>l6x9yqdilooz3z65qtporz01j3mrfdf</sha1>
+    </revision>
   </page>
   <page>
     <title>Ruby</title>
@@ -7287,6 +7352,25 @@ exit();
 * https://www.tutorialspoint.com/python3/index.htm</text>
       <sha1>e3hoj03wrhz5ca9nfpdoabf4r7vpp9f</sha1>
     </revision>
+    <revision>
+      <id>535</id>
+      <parentid>500</parentid>
+      <timestamp>2022-11-26T23:55:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>535</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="167" sha1="3thgq42b2j0y7wmmo6b3r9xle77lafm" xml:space="preserve">* [[Python:Hallo Welt]]
+* [[Python:Variable]]
+* [[Python:Operatoren]]
+* [[Python::Entscheidungsfindung]]
+==Weblink==
+* https://www.tutorialspoint.com/python3/index.htm</text>
+      <sha1>3thgq42b2j0y7wmmo6b3r9xle77lafm</sha1>
+    </revision>
   </page>
   <page>
     <title>Python:Hallo Welt</title>
@@ -7425,6 +7509,46 @@ print("Hallo Welt")
 ==Weblink==
 * https://www.tutorialspoint.com/javascript/index.htm</text>
       <sha1>denq46l19avqk2mkw96lipgwdaj9pkw</sha1>
+    </revision>
+    <revision>
+      <id>532</id>
+      <parentid>499</parentid>
+      <timestamp>2022-11-26T16:02:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>532</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="209" sha1="kzjcgmaj4vv0wl1kkk8eafu412b87y6" xml:space="preserve">* [[Javascript:Hallo Welt]]
+* [[Javascript:Variable]]
+* [[Javascript:Konstant]]
+* [[Javascript:Operatoren]]
+* [[Javascript:Entscheidungsfindung
+==Weblink==
+* https://www.tutorialspoint.com/javascript/index.htm</text>
+      <sha1>kzjcgmaj4vv0wl1kkk8eafu412b87y6</sha1>
+    </revision>
+    <revision>
+      <id>533</id>
+      <parentid>532</parentid>
+      <timestamp>2022-11-26T16:02:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>533</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="211" sha1="cq1y0xd6evk4uobz8hoj4ve9lf0xnkv" xml:space="preserve">* [[Javascript:Hallo Welt]]
+* [[Javascript:Variable]]
+* [[Javascript:Konstant]]
+* [[Javascript:Operatoren]]
+* [[Javascript:Entscheidungsfindung]]
+==Weblink==
+* https://www.tutorialspoint.com/javascript/index.htm</text>
+      <sha1>cq1y0xd6evk4uobz8hoj4ve9lf0xnkv</sha1>
     </revision>
   </page>
   <page>
@@ -9301,6 +9425,26 @@ https://www.tutorialspoint.com/postgresql/index.htm</text>
 ==Weblink==
 * https://www.tutorialspoint.com/postgresql/index.htm</text>
       <sha1>7w0fz14tkyz6xj0c1i7ahrk20cbk8xm</sha1>
+    </revision>
+    <revision>
+      <id>526</id>
+      <parentid>505</parentid>
+      <timestamp>2022-11-26T01:19:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>526</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="nw4515ppf4v4vokijt8g25zbfiqwcdz" xml:space="preserve">* [[Datenbank:Konsole]]
+* [[Datenbank:Psql Konsole]]
+* [[Datenbank:Datenbank erstellen]]
+* [[Datenbank:Datenbank auswählen]]
+* [[Datenbank:Datenbank löschen]]
+==Weblink==
+* https://www.tutorialspoint.com/postgresql/index.htm</text>
+      <sha1>nw4515ppf4v4vokijt8g25zbfiqwcdz</sha1>
     </revision>
   </page>
   <page>
@@ -14458,6 +14602,60 @@ var variable=wert;
 * Größer gleich &gt;=</text>
       <sha1>oc87vxe2vljugk1mw5d7j7ladj83i05</sha1>
     </revision>
+    <revision>
+      <id>524</id>
+      <parentid>502</parentid>
+      <timestamp>2022-11-26T00:27:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Vergleichsoperatoren */</comment>
+      <origin>524</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="368" sha1="dmprdq4mxmd27yf6i1tpvpotu6yfxpn" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+
+==Vergleichsoperatoren==
+* Ist gleich ==
+* ungleich !=
+* Kleiner &lt;
+* Kleiner gleich &lt;=
+* Größer &gt;
+* Größer gleich &gt;=
+==Logische Operatoren==
+&lt;pre&gt;
+&amp;&amp; und
+|| oder
+! nicht
+&lt;/pre&gt;</text>
+      <sha1>dmprdq4mxmd27yf6i1tpvpotu6yfxpn</sha1>
+    </revision>
   </page>
   <page>
     <title>Rust:String</title>
@@ -15590,6 +15788,60 @@ CREATE DATABASE datenkname;
 * Größer gleich &gt;=</text>
       <sha1>49bb5er9f3n6k2qqd9nrdj5ff17tabu</sha1>
     </revision>
+    <revision>
+      <id>540</id>
+      <parentid>510</parentid>
+      <timestamp>2022-11-27T15:27:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Vergleichsoperatoren */</comment>
+      <origin>540</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="368" sha1="2b23t94p44hg68n8vvqozgaijxigsa9" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+
+==Vergleichsoperatoren==
+* Ist gleich ==
+* ungleich !=
+* Kleiner &lt;
+* Kleiner gleich &lt;=
+* Größer &gt;
+* Größer gleich &gt;=
+==Logische Operatoren==
+&lt;pre&gt;
+&amp;&amp; und
+|| oder
+! nicht
+&lt;/pre&gt;</text>
+      <sha1>2b23t94p44hg68n8vvqozgaijxigsa9</sha1>
+    </revision>
   </page>
   <page>
     <title>Rust:Operatoren</title>
@@ -15632,6 +15884,51 @@ CREATE DATABASE datenkname;
 |-
 |}</text>
       <sha1>g1zbz1orcslpk3p28pya2z7uzh531dl</sha1>
+    </revision>
+    <revision>
+      <id>525</id>
+      <parentid>504</parentid>
+      <timestamp>2022-11-26T00:35:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>525</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="306" sha1="0awv3mzjjabsjfc0vdva2ruuhlctska" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+==Vergleichsoperatoren==
+* Ist gleich ==
+* ungleich !=
+* Kleiner &lt;
+* Kleiner gleich &lt;=
+* Größer &gt;
+* Größer gleich &gt;=</text>
+      <sha1>0awv3mzjjabsjfc0vdva2ruuhlctska</sha1>
     </revision>
   </page>
   <page>
@@ -15980,6 +16277,716 @@ falsch Bedingung Anweisung;
     }
 &lt;/pre&gt;</text>
       <sha1>bugcg0h0u4to7hwh8ezvd8o39m0cptk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datenbank:Datenbank löschen</title>
+    <ns>0</ns>
+    <id>104</id>
+    <revision>
+      <id>527</id>
+      <timestamp>2022-11-26T15:11:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==psql== &lt;pre&gt; drop database datenbankname &lt;/pre&gt;“</comment>
+      <origin>527</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="49" sha1="3c97gzx75y5jzb0jrexnd913j49m6sc" xml:space="preserve">==psql==
+&lt;pre&gt;
+drop database datenbankname
+&lt;/pre&gt;</text>
+      <sha1>3c97gzx75y5jzb0jrexnd913j49m6sc</sha1>
+    </revision>
+    <revision>
+      <id>528</id>
+      <parentid>527</parentid>
+      <timestamp>2022-11-26T15:16:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* psql */</comment>
+      <origin>528</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="79" sha1="jhzvclaryrzjin4jzxhpnblazxzv7cl" xml:space="preserve">==psql==
+&lt;pre&gt;
+drop database datenbankname
+&lt;/pre&gt;
+==bash comman==
+&lt;pre&gt;
+
+&lt;/pre&gt;</text>
+      <sha1>jhzvclaryrzjin4jzxhpnblazxzv7cl</sha1>
+    </revision>
+    <revision>
+      <id>529</id>
+      <parentid>528</parentid>
+      <timestamp>2022-11-26T15:19:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* bash comman */</comment>
+      <origin>529</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="111" sha1="oxt0pjozo17xehlyvjr63qbljsebbl3" xml:space="preserve">==psql==
+&lt;pre&gt;
+drop database datenbankname
+&lt;/pre&gt;
+==bash comman==
+&lt;pre&gt;
+dropdb -U postgres datenbankname
+&lt;/pre&gt;</text>
+      <sha1>oxt0pjozo17xehlyvjr63qbljsebbl3</sha1>
+    </revision>
+    <revision>
+      <id>530</id>
+      <parentid>529</parentid>
+      <timestamp>2022-11-26T15:27:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* bash comman */</comment>
+      <origin>530</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="111" sha1="7shhvrcd3w9s28d0nulkb9ppn8mragt" xml:space="preserve">==psql==
+&lt;pre&gt;
+drop database datenbankname
+&lt;/pre&gt;
+==Befehlzeile==
+&lt;pre&gt;
+dropdb -U postgres datenbankname
+&lt;/pre&gt;</text>
+      <sha1>7shhvrcd3w9s28d0nulkb9ppn8mragt</sha1>
+    </revision>
+    <revision>
+      <id>531</id>
+      <parentid>530</parentid>
+      <timestamp>2022-11-26T15:50:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* psql */</comment>
+      <origin>531</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="113" sha1="lhsqsfq6khwn289hkmm1rqushchkx30" xml:space="preserve">==psql==
+&lt;pre&gt;
+drop database datenbankname;
+&lt;/pre&gt;
+
+==Befehlzeile==
+&lt;pre&gt;
+dropdb -U postgres datenbankname
+&lt;/pre&gt;</text>
+      <sha1>lhsqsfq6khwn289hkmm1rqushchkx30</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Javascript:Entscheidungsfindung</title>
+    <ns>0</ns>
+    <id>105</id>
+    <revision>
+      <id>534</id>
+      <timestamp>2022-11-26T21:14:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Einfache Entscheidungsfindung== &lt;pre&gt; if (Bedingung) {   Anweisung; } &lt;/pre&gt; ==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist== &lt;pre&gt; if (Bedingung) {   richtig Bedingung Anweisung; } else { falsch Bedingung Anweisung; } &lt;/pre&gt;  ==Mehrfache Verzweigung== &lt;pre&gt;     switch (Bedingung) {          case 1:             Anweisung 1;             break;         default:             Default Anweisung;             break;     } &lt;/pre&gt;“</comment>
+      <origin>534</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="446" sha1="bugcg0h0u4to7hwh8ezvd8o39m0cptk" xml:space="preserve">==Einfache Entscheidungsfindung==
+&lt;pre&gt;
+if (Bedingung) {
+  Anweisung;
+}
+&lt;/pre&gt;
+==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist==
+&lt;pre&gt;
+if (Bedingung) {
+  richtig Bedingung Anweisung;
+} else {
+falsch Bedingung Anweisung;
+}
+&lt;/pre&gt;
+
+==Mehrfache Verzweigung==
+&lt;pre&gt;
+    switch (Bedingung) {
+
+        case 1:
+            Anweisung 1;
+            break;
+        default:
+            Default Anweisung;
+            break;
+    }
+&lt;/pre&gt;</text>
+      <sha1>bugcg0h0u4to7hwh8ezvd8o39m0cptk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Python::Entscheidungsfindung</title>
+    <ns>0</ns>
+    <id>106</id>
+    <revision>
+      <id>536</id>
+      <timestamp>2022-11-26T23:59:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Einfache Entscheidungsfindung== &lt;pre&gt; if (Bedingung):     Anweisung &lt;/pre&gt; ==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist==  if (Bedingung):   richtig Bedingung Anweisung else:    falsch Bedingung Anweisung  &lt;/pre&gt;“</comment>
+      <origin>536</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="236" sha1="o0dzhwpekmjoa66lxozumcvx71lmsga" xml:space="preserve">==Einfache Entscheidungsfindung==
+&lt;pre&gt;
+if (Bedingung):
+    Anweisung
+&lt;/pre&gt;
+==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist==
+
+if (Bedingung):
+  richtig Bedingung Anweisung
+else:
+   falsch Bedingung Anweisung
+
+&lt;/pre&gt;</text>
+      <sha1>o0dzhwpekmjoa66lxozumcvx71lmsga</sha1>
+    </revision>
+    <revision>
+      <id>537</id>
+      <parentid>536</parentid>
+      <timestamp>2022-11-26T23:59:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist */</comment>
+      <origin>537</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="241" sha1="da0oxfvoh7xe5ecxk576arncvt1iz3o" xml:space="preserve">==Einfache Entscheidungsfindung==
+&lt;pre&gt;
+if (Bedingung):
+    Anweisung
+&lt;/pre&gt;
+==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist==
+&lt;pre&gt;
+if (Bedingung):
+  richtig Bedingung Anweisung
+else:
+   falsch Bedingung Anweisung
+
+&lt;/pre&gt;</text>
+      <sha1>da0oxfvoh7xe5ecxk576arncvt1iz3o</sha1>
+    </revision>
+    <revision>
+      <id>538</id>
+      <parentid>537</parentid>
+      <timestamp>2022-11-27T00:00:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Einfache Entscheidungsfindung */</comment>
+      <origin>538</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="eiw23sa67pz8ifqj7b4bbp6im7a6awi" xml:space="preserve">==Einfache Entscheidungsfindung==
+&lt;pre&gt;
+if Bedingung:
+    Anweisung
+&lt;/pre&gt;
+
+==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist==
+&lt;pre&gt;
+if (Bedingung):
+  richtig Bedingung Anweisung
+else:
+   falsch Bedingung Anweisung
+
+&lt;/pre&gt;</text>
+      <sha1>eiw23sa67pz8ifqj7b4bbp6im7a6awi</sha1>
+    </revision>
+    <revision>
+      <id>539</id>
+      <parentid>538</parentid>
+      <timestamp>2022-11-27T00:01:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist */</comment>
+      <origin>539</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="238" sha1="pkajkt7nydqlbssnnn3rbrem6fpvb2n" xml:space="preserve">==Einfache Entscheidungsfindung==
+&lt;pre&gt;
+if Bedingung:
+    Anweisung
+&lt;/pre&gt;
+
+==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist==
+&lt;pre&gt;
+if Bedingung:
+  richtig Bedingung Anweisung
+else:
+   falsch Bedingung Anweisung
+
+&lt;/pre&gt;</text>
+      <sha1>pkajkt7nydqlbssnnn3rbrem6fpvb2n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:Schleife</title>
+    <ns>0</ns>
+    <id>107</id>
+    <revision>
+      <id>542</id>
+      <timestamp>2022-11-27T15:57:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Zählschleife== ==Kopfgesteuerte Schleife== ==Fußgesteuerte Schleife==“</comment>
+      <origin>542</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="73" sha1="myqy84u3jp1uhaupv7w4bpzcx5wsp1b" xml:space="preserve">==Zählschleife==
+==Kopfgesteuerte Schleife==
+==Fußgesteuerte Schleife==</text>
+      <sha1>myqy84u3jp1uhaupv7w4bpzcx5wsp1b</sha1>
+    </revision>
+    <revision>
+      <id>543</id>
+      <parentid>542</parentid>
+      <timestamp>2022-11-27T15:59:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>543</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="106" sha1="35xmdzd4enkxnan5uko8rp502y9nnwg" xml:space="preserve">==Zählschleife==
+==Kopfgesteuerte Schleife==
+==Fußgesteuerte Schleife==
+==Mengenschleife==
+* keine Daten</text>
+      <sha1>35xmdzd4enkxnan5uko8rp502y9nnwg</sha1>
+    </revision>
+    <revision>
+      <id>544</id>
+      <parentid>543</parentid>
+      <timestamp>2022-11-27T16:02:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Kopfgesteuerte Schleife */</comment>
+      <origin>544</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="155" sha1="r92v7aszb2ltmt84vop7j6isxahu1ob" xml:space="preserve">==Zählschleife==
+==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+==Mengenschleife==
+* keine Daten</text>
+      <sha1>r92v7aszb2ltmt84vop7j6isxahu1ob</sha1>
+    </revision>
+    <revision>
+      <id>545</id>
+      <parentid>544</parentid>
+      <timestamp>2022-11-27T16:12:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Zählschleife */</comment>
+      <origin>545</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="242" sha1="g8vwy46i9l35uepagy3fo8xsn33qx6a" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (int start=0;start &lt; Wiederholen;++start) {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+==Mengenschleife==
+* keine Daten</text>
+      <sha1>g8vwy46i9l35uepagy3fo8xsn33qx6a</sha1>
+    </revision>
+    <revision>
+      <id>546</id>
+      <parentid>545</parentid>
+      <timestamp>2022-11-27T16:12:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>546</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="4d1b5uprgv81jm9j9o78l7369xbxi5t" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (int start=0;start&lt;wiederholen;++start) {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+==Mengenschleife==
+* keine Daten</text>
+      <sha1>4d1b5uprgv81jm9j9o78l7369xbxi5t</sha1>
+    </revision>
+    <revision>
+      <id>547</id>
+      <parentid>546</parentid>
+      <timestamp>2022-11-27T16:17:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Fußgesteuerte Schleife */</comment>
+      <origin>547</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="260" sha1="cqbbg2mljfu5eizaa9r2bb6v6oh072t" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (int start=0;start&lt;wiederholen;++start) {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+do {
+Anweisung;
+
+}
+
+==Mengenschleife==
+* keine Daten</text>
+      <sha1>cqbbg2mljfu5eizaa9r2bb6v6oh072t</sha1>
+    </revision>
+    <revision>
+      <id>548</id>
+      <parentid>547</parentid>
+      <timestamp>2022-11-27T16:19:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Fußgesteuerte Schleife */</comment>
+      <origin>548</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="275" sha1="lq19pir4e2ugyn4w3jy0woz7otmrja8" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (int start=0;start&lt;wiederholen;++start) {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+do {
+Anweisung;
+}while(Bedingung)
+
+==Mengenschleife==
+* keine Daten</text>
+      <sha1>lq19pir4e2ugyn4w3jy0woz7otmrja8</sha1>
+    </revision>
+    <revision>
+      <id>549</id>
+      <parentid>548</parentid>
+      <timestamp>2022-11-27T16:19:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Fußgesteuerte Schleife */</comment>
+      <origin>549</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="288" sha1="s3t9xl4szxycw31nho6zxp7zh35xxc6" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (int start=0;start&lt;wiederholen;++start) {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+&lt;pre&gt;
+do {
+Anweisung;
+}while(Bedingung)
+&lt;/pre&gt;
+
+==Mengenschleife==
+* keine Daten</text>
+      <sha1>s3t9xl4szxycw31nho6zxp7zh35xxc6</sha1>
+    </revision>
+    <revision>
+      <id>550</id>
+      <parentid>549</parentid>
+      <timestamp>2022-11-27T16:21:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Fußgesteuerte Schleife */</comment>
+      <origin>550</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="289" sha1="k3h90gtonbmzffvr78v2a0c0270w4xy" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (int start=0;start&lt;wiederholen;++start) {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+&lt;pre&gt;
+do {
+Anweisung;
+}while(Bedingung);
+&lt;/pre&gt;
+
+==Mengenschleife==
+* keine Daten</text>
+      <sha1>k3h90gtonbmzffvr78v2a0c0270w4xy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++:Entscheidungsfindung</title>
+    <ns>0</ns>
+    <id>108</id>
+    <revision>
+      <id>552</id>
+      <timestamp>2022-11-27T23:23:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Einfache Entscheidungsfindung== &lt;pre&gt; if (Bedingung) {   Anweisung; } &lt;/pre&gt; ==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist== &lt;pre&gt; if (Bedingung) {   richtig Bedingung Anweisung; } else { falsch Bedingung Anweisung; } &lt;/pre&gt;  ==Mehrfache Verzweigung== &lt;pre&gt;     switch (Bedingung) {          case 1:             Anweisung 1;             break;         default:             Default Anweisung;             break;     } &lt;/pre&gt;“</comment>
+      <origin>552</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="446" sha1="bugcg0h0u4to7hwh8ezvd8o39m0cptk" xml:space="preserve">==Einfache Entscheidungsfindung==
+&lt;pre&gt;
+if (Bedingung) {
+  Anweisung;
+}
+&lt;/pre&gt;
+==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist==
+&lt;pre&gt;
+if (Bedingung) {
+  richtig Bedingung Anweisung;
+} else {
+falsch Bedingung Anweisung;
+}
+&lt;/pre&gt;
+
+==Mehrfache Verzweigung==
+&lt;pre&gt;
+    switch (Bedingung) {
+
+        case 1:
+            Anweisung 1;
+            break;
+        default:
+            Default Anweisung;
+            break;
+    }
+&lt;/pre&gt;</text>
+      <sha1>bugcg0h0u4to7hwh8ezvd8o39m0cptk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Go:Entscheidungsfindung</title>
+    <ns>0</ns>
+    <id>109</id>
+    <revision>
+      <id>554</id>
+      <timestamp>2022-11-28T02:22:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Einfache Entscheidungsfindung== &lt;pre&gt; if (Bedingung) {   Anweisung; } &lt;/pre&gt; ==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist== &lt;pre&gt; if (Bedingung) {   richtig Bedingung Anweisung; } else { falsch Bedingung Anweisung; } &lt;/pre&gt;  ==Mehrfache Verzweigung== &lt;pre&gt;     switch (Bedingung) {          case 1:             Anweisung 1;             break;         default:             Default Anweisung;             break;     } &lt;/pre&gt;“</comment>
+      <origin>554</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="446" sha1="bugcg0h0u4to7hwh8ezvd8o39m0cptk" xml:space="preserve">==Einfache Entscheidungsfindung==
+&lt;pre&gt;
+if (Bedingung) {
+  Anweisung;
+}
+&lt;/pre&gt;
+==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist==
+&lt;pre&gt;
+if (Bedingung) {
+  richtig Bedingung Anweisung;
+} else {
+falsch Bedingung Anweisung;
+}
+&lt;/pre&gt;
+
+==Mehrfache Verzweigung==
+&lt;pre&gt;
+    switch (Bedingung) {
+
+        case 1:
+            Anweisung 1;
+            break;
+        default:
+            Default Anweisung;
+            break;
+    }
+&lt;/pre&gt;</text>
+      <sha1>bugcg0h0u4to7hwh8ezvd8o39m0cptk</sha1>
+    </revision>
+    <revision>
+      <id>555</id>
+      <parentid>554</parentid>
+      <timestamp>2022-11-28T02:27:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>555</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="439" sha1="bjik8174i1l6xee3phx6wubwnumonnt" xml:space="preserve">==Einfache Entscheidungsfindung==
+&lt;pre&gt;
+if Bedingung {
+  Anweisung
+}
+&lt;/pre&gt;
+==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist==
+&lt;pre&gt;
+if Bedingung {
+  richtig Bedingung Anweisung
+} else {
+falsch Bedingung Anweisung
+}
+&lt;/pre&gt;
+
+==Mehrfache Verzweigung==
+&lt;pre&gt;
+    switch (Bedingung) {
+
+        case 1:
+            Anweisung 1;
+            break;
+        default:
+            Default Anweisung;
+            break;
+    }
+&lt;/pre&gt;</text>
+      <sha1>bjik8174i1l6xee3phx6wubwnumonnt</sha1>
+    </revision>
+    <revision>
+      <id>556</id>
+      <parentid>555</parentid>
+      <timestamp>2022-11-28T02:34:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Mehrfache Verzweigung */</comment>
+      <origin>556</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="407" sha1="3ejl7voy5m9p35q8by6my8wp21xnjub" xml:space="preserve">==Einfache Entscheidungsfindung==
+&lt;pre&gt;
+if Bedingung {
+  Anweisung
+}
+&lt;/pre&gt;
+==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist==
+&lt;pre&gt;
+if Bedingung {
+  richtig Bedingung Anweisung
+} else {
+falsch Bedingung Anweisung
+}
+&lt;/pre&gt;
+
+==Mehrfache Verzweigung==
+&lt;pre&gt;
+    switch Bedingung {
+
+        case 1:
+            Anweisung 1
+        default:
+            Default Anweisung
+         
+    }
+&lt;/pre&gt;</text>
+      <sha1>3ejl7voy5m9p35q8by6my8wp21xnjub</sha1>
     </revision>
   </page>
 </mediawiki>
