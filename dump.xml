@@ -5230,6 +5230,29 @@ sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.or
 * https://www.tutorialspoint.com/cplusplus/index.htm</text>
       <sha1>r5xily3dkugycs0sgkasoli5rx9obd9</sha1>
     </revision>
+    <revision>
+      <id>583</id>
+      <parentid>551</parentid>
+      <timestamp>2022-12-01T16:19:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>583</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="15zj9wqsg44jtjio9uexu26o4luoi5p" xml:space="preserve">
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+* [[C++:Automatische Typableitung]]
+* [[C++:Operatoren]]
+* [[C++:Entscheidungsfindung]]
+* [[C++Schleife]]
+==Weblink==
+* https://www.tutorialspoint.com/cplusplus/index.htm</text>
+      <sha1>15zj9wqsg44jtjio9uexu26o4luoi5p</sha1>
+    </revision>
   </page>
   <page>
     <title>C++:Hallo Welt</title>
@@ -5413,6 +5436,28 @@ int main() {
 * https://www.tutorialspoint.com/java16/index.htm
 * https://www.tutorialspoint.com/java/index.htm</text>
       <sha1>tv3mh5hsjql3l6g5dvi83bxp1l6faiu</sha1>
+    </revision>
+    <revision>
+      <id>579</id>
+      <parentid>501</parentid>
+      <timestamp>2022-11-30T07:33:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>579</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="262" sha1="2j8rzfcy9cd9q4ljwwajjjk5p8qs0pd" xml:space="preserve">* [[Java:Hallo Welt]]
+* [[Java:Variable]]
+* [[Java:Konstant]]
+* [[Java:Automatische Typableitung]]
+* [[Java:Operatoren]]
+* [[Java:Entscheidungsfindung]]
+==Weblink==
+* https://www.tutorialspoint.com/java16/index.htm
+* https://www.tutorialspoint.com/java/index.htm</text>
+      <sha1>2j8rzfcy9cd9q4ljwwajjjk5p8qs0pd</sha1>
     </revision>
   </page>
   <page>
@@ -5863,6 +5908,29 @@ fun main() {
 ==Weblink==
 * https://www.tutorialspoint.com/go/index.htm</text>
       <sha1>8s60d47dstkutrthcj4y4641a956i2s</sha1>
+    </revision>
+    <revision>
+      <id>585</id>
+      <parentid>553</parentid>
+      <timestamp>2022-12-01T21:44:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>585</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="258" sha1="5h3sdh6bwjz1g2j7sdsrj9uirp39gxs" xml:space="preserve">* [[Go:Hallo Welt]]
+* [[Go:Datentypen]]
+* [[Go:Konstanten]]
+* [[Go:Automatische Typableitung]]
+* [[Go:Kurze Variablendeklarationen]]
+* [[Go:Operatoren]]
+* [[Go:Entscheidungsfindung]]
+* [[Go:Schleife]]
+==Weblink==
+* https://www.tutorialspoint.com/go/index.htm</text>
+      <sha1>5h3sdh6bwjz1g2j7sdsrj9uirp39gxs</sha1>
     </revision>
   </page>
   <page>
@@ -7098,6 +7166,28 @@ target_link_libraries((der Projekt name) fcgi)
 * https://www.tutorialspoint.com/cprogramming/index.htm</text>
       <sha1>l6x9yqdilooz3z65qtporz01j3mrfdf</sha1>
     </revision>
+    <revision>
+      <id>581</id>
+      <parentid>541</parentid>
+      <timestamp>2022-11-30T19:44:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>581</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="206" sha1="ed56btubx6v17t1afxqpntfnmw0uoom" xml:space="preserve">* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+* [[C:Konstanten]]
+* [[C:Operatoren]]
+* [[C:Entscheidungsfindung]]
+* [[C:Schleife]]
+* [[C:Funktion]]
+==Weblink==
+* https://www.tutorialspoint.com/cprogramming/index.htm</text>
+      <sha1>ed56btubx6v17t1afxqpntfnmw0uoom</sha1>
+    </revision>
   </page>
   <page>
     <title>Ruby</title>
@@ -7371,6 +7461,46 @@ exit();
 * https://www.tutorialspoint.com/python3/index.htm</text>
       <sha1>3thgq42b2j0y7wmmo6b3r9xle77lafm</sha1>
     </revision>
+    <revision>
+      <id>567</id>
+      <parentid>535</parentid>
+      <timestamp>2022-11-29T21:33:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>567</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="p0u72xzvvr7yb35ugi1zjjlrjwelq7r" xml:space="preserve">* [[Python:Hallo Welt]]
+* [[Python:Variable]]
+* [[Python:Operatoren]]
+* [[Python::Entscheidungsfindung]]
+* {{Python:Schleife]]
+==Weblink==
+* https://www.tutorialspoint.com/python3/index.htm</text>
+      <sha1>p0u72xzvvr7yb35ugi1zjjlrjwelq7r</sha1>
+    </revision>
+    <revision>
+      <id>568</id>
+      <parentid>567</parentid>
+      <timestamp>2022-11-29T21:34:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>568</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="fwe7kfqppo9x1vphs0besgadm69lqln" xml:space="preserve">* [[Python:Hallo Welt]]
+* [[Python:Variable]]
+* [[Python:Operatoren]]
+* [[Python::Entscheidungsfindung]]
+* [[Python:Schleife]]
+==Weblink==
+* https://www.tutorialspoint.com/python3/index.htm</text>
+      <sha1>fwe7kfqppo9x1vphs0besgadm69lqln</sha1>
+    </revision>
   </page>
   <page>
     <title>Python:Hallo Welt</title>
@@ -7549,6 +7679,27 @@ print("Hallo Welt")
 ==Weblink==
 * https://www.tutorialspoint.com/javascript/index.htm</text>
       <sha1>cq1y0xd6evk4uobz8hoj4ve9lf0xnkv</sha1>
+    </revision>
+    <revision>
+      <id>561</id>
+      <parentid>533</parentid>
+      <timestamp>2022-11-28T17:39:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>561</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="237" sha1="7k4i4nw1czulhu9ka5i4qh5udc8vd6v" xml:space="preserve">* [[Javascript:Hallo Welt]]
+* [[Javascript:Variable]]
+* [[Javascript:Konstant]]
+* [[Javascript:Operatoren]]
+* [[Javascript:Entscheidungsfindung]]
+* [[Javascript:Schleife]]
+==Weblink==
+* https://www.tutorialspoint.com/javascript/index.htm</text>
+      <sha1>7k4i4nw1czulhu9ka5i4qh5udc8vd6v</sha1>
     </revision>
   </page>
   <page>
@@ -9445,6 +9596,27 @@ https://www.tutorialspoint.com/postgresql/index.htm</text>
 ==Weblink==
 * https://www.tutorialspoint.com/postgresql/index.htm</text>
       <sha1>nw4515ppf4v4vokijt8g25zbfiqwcdz</sha1>
+    </revision>
+    <revision>
+      <id>558</id>
+      <parentid>526</parentid>
+      <timestamp>2022-11-28T17:09:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>558</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="260" sha1="6xzoofoa29unt77hc0w3g249tc59jxm" xml:space="preserve">* [[Datenbank:Konsole]]
+* [[Datenbank:Psql Konsole]]
+* [[Datenbank:Datenbank erstellen]]
+* [[Datenbank:Datenbank auswählen]]
+* [[Datenbank:Datenbank löschen]]
+* [[Datenbank:Tabelle erstellen]]
+==Weblink==
+* https://www.tutorialspoint.com/postgresql/index.htm</text>
+      <sha1>6xzoofoa29unt77hc0w3g249tc59jxm</sha1>
     </revision>
   </page>
   <page>
@@ -15930,6 +16102,57 @@ CREATE DATABASE datenkname;
 * Größer gleich &gt;=</text>
       <sha1>0awv3mzjjabsjfc0vdva2ruuhlctska</sha1>
     </revision>
+    <revision>
+      <id>557</id>
+      <parentid>525</parentid>
+      <timestamp>2022-11-28T16:51:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>557</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="366" sha1="nyubbo06fn2opn96kcsqpeenv2pnf1j" xml:space="preserve">{| class="wikitable"
+|+Grundrechenarten
+|-
+|Plus
+| +
+|-
+|Minus
+| -
+|-
+|Malnehmen
+| *  
+|-
+|Teilen
+| / 
+|-
+|Rest
+| % 
+|-
+|Erhöht um Wert eins
+| ++
+|-
+|Verringert um Wert eins
+| --
+|-
+|}
+==Vergleichsoperatoren==
+* Ist gleich ==
+* ungleich !=
+* Kleiner &lt;
+* Kleiner gleich &lt;=
+* Größer &gt;
+* Größer gleich &gt;=
+==Logische Operatoren==
+&lt;pre&gt;
+&amp;&amp; und
+|| oder
+! nicht
+&lt;/pre&gt;</text>
+      <sha1>nyubbo06fn2opn96kcsqpeenv2pnf1j</sha1>
+    </revision>
   </page>
   <page>
     <title>Datenbank:Datenbank auswählen</title>
@@ -16987,6 +17210,736 @@ falsch Bedingung Anweisung
     }
 &lt;/pre&gt;</text>
       <sha1>3ejl7voy5m9p35q8by6my8wp21xnjub</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datenbank:Tabelle erstellen</title>
+    <ns>0</ns>
+    <id>110</id>
+    <revision>
+      <id>559</id>
+      <timestamp>2022-11-28T17:21:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; create table start (     Spalte int ) &lt;/pre&gt;“</comment>
+      <origin>559</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="50" sha1="mc6qbxjjgrtz4qwfxcfkd3qvap01xqe" xml:space="preserve">&lt;pre&gt;
+create table start (
+    Spalte int
+)
+&lt;/pre&gt;</text>
+      <sha1>mc6qbxjjgrtz4qwfxcfkd3qvap01xqe</sha1>
+    </revision>
+    <revision>
+      <id>560</id>
+      <parentid>559</parentid>
+      <timestamp>2022-11-28T17:25:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>560</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="63" sha1="6umwd33qdbkqlrhw4b05a7f4lmc6wzb" xml:space="preserve">&lt;pre&gt;
+create table tabellename (
+    spalte datentypen
+)
+&lt;/pre&gt;</text>
+      <sha1>6umwd33qdbkqlrhw4b05a7f4lmc6wzb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Javascript:Schleife</title>
+    <ns>0</ns>
+    <id>111</id>
+    <revision>
+      <id>562</id>
+      <timestamp>2022-11-29T20:13:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Kopfgesteuerte Schleife== &lt;pre&gt; while(Bedingung) {    Anweisung; } &lt;/pre&gt;  ==Fußgesteuerte Schleife== &lt;pre&gt; do { Anweisung; }while(Bedingung); &lt;/pre&gt;“</comment>
+      <origin>562</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="152" sha1="8dmwgm892ilvvskdmtqgobontvb0gf0" xml:space="preserve">==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+&lt;pre&gt;
+do {
+Anweisung;
+}while(Bedingung);
+&lt;/pre&gt;</text>
+      <sha1>8dmwgm892ilvvskdmtqgobontvb0gf0</sha1>
+    </revision>
+    <revision>
+      <id>563</id>
+      <parentid>562</parentid>
+      <timestamp>2022-11-29T20:15:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>563</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="255" sha1="lg29rejvryr7121gvg3s3ekvbbzw5pw" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (int start=0;start&lt;wiederholen;++start) {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+&lt;pre&gt;
+do {
+Anweisung;
+}while(Bedingung);
+&lt;/pre&gt;</text>
+      <sha1>lg29rejvryr7121gvg3s3ekvbbzw5pw</sha1>
+    </revision>
+    <revision>
+      <id>564</id>
+      <parentid>563</parentid>
+      <timestamp>2022-11-29T20:16:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>564</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="251" sha1="ss721lazt12ptp16sxzknmqdo1kh2da" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (start=0;start&lt;wiederholen;++start) {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+&lt;pre&gt;
+do {
+Anweisung;
+}while(Bedingung);
+&lt;/pre&gt;</text>
+      <sha1>ss721lazt12ptp16sxzknmqdo1kh2da</sha1>
+    </revision>
+    <revision>
+      <id>565</id>
+      <parentid>564</parentid>
+      <timestamp>2022-11-29T20:46:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Fußgesteuerte Schleife */</comment>
+      <origin>565</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="305" sha1="4uq54mkwyjg4c8pklye0gtl5afddt9i" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (start=0;start&lt;wiederholen;++start) {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+&lt;pre&gt;
+do {
+Anweisung;
+}while(Bedingung);
+&lt;/pre&gt;
+
+
+
+let start;
+for(start in objekt) {
+    Anweisung;
+}</text>
+      <sha1>4uq54mkwyjg4c8pklye0gtl5afddt9i</sha1>
+    </revision>
+    <revision>
+      <id>566</id>
+      <parentid>565</parentid>
+      <timestamp>2022-11-29T20:48:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>566</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="335" sha1="q7hstf6rns4ay3l9hg2ws6tl2opep8g" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (start=0;start&lt;wiederholen;++start) {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+&lt;pre&gt;
+do {
+Anweisung;
+}while(Bedingung);
+&lt;/pre&gt;
+
+==Mengenschleife==
+&lt;pre&gt;
+let start;
+for(start in objekt) {
+    Anweisung;
+}
+&lt;/pre&gt;</text>
+      <sha1>q7hstf6rns4ay3l9hg2ws6tl2opep8g</sha1>
+    </revision>
+    <revision>
+      <id>572</id>
+      <parentid>566</parentid>
+      <timestamp>2022-11-30T07:11:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Mengenschleife */</comment>
+      <origin>572</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="401" sha1="pjkrrbnfyf3nllvu1p79n0k1irg84fv" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (start=0;start&lt;wiederholen;++start) {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+&lt;pre&gt;
+do {
+Anweisung;
+}while(Bedingung);
+&lt;/pre&gt;
+
+==Mengenschleife==
+&lt;pre&gt;
+let start;
+for(start in objekt) {
+    Anweisung;
+}
+&lt;/pre&gt;
+==Mengenschleife==
+&lt;pre&gt;
+for start in objekt: 
+  Anweisung
+&lt;/pre&gt;</text>
+      <sha1>pjkrrbnfyf3nllvu1p79n0k1irg84fv</sha1>
+    </revision>
+    <revision>
+      <id>574</id>
+      <parentid>572</parentid>
+      <timestamp>2022-11-30T07:18:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Mengenschleife */</comment>
+      <origin>574</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="337" sha1="60vv5u1v348zr1jedscn251dadefzq4" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (start=0;start&lt;wiederholen;++start) {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+&lt;pre&gt;
+do {
+Anweisung;
+}while(Bedingung);
+&lt;/pre&gt;
+
+==Mengenschleife==
+&lt;pre&gt;
+let start;
+for(start in objekt) {
+    Anweisung;
+}
+&lt;/pre&gt;
+&gt;</text>
+      <sha1>60vv5u1v348zr1jedscn251dadefzq4</sha1>
+    </revision>
+    <revision>
+      <id>575</id>
+      <parentid>574</parentid>
+      <timestamp>2022-11-30T07:18:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Mengenschleife */</comment>
+      <origin>575</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="335" sha1="q7hstf6rns4ay3l9hg2ws6tl2opep8g" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (start=0;start&lt;wiederholen;++start) {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+&lt;pre&gt;
+do {
+Anweisung;
+}while(Bedingung);
+&lt;/pre&gt;
+
+==Mengenschleife==
+&lt;pre&gt;
+let start;
+for(start in objekt) {
+    Anweisung;
+}
+&lt;/pre&gt;</text>
+      <sha1>q7hstf6rns4ay3l9hg2ws6tl2opep8g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Python:Schleife</title>
+    <ns>0</ns>
+    <id>112</id>
+    <revision>
+      <id>569</id>
+      <timestamp>2022-11-30T07:02:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „while Bedingung:  Anweisung;“</comment>
+      <origin>569</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28" sha1="pwufi931xhw996sfr2100knxac9z9jk" xml:space="preserve">while Bedingung:
+ Anweisung;</text>
+      <sha1>pwufi931xhw996sfr2100knxac9z9jk</sha1>
+    </revision>
+    <revision>
+      <id>570</id>
+      <parentid>569</parentid>
+      <timestamp>2022-11-30T07:04:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>570</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" sha1="imfwlyzu77n5lzo4faa112ffw9limvx" xml:space="preserve">&lt;pre&gt;
+while Bedingung:
+ Anweisung;</text>
+      <sha1>imfwlyzu77n5lzo4faa112ffw9limvx</sha1>
+    </revision>
+    <revision>
+      <id>571</id>
+      <parentid>570</parentid>
+      <timestamp>2022-11-30T07:08:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>571</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="62" sha1="csmdtuxj4828genmrydq7stqphq03l6" xml:space="preserve">==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while Bedingung:
+ Anweisung;</text>
+      <sha1>csmdtuxj4828genmrydq7stqphq03l6</sha1>
+    </revision>
+    <revision>
+      <id>573</id>
+      <parentid>571</parentid>
+      <timestamp>2022-11-30T07:17:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Kopfgesteuerte Schleife */</comment>
+      <origin>573</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="85" sha1="dms26fmxgcb7epzyo71kpvlcsiyaye7" xml:space="preserve">==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while Bedingung:
+ Anweisung;
+
+
+for start in objekt:</text>
+      <sha1>dms26fmxgcb7epzyo71kpvlcsiyaye7</sha1>
+    </revision>
+    <revision>
+      <id>576</id>
+      <parentid>573</parentid>
+      <timestamp>2022-11-30T07:20:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Kopfgesteuerte Schleife */</comment>
+      <origin>576</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="103" sha1="cg1dit8iu574j18kov4z5bz61vzk4du" xml:space="preserve">==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while Bedingung:
+ Anweisung;
+
+==Mengenschleife==
+for start in objekt:</text>
+      <sha1>cg1dit8iu574j18kov4z5bz61vzk4du</sha1>
+    </revision>
+    <revision>
+      <id>577</id>
+      <parentid>576</parentid>
+      <timestamp>2022-11-30T07:22:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Mengenschleife */</comment>
+      <origin>577</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="114" sha1="n8kukk8t8xjl213rph09bzsxn975ztm" xml:space="preserve">==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while Bedingung:
+ Anweisung;
+
+==Mengenschleife==
+for start in objekt:
+ Anweisung</text>
+      <sha1>n8kukk8t8xjl213rph09bzsxn975ztm</sha1>
+    </revision>
+    <revision>
+      <id>578</id>
+      <parentid>577</parentid>
+      <timestamp>2022-11-30T07:28:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Kopfgesteuerte Schleife */</comment>
+      <origin>578</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="113" sha1="czck85fstn1lik2od6zi9s2ylfzwbpg" xml:space="preserve">==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while Bedingung:
+ Anweisung
+
+==Mengenschleife==
+for start in objekt:
+ Anweisung</text>
+      <sha1>czck85fstn1lik2od6zi9s2ylfzwbpg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Java:Entscheidungsfindung</title>
+    <ns>0</ns>
+    <id>113</id>
+    <revision>
+      <id>580</id>
+      <timestamp>2022-11-30T16:41:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Einfache Entscheidungsfindung== &lt;pre&gt; if (Bedingung) {   Anweisung; } &lt;/pre&gt; ==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist== &lt;pre&gt; if (Bedingung) {   richtig Bedingung Anweisung; } else { falsch Bedingung Anweisung; } &lt;/pre&gt;  ==Mehrfache Verzweigung== &lt;pre&gt;     switch (Bedingung) {          case 1:             Anweisung 1;             break;         default:             Default Anweisung;             break;     } &lt;/pre&gt;“</comment>
+      <origin>580</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="446" sha1="bugcg0h0u4to7hwh8ezvd8o39m0cptk" xml:space="preserve">==Einfache Entscheidungsfindung==
+&lt;pre&gt;
+if (Bedingung) {
+  Anweisung;
+}
+&lt;/pre&gt;
+==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist==
+&lt;pre&gt;
+if (Bedingung) {
+  richtig Bedingung Anweisung;
+} else {
+falsch Bedingung Anweisung;
+}
+&lt;/pre&gt;
+
+==Mehrfache Verzweigung==
+&lt;pre&gt;
+    switch (Bedingung) {
+
+        case 1:
+            Anweisung 1;
+            break;
+        default:
+            Default Anweisung;
+            break;
+    }
+&lt;/pre&gt;</text>
+      <sha1>bugcg0h0u4to7hwh8ezvd8o39m0cptk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:Funktion</title>
+    <ns>0</ns>
+    <id>114</id>
+    <revision>
+      <id>582</id>
+      <timestamp>2022-11-30T20:45:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; datentypen funktionname(datentypen variable) {     return variable; }  int main() {      funktionname(wert);      return 0; } &lt;/pre&gt;“</comment>
+      <origin>582</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="138" sha1="j7lzt9l5twciaqj8e8psxabdhkgmcpj" xml:space="preserve">&lt;pre&gt;
+datentypen funktionname(datentypen variable) {
+    return variable;
+}
+
+int main() {
+
+    funktionname(wert);
+
+    return 0;
+}
+&lt;/pre&gt;</text>
+      <sha1>j7lzt9l5twciaqj8e8psxabdhkgmcpj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++Schleife</title>
+    <ns>0</ns>
+    <id>115</id>
+    <revision>
+      <id>584</id>
+      <timestamp>2022-12-01T16:25:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Zählschleife== &lt;pre&gt;   for (int start=0;start&lt;wiederholen;++start) {       Anweisung;     } &lt;/pre&gt;  ==Kopfgesteuerte Schleife== &lt;pre&gt; while(Bedingung) {    Anweisung; } &lt;/pre&gt;  ==Fußgesteuerte Schleife== &lt;pre&gt; do { Anweisung; }while(Bedingung); &lt;/pre&gt;“</comment>
+      <origin>584</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="255" sha1="lg29rejvryr7121gvg3s3ekvbbzw5pw" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (int start=0;start&lt;wiederholen;++start) {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+&lt;pre&gt;
+do {
+Anweisung;
+}while(Bedingung);
+&lt;/pre&gt;</text>
+      <sha1>lg29rejvryr7121gvg3s3ekvbbzw5pw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Go:Schleife</title>
+    <ns>0</ns>
+    <id>116</id>
+    <revision>
+      <id>586</id>
+      <timestamp>2022-12-01T22:01:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Zählschleife== &lt;pre&gt;   for (start:=0;start&lt;wiederholen;++start) {       Anweisung;     } &lt;/pre&gt;   ==Mengenschleife== * keine Daten“</comment>
+      <origin>586</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="133" sha1="2jyeb52ig3c51svrzodkf83m9db07c7" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (start:=0;start&lt;wiederholen;++start) {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+
+==Mengenschleife==
+* keine Daten</text>
+      <sha1>2jyeb52ig3c51svrzodkf83m9db07c7</sha1>
+    </revision>
+    <revision>
+      <id>587</id>
+      <parentid>586</parentid>
+      <timestamp>2022-12-01T22:02:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>587</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="132" sha1="9rqz92srcvy6pnj2wbqcb283ojm0iyy" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (start:=0;start&lt;wiederholen;++start {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+
+==Mengenschleife==
+* keine Daten</text>
+      <sha1>9rqz92srcvy6pnj2wbqcb283ojm0iyy</sha1>
+    </revision>
+    <revision>
+      <id>588</id>
+      <parentid>587</parentid>
+      <timestamp>2022-12-01T22:02:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Zählschleife */</comment>
+      <origin>588</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="130" sha1="n8ztlbz2v3inf3avy63427zbyg8jtmp" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for start:=0;start&lt;wiederholen;++start {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Mengenschleife==
+* keine Daten</text>
+      <sha1>n8ztlbz2v3inf3avy63427zbyg8jtmp</sha1>
+    </revision>
+    <revision>
+      <id>589</id>
+      <parentid>588</parentid>
+      <timestamp>2022-12-01T22:06:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Mengenschleife */</comment>
+      <origin>589</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="s1qtzoe5syh8cwa5aq04cl9b583yi1q" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for start:=0;start&lt;wiederholen;++start {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Mengenschleife==
+&lt;pre&gt;
+  for start,x:= range pbjekt {
+Anweisung
+}</text>
+      <sha1>s1qtzoe5syh8cwa5aq04cl9b583yi1q</sha1>
+    </revision>
+    <revision>
+      <id>590</id>
+      <parentid>589</parentid>
+      <timestamp>2022-12-01T22:09:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Mengenschleife */</comment>
+      <origin>590</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="168" sha1="63djufwsl0u8l4r560eq8wfilryaleo" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for start:=0;start&lt;wiederholen;++start {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Mengenschleife==
+&lt;pre&gt;
+  for index,wert:= range pbjekt {
+Anweisung
+}</text>
+      <sha1>63djufwsl0u8l4r560eq8wfilryaleo</sha1>
     </revision>
   </page>
 </mediawiki>
