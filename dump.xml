@@ -5253,6 +5253,30 @@ sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.or
 * https://www.tutorialspoint.com/cplusplus/index.htm</text>
       <sha1>15zj9wqsg44jtjio9uexu26o4luoi5p</sha1>
     </revision>
+    <revision>
+      <id>621</id>
+      <parentid>583</parentid>
+      <timestamp>2022-12-03T20:44:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>621</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="252" sha1="8g5qw3du8jdzuyftaa33z23fdmogj8h" xml:space="preserve">
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+* [[C++:Automatische Typableitung]]
+* [[C++:Operatoren]]
+* [[C++:Entscheidungsfindung]]
+* [[C++Schleife]]
+* [[C++Funktion]]
+==Weblink==
+* https://www.tutorialspoint.com/cplusplus/index.htm</text>
+      <sha1>8g5qw3du8jdzuyftaa33z23fdmogj8h</sha1>
+    </revision>
   </page>
   <page>
     <title>C++:Hallo Welt</title>
@@ -5458,6 +5482,53 @@ int main() {
 * https://www.tutorialspoint.com/java16/index.htm
 * https://www.tutorialspoint.com/java/index.htm</text>
       <sha1>2j8rzfcy9cd9q4ljwwajjjk5p8qs0pd</sha1>
+    </revision>
+    <revision>
+      <id>616</id>
+      <parentid>579</parentid>
+      <timestamp>2022-12-03T18:14:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>616</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="283" sha1="jp4kr9tqe1duy26lpm0d5ehhx4axh6c" xml:space="preserve">* [[Java:Hallo Welt]]
+* [[Java:Variable]]
+* [[Java:Konstant]]
+* [[Java:Automatische Typableitung]]
+* [[Java:Operatoren]]
+* [[Java:Entscheidungsfindung]]
+* [[Java:Schleifen]]
+==Weblink==
+* https://www.tutorialspoint.com/java16/index.htm
+* https://www.tutorialspoint.com/java/index.htm</text>
+      <sha1>jp4kr9tqe1duy26lpm0d5ehhx4axh6c</sha1>
+    </revision>
+    <revision>
+      <id>644</id>
+      <parentid>616</parentid>
+      <timestamp>2022-12-05T18:29:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>644</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="309" sha1="286q7ae6ium1bqdac3nel2r2oqo70jw" xml:space="preserve">* [[Java:Hallo Welt]]
+* [[Java:Variable]]
+* [[Java:Konstant]]
+* [[Java:Automatische Typableitung]]
+* [[Java:Operatoren]]
+* [[Java:Entscheidungsfindung]]
+* [[Java:Schleifen]]
+* [[Java:Strings-Klasse]]
+==Weblink==
+* https://www.tutorialspoint.com/java16/index.htm
+* https://www.tutorialspoint.com/java/index.htm</text>
+      <sha1>286q7ae6ium1bqdac3nel2r2oqo70jw</sha1>
     </revision>
   </page>
   <page>
@@ -5932,6 +6003,30 @@ fun main() {
 * https://www.tutorialspoint.com/go/index.htm</text>
       <sha1>5h3sdh6bwjz1g2j7sdsrj9uirp39gxs</sha1>
     </revision>
+    <revision>
+      <id>624</id>
+      <parentid>585</parentid>
+      <timestamp>2022-12-04T12:41:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>624</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="276" sha1="9f5ka5my50ciirfbjp6f1gp1xgdmyup" xml:space="preserve">* [[Go:Hallo Welt]]
+* [[Go:Datentypen]]
+* [[Go:Konstanten]]
+* [[Go:Automatische Typableitung]]
+* [[Go:Kurze Variablendeklarationen]]
+* [[Go:Operatoren]]
+* [[Go:Entscheidungsfindung]]
+* [[Go:Schleife]]
+* [[Go:Funktion]]
+==Weblink==
+* https://www.tutorialspoint.com/go/index.htm</text>
+      <sha1>9f5ka5my50ciirfbjp6f1gp1xgdmyup</sha1>
+    </revision>
   </page>
   <page>
     <title>Go:Hallo Welt</title>
@@ -6189,6 +6284,73 @@ func main() {
 ==Weblink==
 * https://www.tutorialspoint.com/rust/index.htm</text>
       <sha1>nd8n6mp395sgi3jzh5q5ms8x2dozb9z</sha1>
+    </revision>
+    <revision>
+      <id>591</id>
+      <parentid>503</parentid>
+      <timestamp>2022-12-01T22:51:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>591</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="212" sha1="qxpv8f1tn622wtpp44rym88kgmujt79" xml:space="preserve">* [[Rust:Hallo Welt]]
+* [[Rust:Datentypen]]
+* [[Rust:Konstanten]]
+* [[Rust:Automatische Typableitung]]
+* [[Rust:String]]
+* [[Rust:Operatoren]]
+* [[Rust:
+==Weblink==
+* https://www.tutorialspoint.com/rust/index.htm</text>
+      <sha1>qxpv8f1tn622wtpp44rym88kgmujt79</sha1>
+    </revision>
+    <revision>
+      <id>592</id>
+      <parentid>591</parentid>
+      <timestamp>2022-12-01T22:51:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>592</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="82kokcyne1gxxq576pnyg46d9drcyjl" xml:space="preserve">* [[Rust:Hallo Welt]]
+* [[Rust:Datentypen]]
+* [[Rust:Konstanten]]
+* [[Rust:Automatische Typableitung]]
+* [[Rust:String]]
+* [[Rust:Operatoren]]
+* [[Rust:Entscheidungsfindung]]
+==Weblink==
+* https://www.tutorialspoint.com/rust/index.htm</text>
+      <sha1>82kokcyne1gxxq576pnyg46d9drcyjl</sha1>
+    </revision>
+    <revision>
+      <id>629</id>
+      <parentid>592</parentid>
+      <timestamp>2022-12-04T13:39:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>629</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="254" sha1="o9pni8ar201tt1158c4meez0ke5k3ri" xml:space="preserve">* [[Rust:Hallo Welt]]
+* [[Rust:Datentypen]]
+* [[Rust:Konstanten]]
+* [[Rust:Automatische Typableitung]]
+* [[Rust:String]]
+* [[Rust:Operatoren]]
+* [[Rust:Entscheidungsfindung]]
+* [[Rust:Funktion]]
+==Weblink==
+* https://www.tutorialspoint.com/rust/index.htm</text>
+      <sha1>o9pni8ar201tt1158c4meez0ke5k3ri</sha1>
     </revision>
   </page>
   <page>
@@ -7188,6 +7350,53 @@ target_link_libraries((der Projekt name) fcgi)
 * https://www.tutorialspoint.com/cprogramming/index.htm</text>
       <sha1>ed56btubx6v17t1afxqpntfnmw0uoom</sha1>
     </revision>
+    <revision>
+      <id>618</id>
+      <parentid>581</parentid>
+      <timestamp>2022-12-03T19:29:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>618</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="220" sha1="nin5f4agakjpejmtdnogonxhwwosezp" xml:space="preserve">* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+* [[C:Konstanten]]
+* [[C:Operatoren]]
+* [[C:Entscheidungsfindung]]
+* [[C:Schleife]]
+* [[C:Funktion]]
+* [[C:Array]]
+==Weblink==
+* https://www.tutorialspoint.com/cprogramming/index.htm</text>
+      <sha1>nin5f4agakjpejmtdnogonxhwwosezp</sha1>
+    </revision>
+    <revision>
+      <id>648</id>
+      <parentid>618</parentid>
+      <timestamp>2022-12-05T20:01:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>648</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="235" sha1="njmyml03n7fi4tbc5voe7dor4t1ix6b" xml:space="preserve">* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+* [[C:Konstanten]]
+* [[C:Operatoren]]
+* [[C:Entscheidungsfindung]]
+* [[C:Schleife]]
+* [[C:Funktion]]
+* [[C:Array]]
+* [[C:Zeiger]]
+==Weblink==
+* https://www.tutorialspoint.com/cprogramming/index.htm</text>
+      <sha1>njmyml03n7fi4tbc5voe7dor4t1ix6b</sha1>
+    </revision>
   </page>
   <page>
     <title>Ruby</title>
@@ -7501,6 +7710,27 @@ exit();
 * https://www.tutorialspoint.com/python3/index.htm</text>
       <sha1>fwe7kfqppo9x1vphs0besgadm69lqln</sha1>
     </revision>
+    <revision>
+      <id>607</id>
+      <parentid>568</parentid>
+      <timestamp>2022-12-03T16:18:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>607</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="209" sha1="1cm8ar2qyggsn0upz6x1bjn1tc6qtfh" xml:space="preserve">* [[Python:Hallo Welt]]
+* [[Python:Variable]]
+* [[Python:Operatoren]]
+* [[Python::Entscheidungsfindung]]
+* [[Python:Schleife]]
+* [[Python:String]]
+==Weblink==
+* https://www.tutorialspoint.com/python3/index.htm</text>
+      <sha1>1cm8ar2qyggsn0upz6x1bjn1tc6qtfh</sha1>
+    </revision>
   </page>
   <page>
     <title>Python:Hallo Welt</title>
@@ -7700,6 +7930,51 @@ print("Hallo Welt")
 ==Weblink==
 * https://www.tutorialspoint.com/javascript/index.htm</text>
       <sha1>7k4i4nw1czulhu9ka5i4qh5udc8vd6v</sha1>
+    </revision>
+    <revision>
+      <id>603</id>
+      <parentid>561</parentid>
+      <timestamp>2022-12-02T18:57:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>603</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="263" sha1="kymruuha3e37zxzijv3lwdsshlm5itu" xml:space="preserve">* [[Javascript:Hallo Welt]]
+* [[Javascript:Variable]]
+* [[Javascript:Konstant]]
+* [[Javascript:Operatoren]]
+* [[Javascript:Entscheidungsfindung]]
+* [[Javascript:Schleife]]
+* [[Javascript:Funktion]]
+==Weblink==
+* https://www.tutorialspoint.com/javascript/index.htm</text>
+      <sha1>kymruuha3e37zxzijv3lwdsshlm5itu</sha1>
+    </revision>
+    <revision>
+      <id>637</id>
+      <parentid>603</parentid>
+      <timestamp>2022-12-04T20:27:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>637</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="287" sha1="qweonixqpy6e1m93ssim8x7isuplmyb" xml:space="preserve">* [[Javascript:Hallo Welt]]
+* [[Javascript:Variable]]
+* [[Javascript:Konstant]]
+* [[Javascript:Operatoren]]
+* [[Javascript:Entscheidungsfindung]]
+* [[Javascript:Schleife]]
+* [[Javascript:Funktion]]
+* [[Javascript:Objekt]]
+==Weblink==
+* https://www.tutorialspoint.com/javascript/index.htm</text>
+      <sha1>qweonixqpy6e1m93ssim8x7isuplmyb</sha1>
     </revision>
   </page>
   <page>
@@ -9617,6 +9892,51 @@ https://www.tutorialspoint.com/postgresql/index.htm</text>
 ==Weblink==
 * https://www.tutorialspoint.com/postgresql/index.htm</text>
       <sha1>6xzoofoa29unt77hc0w3g249tc59jxm</sha1>
+    </revision>
+    <revision>
+      <id>600</id>
+      <parentid>558</parentid>
+      <timestamp>2022-12-02T17:49:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>600</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="293" sha1="bo0wa8z0ij4sirxdgd74pzblr5bs8zr" xml:space="preserve">* [[Datenbank:Konsole]]
+* [[Datenbank:Psql Konsole]]
+* [[Datenbank:Datenbank erstellen]]
+* [[Datenbank:Datenbank auswählen]]
+* [[Datenbank:Datenbank löschen]]
+* [[Datenbank:Tabelle erstellen]]
+* [[Datenbank:Tabelle löschen]]
+==Weblink==
+* https://www.tutorialspoint.com/postgresql/index.htm</text>
+      <sha1>bo0wa8z0ij4sirxdgd74pzblr5bs8zr</sha1>
+    </revision>
+    <revision>
+      <id>632</id>
+      <parentid>600</parentid>
+      <timestamp>2022-12-04T14:41:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>632</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="331" sha1="2n3hmbtriltca3hvg3vu0voymt8w24a" xml:space="preserve">* [[Datenbank:Konsole]]
+* [[Datenbank:Psql Konsole]]
+* [[Datenbank:Datenbank erstellen]]
+* [[Datenbank:Datenbank auswählen]]
+* [[Datenbank:Datenbank löschen]]
+* [[Datenbank:Tabelle erstellen]]
+* [[Datenbank:Tabelle löschen]]
+* [[Datenbank:Sammlung von Tabellen]]
+==Weblink==
+* https://www.tutorialspoint.com/postgresql/index.htm</text>
+      <sha1>2n3hmbtriltca3hvg3vu0voymt8w24a</sha1>
     </revision>
   </page>
   <page>
@@ -17940,6 +18260,941 @@ Anweisung
 Anweisung
 }</text>
       <sha1>63djufwsl0u8l4r560eq8wfilryaleo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rust:Entscheidungsfindung</title>
+    <ns>0</ns>
+    <id>117</id>
+    <revision>
+      <id>593</id>
+      <timestamp>2022-12-02T13:08:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Match==  let objekt = true;     match objekt {         true =A,         _ =&gt;print!("Test")     }“</comment>
+      <origin>593</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="98" sha1="i4vqmsuus8007yp903if6qezepx18zb" xml:space="preserve">==Match==
+ let objekt = true;
+    match objekt {
+        true =A,
+        _ =&gt;print!("Test")
+    }</text>
+      <sha1>i4vqmsuus8007yp903if6qezepx18zb</sha1>
+    </revision>
+    <revision>
+      <id>594</id>
+      <parentid>593</parentid>
+      <timestamp>2022-12-02T13:11:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Match */</comment>
+      <origin>594</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="109" sha1="ob3rns6k7mg4ws41gyt7dibyn2vdzi9" xml:space="preserve">==Match==
+ let objekt = true;
+    match objekt {
+        true=&gt;Anweisung,
+        _ =&gt;default Anweisung
+    }</text>
+      <sha1>ob3rns6k7mg4ws41gyt7dibyn2vdzi9</sha1>
+    </revision>
+    <revision>
+      <id>595</id>
+      <parentid>594</parentid>
+      <timestamp>2022-12-02T13:12:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>595</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="107" sha1="3zxn9w91e9b92qt42ja7c4qswzljesn" xml:space="preserve">==Match==
+ let objekt=true;
+    match objekt {
+        true=&gt;Anweisung,
+        _ =&gt;default Anweisung
+    }</text>
+      <sha1>3zxn9w91e9b92qt42ja7c4qswzljesn</sha1>
+    </revision>
+    <revision>
+      <id>596</id>
+      <parentid>595</parentid>
+      <timestamp>2022-12-02T16:23:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Match */</comment>
+      <origin>596</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="139" sha1="tuyp3o09pg1orl4whxzrm5x5eg0w6v4" xml:space="preserve">==Mehrfache Verzweigung==
+ {{c1::let objekt=}}true{{c1::;}}
+    match objekt {
+        true=&gt;Anweisung,
+        _ =&gt;default Anweisung
+    }</text>
+      <sha1>tuyp3o09pg1orl4whxzrm5x5eg0w6v4</sha1>
+    </revision>
+    <revision>
+      <id>597</id>
+      <parentid>596</parentid>
+      <timestamp>2022-12-02T16:23:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>597</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="125" sha1="1u1alyrvnmdsizjtbl26on3mdwqvzm8" xml:space="preserve">==Mehrfache Verzweigung==
+ let objekt=}}true;
+    match objekt {
+        true=&gt;Anweisung,
+        _ =&gt;default Anweisung
+    }</text>
+      <sha1>1u1alyrvnmdsizjtbl26on3mdwqvzm8</sha1>
+    </revision>
+    <revision>
+      <id>598</id>
+      <parentid>597</parentid>
+      <timestamp>2022-12-02T16:24:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Mehrfache Verzweigung */</comment>
+      <origin>598</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="123" sha1="dh30wlmakp4cfujj7zrvri95g0xdvvk" xml:space="preserve">==Mehrfache Verzweigung==
+ let objekt=true;
+    match objekt {
+        true=&gt;Anweisung,
+        _ =&gt;default Anweisung
+    }</text>
+      <sha1>dh30wlmakp4cfujj7zrvri95g0xdvvk</sha1>
+    </revision>
+    <revision>
+      <id>599</id>
+      <parentid>598</parentid>
+      <timestamp>2022-12-02T16:27:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Mehrfache Verzweigung */</comment>
+      <origin>599</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="365" sha1="qnc5fu38shjqjcgfkzsedyzwgmn7btv" xml:space="preserve">==Einfache Entscheidungsfindung==
+&lt;pre&gt;
+if Bedingung {
+  Anweisung
+}
+&lt;/pre&gt;
+==Entscheidungsfindung oder wenn der boolesche Ausdruck falsch ist==
+&lt;pre&gt;
+if Bedingung {
+  richtig Bedingung Anweisung
+} else {
+falsch Bedingung Anweisung
+}
+&lt;/pre&gt;
+
+==Mehrfache Verzweigung==
+ let objekt=true;
+    match objekt {
+        true=&gt;Anweisung,
+        _ =&gt;default Anweisung
+    }</text>
+      <sha1>qnc5fu38shjqjcgfkzsedyzwgmn7btv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datenbank:Tabelle löschen</title>
+    <ns>0</ns>
+    <id>118</id>
+    <revision>
+      <id>601</id>
+      <timestamp>2022-12-02T18:27:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;drop table tabellname; &lt;/pre&gt;“</comment>
+      <origin>601</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" sha1="1fxyf8kr30jmk9hthh92ej768m029r3" xml:space="preserve">&lt;pre&gt;drop table tabellname;
+&lt;/pre&gt;</text>
+      <sha1>1fxyf8kr30jmk9hthh92ej768m029r3</sha1>
+    </revision>
+    <revision>
+      <id>602</id>
+      <parentid>601</parentid>
+      <timestamp>2022-12-02T18:28:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>602</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="ra8wvch1nws114zq4zqbxcxqnu5p8t4" xml:space="preserve">&lt;pre&gt;drop table tabellename;
+&lt;/pre&gt;</text>
+      <sha1>ra8wvch1nws114zq4zqbxcxqnu5p8t4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Javascript:Funktion</title>
+    <ns>0</ns>
+    <id>119</id>
+    <revision>
+      <id>604</id>
+      <timestamp>2022-12-02T19:01:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;  funktionname(variable) {     return variable; } funktion(wert); &lt;/pre&gt;“</comment>
+      <origin>604</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="77" sha1="m435aray5y44062uvk0c36rpbfnwhcc" xml:space="preserve">&lt;pre&gt;
+ funktionname(variable) {
+    return variable;
+}
+funktion(wert);
+&lt;/pre&gt;</text>
+      <sha1>m435aray5y44062uvk0c36rpbfnwhcc</sha1>
+    </revision>
+    <revision>
+      <id>605</id>
+      <parentid>604</parentid>
+      <timestamp>2022-12-02T19:02:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>605</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="81" sha1="6sb1j8se98sg3uxmfxybnbb4wv7j9sb" xml:space="preserve">&lt;pre&gt;
+ funktionname(variable) {
+    return variable;
+}
+funktionname(wert);
+&lt;/pre&gt;</text>
+      <sha1>6sb1j8se98sg3uxmfxybnbb4wv7j9sb</sha1>
+    </revision>
+    <revision>
+      <id>606</id>
+      <parentid>605</parentid>
+      <timestamp>2022-12-02T19:10:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>606</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="90" sha1="qfs8e3aronrxa0cra84mspmh6dharpr" xml:space="preserve">&lt;pre&gt;
+ function funktionname(variable) {
+    return variable;
+}
+funktionname(wert);
+&lt;/pre&gt;</text>
+      <sha1>qfs8e3aronrxa0cra84mspmh6dharpr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Python:String</title>
+    <ns>0</ns>
+    <id>120</id>
+    <revision>
+      <id>608</id>
+      <timestamp>2022-12-03T16:27:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Zugriff auf Werte in Strings==“</comment>
+      <origin>608</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" sha1="imwvq0y2mv5psggzz5hy2yvk1f1q239" xml:space="preserve">==Zugriff auf Werte in Strings==</text>
+      <sha1>imwvq0y2mv5psggzz5hy2yvk1f1q239</sha1>
+    </revision>
+    <revision>
+      <id>609</id>
+      <parentid>608</parentid>
+      <timestamp>2022-12-03T16:42:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>609</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="84" sha1="s2ppnutm6lmrklhiac3lbzzlgm62n06" xml:space="preserve">==Zugriff auf Werte in Strings==
+===Schneiden===
+print(text[start index:ende index])</text>
+      <sha1>s2ppnutm6lmrklhiac3lbzzlgm62n06</sha1>
+    </revision>
+    <revision>
+      <id>610</id>
+      <parentid>609</parentid>
+      <timestamp>2022-12-03T16:44:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>610</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="118" sha1="89x596qmfklkm47cskzyx2mqk4l7tt7" xml:space="preserve">==Zugriff auf Werte in Strings==
+===Schneiden===
+print(text[start index:ende index])
+===Schneiden Sie von Anfang an===</text>
+      <sha1>89x596qmfklkm47cskzyx2mqk4l7tt7</sha1>
+    </revision>
+    <revision>
+      <id>611</id>
+      <parentid>610</parentid>
+      <timestamp>2022-12-03T16:46:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Schneiden Sie von Anfang an */</comment>
+      <origin>611</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="134" sha1="fci7fvegcfv19fvswi4i4qbncdta5fu" xml:space="preserve">==Zugriff auf Werte in Strings==
+===Schneiden===
+print(text[start index:ende index])
+===Schneiden Sie von Anfang an===
+print(text[:5])</text>
+      <sha1>fci7fvegcfv19fvswi4i4qbncdta5fu</sha1>
+    </revision>
+    <revision>
+      <id>612</id>
+      <parentid>611</parentid>
+      <timestamp>2022-12-03T16:47:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Schneiden Sie von Anfang an */</comment>
+      <origin>612</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="143" sha1="tn892mico4h8so2p3zg2m3f3z23v8qe" xml:space="preserve">==Zugriff auf Werte in Strings==
+===Schneiden===
+print(text[start index:ende index])
+===Schneiden Sie von Anfang an===
+print(text[:ende index])</text>
+      <sha1>tn892mico4h8so2p3zg2m3f3z23v8qe</sha1>
+    </revision>
+    <revision>
+      <id>613</id>
+      <parentid>612</parentid>
+      <timestamp>2022-12-03T16:52:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>613</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="172" sha1="58ihku6sxmxz2ujbaiydxoom2qazqcc" xml:space="preserve">==Zugriff auf Werte in Strings==
+===Schneiden===
+print(text[start index:ende index])
+===Schneiden Sie von Anfang an===
+print(text[:ende index])
+===Bis zum Ende schneiden===</text>
+      <sha1>58ihku6sxmxz2ujbaiydxoom2qazqcc</sha1>
+    </revision>
+    <revision>
+      <id>614</id>
+      <parentid>613</parentid>
+      <timestamp>2022-12-03T17:03:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Zugriff auf Werte in Strings */</comment>
+      <origin>614</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="205" sha1="aedm9dr7jiwht46nni0wfhgx67rg4ax" xml:space="preserve">==Zugriff auf Werte in Strings Sclice==
+===Schneiden===
+print(text[start index:ende index])
+===Schneiden Sie von Anfang an===
+print(text[:ende index])
+===Bis zum Ende schneiden===
+print(text[start index:])</text>
+      <sha1>aedm9dr7jiwht46nni0wfhgx67rg4ax</sha1>
+    </revision>
+    <revision>
+      <id>615</id>
+      <parentid>614</parentid>
+      <timestamp>2022-12-03T17:07:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Zugriff auf Werte in Strings Sclice */</comment>
+      <origin>615</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="256" sha1="jlclf0d2mkqg6o9legmcxay7vows56q" xml:space="preserve">==Zugriff auf Werte in Strings Sclice==
+===Schneiden===
+print(text[start index:ende index])
+===Schneiden Sie von Anfang an===
+print(text[:ende index])
+===Bis zum Ende schneiden===
+print(text[start index:])
+==Noch im Aufbau Zeichenfolgen-Spezialoperatoren==</text>
+      <sha1>jlclf0d2mkqg6o9legmcxay7vows56q</sha1>
+    </revision>
+    <revision>
+      <id>640</id>
+      <parentid>615</parentid>
+      <timestamp>2022-12-05T14:55:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Noch im Aufbau Zeichenfolgen-Spezialoperatoren */</comment>
+      <origin>640</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="241" sha1="fvbgq8o27z4sa6pxuec83j54zi0eg5h" xml:space="preserve">==Zugriff auf Werte in Strings Sclice==
+===Schneiden===
+print(text[start index:ende index])
+===Schneiden Sie von Anfang an===
+print(text[:ende index])
+===Bis zum Ende schneiden===
+print(text[start index:])
+==Zeichenfolgen-Spezialoperatoren==</text>
+      <sha1>fvbgq8o27z4sa6pxuec83j54zi0eg5h</sha1>
+    </revision>
+    <revision>
+      <id>641</id>
+      <parentid>640</parentid>
+      <timestamp>2022-12-05T15:20:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Zeichenfolgen-Spezialoperatoren */</comment>
+      <origin>641</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="291" sha1="qo55rfdrpwj0uu8f5367v8vfmgdp1jv" xml:space="preserve">==Zugriff auf Werte in Strings Sclice==
+===Schneiden===
+print(text[start index:ende index])
+===Schneiden Sie von Anfang an===
+print(text[:ende index])
+===Bis zum Ende schneiden===
+print(text[start index:])
+==Zeichenfolgen-Spezialoperatoren==
+&lt;pre&gt;
+
++	Verkettung
+*	Wiederholung
+r/R Raw String</text>
+      <sha1>qo55rfdrpwj0uu8f5367v8vfmgdp1jv</sha1>
+    </revision>
+    <revision>
+      <id>642</id>
+      <parentid>641</parentid>
+      <timestamp>2022-12-05T15:24:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Zeichenfolgen-Spezialoperatoren */</comment>
+      <origin>642</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="375" sha1="afkb88hii43h5ig5820d3oc5ubq86fd" xml:space="preserve">==Zugriff auf Werte in Strings Sclice==
+===Schneiden===
+print(text[start index:ende index])
+===Schneiden Sie von Anfang an===
+print(text[:ende index])
+===Bis zum Ende schneiden===
+print(text[start index:])
+==Zeichenfolgen-Spezialoperatoren==
+&lt;pre&gt;
+{{c1::+}}	Verkettung
+{{c1::*}}	Wiederholung
+{{c1::r/R}} Raw String
+{{c1::in}} Mitgliedschaft
+{{c1::in not}} kein Mitgliedschaft</text>
+      <sha1>afkb88hii43h5ig5820d3oc5ubq86fd</sha1>
+    </revision>
+    <revision>
+      <id>643</id>
+      <parentid>642</parentid>
+      <timestamp>2022-12-05T15:26:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Zeichenfolgen-Spezialoperatoren */</comment>
+      <origin>643</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="335" sha1="ckhwel8q33aovj47zmav2459537980h" xml:space="preserve">==Zugriff auf Werte in Strings Sclice==
+===Schneiden===
+print(text[start index:ende index])
+===Schneiden Sie von Anfang an===
+print(text[:ende index])
+===Bis zum Ende schneiden===
+print(text[start index:])
+==Zeichenfolgen-Spezialoperatoren==
+&lt;pre&gt;
++	Verkettung
+*	Wiederholung
+r/R Raw String
+in Mitgliedschaft
+in not kein Mitgliedschaft</text>
+      <sha1>ckhwel8q33aovj47zmav2459537980h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Java:Schleifen</title>
+    <ns>0</ns>
+    <id>121</id>
+    <revision>
+      <id>617</id>
+      <timestamp>2022-12-03T18:25:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Zählschleife== &lt;pre&gt;   for (int start=0;start&lt;wiederholen;++start) {       Anweisung;     } &lt;/pre&gt;  ==Kopfgesteuerte Schleife== &lt;pre&gt; while(Bedingung) {    Anweisung; } &lt;/pre&gt;  ==Fußgesteuerte Schleife== &lt;pre&gt; do { Anweisung; }while(Bedingung); &lt;/pre&gt;“</comment>
+      <origin>617</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="255" sha1="lg29rejvryr7121gvg3s3ekvbbzw5pw" xml:space="preserve">==Zählschleife==
+&lt;pre&gt;
+  for (int start=0;start&lt;wiederholen;++start) {
+      Anweisung;
+    }
+&lt;/pre&gt;
+
+==Kopfgesteuerte Schleife==
+&lt;pre&gt;
+while(Bedingung) {
+   Anweisung;
+}
+&lt;/pre&gt;
+
+==Fußgesteuerte Schleife==
+&lt;pre&gt;
+do {
+Anweisung;
+}while(Bedingung);
+&lt;/pre&gt;</text>
+      <sha1>lg29rejvryr7121gvg3s3ekvbbzw5pw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:Array</title>
+    <ns>0</ns>
+    <id>122</id>
+    <revision>
+      <id>619</id>
+      <timestamp>2022-12-03T19:47:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „datentypen array[Größe]={wert};“</comment>
+      <origin>619</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="33" sha1="3edaqtbse0h8izkfqded1xtqx2qsosf" xml:space="preserve">datentypen array[Größe]={wert};</text>
+      <sha1>3edaqtbse0h8izkfqded1xtqx2qsosf</sha1>
+    </revision>
+    <revision>
+      <id>620</id>
+      <parentid>619</parentid>
+      <timestamp>2022-12-03T19:48:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>620</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="46" sha1="j0415hfuvawvm6kpnfvrkzsw2v4tpq3" xml:space="preserve">&lt;pre&gt;
+datentypen array[Größe]={wert};
+&lt;/pre&gt;</text>
+      <sha1>j0415hfuvawvm6kpnfvrkzsw2v4tpq3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++Funktion</title>
+    <ns>0</ns>
+    <id>123</id>
+    <revision>
+      <id>622</id>
+      <timestamp>2022-12-03T20:44:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „datentypen funktionname(datentypen variable) {     return variable; }  int main() {      funktionname(wert);      return 0; }“</comment>
+      <origin>622</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="125" sha1="q9kwwdjvo7dx57tp6maukl71bo9yee3" xml:space="preserve">datentypen funktionname(datentypen variable) {
+    return variable;
+}
+
+int main() {
+
+    funktionname(wert);
+
+    return 0;
+}</text>
+      <sha1>q9kwwdjvo7dx57tp6maukl71bo9yee3</sha1>
+    </revision>
+    <revision>
+      <id>623</id>
+      <parentid>622</parentid>
+      <timestamp>2022-12-03T20:45:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>623</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="138" sha1="j7lzt9l5twciaqj8e8psxabdhkgmcpj" xml:space="preserve">&lt;pre&gt;
+datentypen funktionname(datentypen variable) {
+    return variable;
+}
+
+int main() {
+
+    funktionname(wert);
+
+    return 0;
+}
+&lt;/pre&gt;</text>
+      <sha1>j7lzt9l5twciaqj8e8psxabdhkgmcpj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Go:Funktion</title>
+    <ns>0</ns>
+    <id>124</id>
+    <revision>
+      <id>625</id>
+      <timestamp>2022-12-04T13:03:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „package main  import "fmt"  func funktionname (variable datentypen) datentypen {  	return variable }“</comment>
+      <origin>625</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="100" sha1="ivf7fg04qhemltjww5txz515wq0vqt3" xml:space="preserve">package main
+
+import "fmt"
+
+func funktionname (variable datentypen) datentypen {
+
+	return variable
+}</text>
+      <sha1>ivf7fg04qhemltjww5txz515wq0vqt3</sha1>
+    </revision>
+    <revision>
+      <id>626</id>
+      <parentid>625</parentid>
+      <timestamp>2022-12-04T13:04:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>626</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="86" sha1="q2s97uqwigcezk14j6xj02ym20305p8" xml:space="preserve">package main
+
+func funktionname (variable datentypen) datentypen {
+
+	return variable
+}</text>
+      <sha1>q2s97uqwigcezk14j6xj02ym20305p8</sha1>
+    </revision>
+    <revision>
+      <id>627</id>
+      <parentid>626</parentid>
+      <timestamp>2022-12-04T13:08:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>627</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="71" sha1="tqyorb0nz05swbb31deg3vuprpljloa" xml:space="preserve">func funktionname (variable datentypen) datentypen {
+	return variable
+}</text>
+      <sha1>tqyorb0nz05swbb31deg3vuprpljloa</sha1>
+    </revision>
+    <revision>
+      <id>628</id>
+      <parentid>627</parentid>
+      <timestamp>2022-12-04T13:09:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>628</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="84" sha1="emq0jeq32lwe3lvvlt3dh6bafgagcds" xml:space="preserve">&lt;pre&gt;
+func funktionname (variable datentypen) datentypen {
+	return variable
+}
+&lt;/pre&gt;</text>
+      <sha1>emq0jeq32lwe3lvvlt3dh6bafgagcds</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rust:Funktion</title>
+    <ns>0</ns>
+    <id>125</id>
+    <revision>
+      <id>630</id>
+      <timestamp>2022-12-04T14:06:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „fn start(zahl:i8) -&gt; i8 {     zahl }“</comment>
+      <origin>630</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="hlhc5dz2ivubqmly30z5juvjbbzux7m" xml:space="preserve">fn start(zahl:i8) -&gt; i8 {
+    zahl
+}</text>
+      <sha1>hlhc5dz2ivubqmly30z5juvjbbzux7m</sha1>
+    </revision>
+    <revision>
+      <id>631</id>
+      <parentid>630</parentid>
+      <timestamp>2022-12-04T14:12:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>631</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="78" sha1="oj8j87lctcwyas8pgdjaqnw7r2cclfb" xml:space="preserve">&lt;pre&gt;
+fn funktionname(variable:datentypen)-&gt;datentypen {
+    variable
+}
+&lt;/pre&gt;</text>
+      <sha1>oj8j87lctcwyas8pgdjaqnw7r2cclfb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datenbank:Sammlung von Tabellen</title>
+    <ns>0</ns>
+    <id>126</id>
+    <revision>
+      <id>633</id>
+      <timestamp>2022-12-04T14:45:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; create schema meinschema; &lt;/pre&gt;“</comment>
+      <origin>633</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="38" sha1="4d87h0pth379orvdq3clof33lec6vk0" xml:space="preserve">&lt;pre&gt;
+create schema meinschema;
+&lt;/pre&gt;</text>
+      <sha1>4d87h0pth379orvdq3clof33lec6vk0</sha1>
+    </revision>
+    <revision>
+      <id>634</id>
+      <parentid>633</parentid>
+      <timestamp>2022-12-04T14:46:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>634</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="97" sha1="4kg99iv24v5fdhddptossh9yyb4wwb6" xml:space="preserve">==Syntax zum Erstellen einer Tabelle im Schema&lt;meinschema&gt;
+&lt;pre&gt;
+create schema meinschema;
+&lt;/pre&gt;</text>
+      <sha1>4kg99iv24v5fdhddptossh9yyb4wwb6</sha1>
+    </revision>
+    <revision>
+      <id>635</id>
+      <parentid>634</parentid>
+      <timestamp>2022-12-04T14:48:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>635</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="99" sha1="dmszmjyu3wb8vxb1wvrhluebo9eurx2" xml:space="preserve">==Syntax zum Erstellen einer Tabelle im Schema&lt;meinschema&gt;==
+&lt;pre&gt;
+create schema meinschema;
+&lt;/pre&gt;</text>
+      <sha1>dmszmjyu3wb8vxb1wvrhluebo9eurx2</sha1>
+    </revision>
+    <revision>
+      <id>636</id>
+      <parentid>635</parentid>
+      <timestamp>2022-12-04T14:52:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>636</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="172" sha1="2jcvzcpo65mqbumz4wd64xe6qg5agt7" xml:space="preserve">==Syntax zum Erstellen einer Tabelle im Schema&lt;meinschema&gt;==
+&lt;pre&gt;
+create schema meinschema;
+&lt;/pre&gt;
+==Syntax zum Löschen des Schemas==
+&lt;pre&gt;
+drop schema meinschema;
+&lt;/pre&gt;</text>
+      <sha1>2jcvzcpo65mqbumz4wd64xe6qg5agt7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Javascript:Objekt</title>
+    <ns>0</ns>
+    <id>127</id>
+    <revision>
+      <id>638</id>
+      <timestamp>2022-12-04T20:47:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Benutzerdefinierte Objekte== ===Der neue Betreiber=== &lt;pre&gt; let objekt= new Object(); &lt;/pre&gt;“</comment>
+      <origin>638</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="94" sha1="qp5d8bdioh8y0rmg8s4vjosnk15538p" xml:space="preserve">==Benutzerdefinierte Objekte==
+===Der neue Betreiber===
+&lt;pre&gt;
+let objekt= new Object();
+&lt;/pre&gt;</text>
+      <sha1>qp5d8bdioh8y0rmg8s4vjosnk15538p</sha1>
+    </revision>
+    <revision>
+      <id>639</id>
+      <parentid>638</parentid>
+      <timestamp>2022-12-04T20:49:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Der neue Betreiber */</comment>
+      <origin>639</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="93" sha1="mdosbnmxx4k9gouwyrb73ox4k2nfa25" xml:space="preserve">==Benutzerdefinierte Objekte==
+===Der neue Betreiber===
+&lt;pre&gt;
+let objekt=new Object();
+&lt;/pre&gt;</text>
+      <sha1>mdosbnmxx4k9gouwyrb73ox4k2nfa25</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Java:Strings-Klasse</title>
+    <ns>0</ns>
+    <id>128</id>
+    <revision>
+      <id>645</id>
+      <timestamp>2022-12-05T18:54:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Strings erstellen== &lt;pre&gt; String variable = "Hallo Welt";“</comment>
+      <origin>645</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="59" sha1="0lttzxsmfono5qhm4y8xmd7ifdt2n2i" xml:space="preserve">==Strings erstellen==
+&lt;pre&gt;
+String variable = "Hallo Welt";</text>
+      <sha1>0lttzxsmfono5qhm4y8xmd7ifdt2n2i</sha1>
+    </revision>
+    <revision>
+      <id>646</id>
+      <parentid>645</parentid>
+      <timestamp>2022-12-05T19:00:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>646</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="91" sha1="6kkye7b0zrwjn44ra4492xxg8lwmp58" xml:space="preserve">==Strings erstellen==
+&lt;pre&gt;
+String variable = "Hallo Welt";
+&lt;/pre&gt;
+
+==String-Länge==
+&lt;pre&gt;</text>
+      <sha1>6kkye7b0zrwjn44ra4492xxg8lwmp58</sha1>
+    </revision>
+    <revision>
+      <id>647</id>
+      <parentid>646</parentid>
+      <timestamp>2022-12-05T19:05:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Strings erstellen */</comment>
+      <origin>647</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="89" sha1="8fr9bibeurempyq2cgphuxc50r7cta9" xml:space="preserve">==Strings erstellen==
+&lt;pre&gt;
+String variable="Hallo Welt";
+&lt;/pre&gt;
+
+==String-Länge==
+&lt;pre&gt;</text>
+      <sha1>8fr9bibeurempyq2cgphuxc50r7cta9</sha1>
     </revision>
   </page>
 </mediawiki>
