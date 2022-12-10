@@ -5277,6 +5277,31 @@ sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.or
 * https://www.tutorialspoint.com/cplusplus/index.htm</text>
       <sha1>8g5qw3du8jdzuyftaa33z23fdmogj8h</sha1>
     </revision>
+    <revision>
+      <id>650</id>
+      <parentid>621</parentid>
+      <timestamp>2022-12-08T16:04:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>650</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="268" sha1="dzvvht4bnx1psuimjnua7v3fa415wdn" xml:space="preserve">
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+* [[C++:Automatische Typableitung]]
+* [[C++:Operatoren]]
+* [[C++:Entscheidungsfindung]]
+* [[C++Schleife]]
+* [[C++Funktion]]
+* [[C++:Array]]
+==Weblink==
+* https://www.tutorialspoint.com/cplusplus/index.htm</text>
+      <sha1>dzvvht4bnx1psuimjnua7v3fa415wdn</sha1>
+    </revision>
   </page>
   <page>
     <title>C++:Hallo Welt</title>
@@ -6027,6 +6052,31 @@ fun main() {
 * https://www.tutorialspoint.com/go/index.htm</text>
       <sha1>9f5ka5my50ciirfbjp6f1gp1xgdmyup</sha1>
     </revision>
+    <revision>
+      <id>652</id>
+      <parentid>624</parentid>
+      <timestamp>2022-12-09T01:34:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>652</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="292" sha1="n5rv7hfkuk3mlxtpqwp5hfkusueu8au" xml:space="preserve">* [[Go:Hallo Welt]]
+* [[Go:Datentypen]]
+* [[Go:Konstanten]]
+* [[Go:Automatische Typableitung]]
+* [[Go:Kurze Variablendeklarationen]]
+* [[Go:Operatoren]]
+* [[Go:Entscheidungsfindung]]
+* [[Go:Schleife]]
+* [[Go:Funktion]]
+* [[Go:String]]
+==Weblink==
+* https://www.tutorialspoint.com/go/index.htm</text>
+      <sha1>n5rv7hfkuk3mlxtpqwp5hfkusueu8au</sha1>
+    </revision>
   </page>
   <page>
     <title>Go:Hallo Welt</title>
@@ -6351,6 +6401,30 @@ func main() {
 ==Weblink==
 * https://www.tutorialspoint.com/rust/index.htm</text>
       <sha1>o9pni8ar201tt1158c4meez0ke5k3ri</sha1>
+    </revision>
+    <revision>
+      <id>661</id>
+      <parentid>629</parentid>
+      <timestamp>2022-12-09T22:25:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>661</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="271" sha1="4hnmk3sauu17nxqlvwqs3o0z4mavdlb" xml:space="preserve">* [[Rust:Hallo Welt]]
+* [[Rust:Datentypen]]
+* [[Rust:Konstanten]]
+* [[Rust:Automatische Typableitung]]
+* [[Rust:String]]
+* [[Rust:Operatoren]]
+* [[Rust:Entscheidungsfindung]]
+* [[Rust:Funktion]]
+* [[Rust:Tuple]]
+==Weblink==
+* https://www.tutorialspoint.com/rust/index.htm</text>
+      <sha1>4hnmk3sauu17nxqlvwqs3o0z4mavdlb</sha1>
     </revision>
   </page>
   <page>
@@ -19195,6 +19269,229 @@ String variable="Hallo Welt";
 ==String-Länge==
 &lt;pre&gt;</text>
       <sha1>8fr9bibeurempyq2cgphuxc50r7cta9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:Zeiger</title>
+    <ns>0</ns>
+    <id>129</id>
+    <revision>
+      <id>649</id>
+      <timestamp>2022-12-08T15:31:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; datentypen variable=wert; datentypen*zeiger; zeiger=&amp;variable;“</comment>
+      <origin>649</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="68" sha1="75ie9ker8gjcpkv0f5irrgaqkk4mro4" xml:space="preserve">&lt;pre&gt;
+datentypen variable=wert;
+datentypen*zeiger;
+zeiger=&amp;variable;</text>
+      <sha1>75ie9ker8gjcpkv0f5irrgaqkk4mro4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++:Array</title>
+    <ns>0</ns>
+    <id>130</id>
+    <revision>
+      <id>651</id>
+      <timestamp>2022-12-09T01:18:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; datentypen array[Größe]={wert}; &lt;/pre&gt;“</comment>
+      <origin>651</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="46" sha1="j0415hfuvawvm6kpnfvrkzsw2v4tpq3" xml:space="preserve">&lt;pre&gt;
+datentypen array[Größe]={wert};
+&lt;/pre&gt;</text>
+      <sha1>j0415hfuvawvm6kpnfvrkzsw2v4tpq3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Go:String</title>
+    <ns>0</ns>
+    <id>131</id>
+    <revision>
+      <id>653</id>
+      <timestamp>2022-12-09T15:55:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Strings erstellen== &lt;pre&gt; var variable="Hallo Welt" &lt;/pre&gt;“</comment>
+      <origin>653</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="60" sha1="g1qvekiqi6k56t56vi36lngatmu45ez" xml:space="preserve">==Strings erstellen==
+&lt;pre&gt;
+var variable="Hallo Welt"
+&lt;/pre&gt;</text>
+      <sha1>g1qvekiqi6k56t56vi36lngatmu45ez</sha1>
+    </revision>
+    <revision>
+      <id>654</id>
+      <parentid>653</parentid>
+      <timestamp>2022-12-09T15:57:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>654</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="78" sha1="22gf9vlzrd5rv9bz0u3it1gz5qinny0" xml:space="preserve">==Strings erstellen==
+&lt;pre&gt;
+var variable="Hallo Welt"
+&lt;/pre&gt;
+==String-Länge==</text>
+      <sha1>22gf9vlzrd5rv9bz0u3it1gz5qinny0</sha1>
+    </revision>
+    <revision>
+      <id>655</id>
+      <parentid>654</parentid>
+      <timestamp>2022-12-09T16:06:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* String-Länge */</comment>
+      <origin>655</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="146" sha1="c5imb013olk20wzkcsocq8zohuzrptj" xml:space="preserve">==Strings erstellen==
+&lt;pre&gt;
+var variable="Hallo Welt"
+&lt;/pre&gt;
+==String-Länge==
+&lt;pre&gt;
+var variable = "Hallo Welt"
+fmt.Println(len(variable))
+&lt;/pre&gt;</text>
+      <sha1>c5imb013olk20wzkcsocq8zohuzrptj</sha1>
+    </revision>
+    <revision>
+      <id>656</id>
+      <parentid>655</parentid>
+      <timestamp>2022-12-09T16:30:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* String-Länge */</comment>
+      <origin>656</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="168" sha1="guuqla7dnentcoe9idv9s1toht8kl3q" xml:space="preserve">==Strings erstellen==
+&lt;pre&gt;
+var variable="Hallo Welt"
+&lt;/pre&gt;
+==String-Länge==
+&lt;pre&gt;
+var variable = "Hallo Welt"
+fmt.Println(len(variable))
+&lt;/pre&gt;
+==Strings verketten==</text>
+      <sha1>guuqla7dnentcoe9idv9s1toht8kl3q</sha1>
+    </revision>
+    <revision>
+      <id>657</id>
+      <parentid>656</parentid>
+      <timestamp>2022-12-09T17:17:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Strings verketten */</comment>
+      <origin>657</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="146" sha1="c5imb013olk20wzkcsocq8zohuzrptj" xml:space="preserve">==Strings erstellen==
+&lt;pre&gt;
+var variable="Hallo Welt"
+&lt;/pre&gt;
+==String-Länge==
+&lt;pre&gt;
+var variable = "Hallo Welt"
+fmt.Println(len(variable))
+&lt;/pre&gt;</text>
+      <sha1>c5imb013olk20wzkcsocq8zohuzrptj</sha1>
+    </revision>
+    <revision>
+      <id>658</id>
+      <parentid>657</parentid>
+      <timestamp>2022-12-09T17:17:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* String-Länge */</comment>
+      <origin>658</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="163" sha1="mjczwm06zmmmj8f0rhrqlb4ectdf77t" xml:space="preserve">==Strings erstellen==
+&lt;pre&gt;
+var variable="Hallo Welt"
+&lt;/pre&gt;
+==String-Länge==
+&lt;pre&gt;
+var variable = "Hallo Welt"
+fmt.Println(len(variable))  //string länge
+&lt;/pre&gt;</text>
+      <sha1>mjczwm06zmmmj8f0rhrqlb4ectdf77t</sha1>
+    </revision>
+    <revision>
+      <id>659</id>
+      <parentid>658</parentid>
+      <timestamp>2022-12-09T17:17:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* String-Länge */</comment>
+      <origin>659</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="176" sha1="31beq2dmkzatd9z5966rw70vyn3hj36" xml:space="preserve">==Strings erstellen==
+&lt;pre&gt;
+var variable="Hallo Welt"
+&lt;/pre&gt;
+==String-Länge==
+&lt;pre&gt;
+var variable = "Hallo Welt" //Hallo Welt
+fmt.Println(len(variable))  //string länge
+&lt;/pre&gt;</text>
+      <sha1>31beq2dmkzatd9z5966rw70vyn3hj36</sha1>
+    </revision>
+    <revision>
+      <id>660</id>
+      <parentid>659</parentid>
+      <timestamp>2022-12-09T17:18:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Strings erstellen */</comment>
+      <origin>660</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="190" sha1="6abdpy0l9gwfzrzpmrqv05c862m7ph0" xml:space="preserve">==Strings erstellen==
+&lt;pre&gt;
+var variable="Hallo Welt" //Hallo Welt
+&lt;/pre&gt;
+
+==String-Länge==
+&lt;pre&gt;
+var variable = "Hallo Welt" //Hallo Welt
+fmt.Println(len(variable))  //string länge
+&lt;/pre&gt;</text>
+      <sha1>6abdpy0l9gwfzrzpmrqv05c862m7ph0</sha1>
     </revision>
   </page>
 </mediawiki>
