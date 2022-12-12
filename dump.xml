@@ -5302,6 +5302,32 @@ sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.or
 * https://www.tutorialspoint.com/cplusplus/index.htm</text>
       <sha1>dzvvht4bnx1psuimjnua7v3fa415wdn</sha1>
     </revision>
+    <revision>
+      <id>685</id>
+      <parentid>650</parentid>
+      <timestamp>2022-12-11T19:17:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>685</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="285" sha1="szitm1tct1wr4oipsytnda4evrhcge0" xml:space="preserve">
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+* [[C++:Automatische Typableitung]]
+* [[C++:Operatoren]]
+* [[C++:Entscheidungsfindung]]
+* [[C++Schleife]]
+* [[C++Funktion]]
+* [[C++:Array]]
+* [[C++:String]]
+==Weblink==
+* https://www.tutorialspoint.com/cplusplus/index.htm</text>
+      <sha1>szitm1tct1wr4oipsytnda4evrhcge0</sha1>
+    </revision>
   </page>
   <page>
     <title>C++:Hallo Welt</title>
@@ -6077,6 +6103,32 @@ fun main() {
 * https://www.tutorialspoint.com/go/index.htm</text>
       <sha1>n5rv7hfkuk3mlxtpqwp5hfkusueu8au</sha1>
     </revision>
+    <revision>
+      <id>692</id>
+      <parentid>652</parentid>
+      <timestamp>2022-12-11T23:05:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>692</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="307" sha1="8t9v1geod1lcitmrvnzhavrhhrrf65s" xml:space="preserve">* [[Go:Hallo Welt]]
+* [[Go:Datentypen]]
+* [[Go:Konstanten]]
+* [[Go:Automatische Typableitung]]
+* [[Go:Kurze Variablendeklarationen]]
+* [[Go:Operatoren]]
+* [[Go:Entscheidungsfindung]]
+* [[Go:Schleife]]
+* [[Go:Funktion]]
+* [[Go:String]]
+* [[Go:Array]]
+==Weblink==
+* https://www.tutorialspoint.com/go/index.htm</text>
+      <sha1>8t9v1geod1lcitmrvnzhavrhhrrf65s</sha1>
+    </revision>
   </page>
   <page>
     <title>Go:Hallo Welt</title>
@@ -6425,6 +6477,31 @@ func main() {
 ==Weblink==
 * https://www.tutorialspoint.com/rust/index.htm</text>
       <sha1>4hnmk3sauu17nxqlvwqs3o0z4mavdlb</sha1>
+    </revision>
+    <revision>
+      <id>696</id>
+      <parentid>661</parentid>
+      <timestamp>2022-12-12T17:01:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>696</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="288" sha1="py9qoo6niovb8vkmfug3ki7j095xzk3" xml:space="preserve">* [[Rust:Hallo Welt]]
+* [[Rust:Datentypen]]
+* [[Rust:Konstanten]]
+* [[Rust:Automatische Typableitung]]
+* [[Rust:String]]
+* [[Rust:Operatoren]]
+* [[Rust:Entscheidungsfindung]]
+* [[Rust:Funktion]]
+* [[Rust:Tuple]]
+* [[Rust:Array]]
+==Weblink==
+* https://www.tutorialspoint.com/rust/index.htm</text>
+      <sha1>py9qoo6niovb8vkmfug3ki7j095xzk3</sha1>
     </revision>
   </page>
   <page>
@@ -7471,6 +7548,31 @@ target_link_libraries((der Projekt name) fcgi)
 * https://www.tutorialspoint.com/cprogramming/index.htm</text>
       <sha1>njmyml03n7fi4tbc5voe7dor4t1ix6b</sha1>
     </revision>
+    <revision>
+      <id>682</id>
+      <parentid>648</parentid>
+      <timestamp>2022-12-11T18:34:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>682</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="250" sha1="bw6gwa9nfd41dna3n1l4t2b778wmq5z" xml:space="preserve">* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+* [[C:Konstanten]]
+* [[C:Operatoren]]
+* [[C:Entscheidungsfindung]]
+* [[C:Schleife]]
+* [[C:Funktion]]
+* [[C:Array]]
+* [[C:Zeiger]]
+* [[C:String]]
+==Weblink==
+* https://www.tutorialspoint.com/cprogramming/index.htm</text>
+      <sha1>bw6gwa9nfd41dna3n1l4t2b778wmq5z</sha1>
+    </revision>
   </page>
   <page>
     <title>Ruby</title>
@@ -7804,6 +7906,28 @@ exit();
 ==Weblink==
 * https://www.tutorialspoint.com/python3/index.htm</text>
       <sha1>1cm8ar2qyggsn0upz6x1bjn1tc6qtfh</sha1>
+    </revision>
+    <revision>
+      <id>676</id>
+      <parentid>607</parentid>
+      <timestamp>2022-12-10T21:28:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>676</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="31edcgnfsgmkwxfl37bqeuzg6cjbzd8" xml:space="preserve">* [[Python:Hallo Welt]]
+* [[Python:Variable]]
+* [[Python:Operatoren]]
+* [[Python::Entscheidungsfindung]]
+* [[Python:Schleife]]
+* [[Python:String]]
+* [[Python:Listen]]
+==Weblink==
+* https://www.tutorialspoint.com/python3/index.htm</text>
+      <sha1>31edcgnfsgmkwxfl37bqeuzg6cjbzd8</sha1>
     </revision>
   </page>
   <page>
@@ -10011,6 +10135,54 @@ https://www.tutorialspoint.com/postgresql/index.htm</text>
 ==Weblink==
 * https://www.tutorialspoint.com/postgresql/index.htm</text>
       <sha1>2n3hmbtriltca3hvg3vu0voymt8w24a</sha1>
+    </revision>
+    <revision>
+      <id>665</id>
+      <parentid>632</parentid>
+      <timestamp>2022-12-10T15:49:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>665</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="358" sha1="2sbnaqkskou4dfizab90pzprfhiejw3" xml:space="preserve">* [[Datenbank:Konsole]]
+* [[Datenbank:Psql Konsole]]
+* [[Datenbank:Datenbank erstellen]]
+* [[Datenbank:Datenbank auswählen]]
+* [[Datenbank:Datenbank löschen]]
+* [[Datenbank:Tabelle erstellen]]
+* [[Datenbank:Tabelle löschen]]
+* [[Datenbank:Sammlung von Tabellen]]
+* [[Datenbank:Ausdrücke]]
+==Weblink==
+* https://www.tutorialspoint.com/postgresql/index.htm</text>
+      <sha1>2sbnaqkskou4dfizab90pzprfhiejw3</sha1>
+    </revision>
+    <revision>
+      <id>668</id>
+      <parentid>665</parentid>
+      <timestamp>2022-12-10T18:24:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>668</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="358" sha1="tgjcge6lumko96c000dhejmposkn95c" xml:space="preserve">* [[Datenbank:Konsole]]
+* [[Datenbank:Psql Konsole]]
+* [[Datenbank:Datenbank erstellen]]
+* [[Datenbank:Datenbank auswählen]]
+* [[Datenbank:Datenbank löschen]]
+* [[Datenbank:Tabelle erstellen]]
+* [[Datenbank:Tabelle löschen]]
+* [[Datenbank:Sammlung von Tabellen]]
+* [[Datenbank:Operatoren]]
+==Weblink==
+* https://www.tutorialspoint.com/postgresql/index.htm</text>
+      <sha1>tgjcge6lumko96c000dhejmposkn95c</sha1>
     </revision>
   </page>
   <page>
@@ -19208,6 +19380,78 @@ let objekt=new Object();
 &lt;/pre&gt;</text>
       <sha1>mdosbnmxx4k9gouwyrb73ox4k2nfa25</sha1>
     </revision>
+    <revision>
+      <id>673</id>
+      <parentid>639</parentid>
+      <timestamp>2022-12-10T19:52:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Der neue Betreiber */</comment>
+      <origin>673</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="126" sha1="ik1j662gbzfudralfwf26pacppidg9p" xml:space="preserve">==Benutzerdefinierte Objekte==
+===Der neue Betreiber===
+&lt;pre&gt;
+let objekt=new Object();
+&lt;/pre&gt;
+==Benutzerdefinierten Funktion==</text>
+      <sha1>ik1j662gbzfudralfwf26pacppidg9p</sha1>
+    </revision>
+    <revision>
+      <id>674</id>
+      <parentid>673</parentid>
+      <timestamp>2022-12-10T21:04:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Benutzerdefinierten Funktion */</comment>
+      <origin>674</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="238" sha1="euojbo7c01v2huaxzw0j96iktyn3j2u" xml:space="preserve">==Benutzerdefinierte Objekte==
+===Der neue Betreiber===
+&lt;pre&gt;
+let objekt=new Object();
+&lt;/pre&gt;
+==Benutzerdefinierten Funktion==
+&lt;pre&gt;
+function funktionname(variable){
+    this.variable=variable;
+}
+let objekt=new funktionname (wert);
+&lt;/pre&gt;</text>
+      <sha1>euojbo7c01v2huaxzw0j96iktyn3j2u</sha1>
+    </revision>
+    <revision>
+      <id>675</id>
+      <parentid>674</parentid>
+      <timestamp>2022-12-10T21:04:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Benutzerdefinierten Funktion */</comment>
+      <origin>675</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="237" sha1="l0g0cx1zbu786j8012e3hziw5yddinr" xml:space="preserve">==Benutzerdefinierte Objekte==
+===Der neue Betreiber===
+&lt;pre&gt;
+let objekt=new Object();
+&lt;/pre&gt;
+==Benutzerdefinierten Funktion==
+&lt;pre&gt;
+function funktionname(variable){
+    this.variable=variable;
+}
+let objekt=new funktionname(wert);
+&lt;/pre&gt;</text>
+      <sha1>l0g0cx1zbu786j8012e3hziw5yddinr</sha1>
+    </revision>
   </page>
   <page>
     <title>Java:Strings-Klasse</title>
@@ -19269,6 +19513,52 @@ String variable="Hallo Welt";
 ==String-Länge==
 &lt;pre&gt;</text>
       <sha1>8fr9bibeurempyq2cgphuxc50r7cta9</sha1>
+    </revision>
+    <revision>
+      <id>680</id>
+      <parentid>647</parentid>
+      <timestamp>2022-12-11T17:22:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* String-Länge */</comment>
+      <origin>680</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="110" sha1="o5242wuf7hqy9ynbgcs0fihl3bbe5l3" xml:space="preserve">==Strings erstellen==
+&lt;pre&gt;
+String variable="Hallo Welt";
+&lt;/pre&gt;
+
+==String-Länge==
+&lt;pre&gt;
+text.length()
+&lt;/pre&gt;</text>
+      <sha1>o5242wuf7hqy9ynbgcs0fihl3bbe5l3</sha1>
+    </revision>
+    <revision>
+      <id>681</id>
+      <parentid>680</parentid>
+      <timestamp>2022-12-11T17:29:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* String-Länge */</comment>
+      <origin>681</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="111" sha1="34c0qsg0cj95pgld67qegwrglh3k2wf" xml:space="preserve">==Strings erstellen==
+&lt;pre&gt;
+String variable="Hallo Welt";
+&lt;/pre&gt;
+
+==String-Länge==
+&lt;pre&gt;
+text.length();
+&lt;/pre&gt;</text>
+      <sha1>34c0qsg0cj95pgld67qegwrglh3k2wf</sha1>
     </revision>
   </page>
   <page>
@@ -19492,6 +19782,535 @@ var variable = "Hallo Welt" //Hallo Welt
 fmt.Println(len(variable))  //string länge
 &lt;/pre&gt;</text>
       <sha1>6abdpy0l9gwfzrzpmrqv05c862m7ph0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rust:Tuple</title>
+    <ns>0</ns>
+    <id>132</id>
+    <revision>
+      <id>662</id>
+      <timestamp>2022-12-10T13:54:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;     let tuple:(Datentypen1,Datentypen2)=(wert1,wert2);     print!("{:?}",tuple) &lt;/pre&gt;“</comment>
+      <origin>662</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="92" sha1="b5knbrq39mn3bf0l1trbrocxozlzx1t" xml:space="preserve">&lt;pre&gt;
+    let tuple:(Datentypen1,Datentypen2)=(wert1,wert2);
+    print!("{:?}",tuple)
+&lt;/pre&gt;</text>
+      <sha1>b5knbrq39mn3bf0l1trbrocxozlzx1t</sha1>
+    </revision>
+    <revision>
+      <id>663</id>
+      <parentid>662</parentid>
+      <timestamp>2022-12-10T15:12:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>663</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="110" sha1="fg7xn1ogiat76rzudzk3el9q6413fxx" xml:space="preserve">&lt;pre&gt;
+    let tuple:(Datentypen1,Datentypen2)=(wert1,wert2);
+    print!("{:?}",tuple)  //alles Ausgeben
+&lt;/pre&gt;</text>
+      <sha1>fg7xn1ogiat76rzudzk3el9q6413fxx</sha1>
+    </revision>
+    <revision>
+      <id>664</id>
+      <parentid>663</parentid>
+      <timestamp>2022-12-10T15:27:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>664</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="162" sha1="cehmn2dtp8ao28jt33bgrgdgyge3h7i" xml:space="preserve">&lt;pre&gt;
+    let tuple:(Datentypen1,Datentypen2)=(wert1,wert2);
+    print!("{:?}",tuple);  //alles Ausgeben
+    print!("{}",tuple.n); //einzelne Wert ausgeben
+&lt;/pre&gt;</text>
+      <sha1>cehmn2dtp8ao28jt33bgrgdgyge3h7i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datenbank:Ausdrücke</title>
+    <ns>0</ns>
+    <id>133</id>
+    <revision>
+      <id>666</id>
+      <timestamp>2022-12-10T16:13:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; select(auswählen)spalen from(aus)Tabellename WHERE(Wo)[BEDINGUNG|Ausdruck];“</comment>
+      <origin>666</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="82" sha1="2726cn2jhj4eai4t2akuftehwk5oq21" xml:space="preserve">&lt;pre&gt;
+select(auswählen)spalen
+from(aus)Tabellename
+WHERE(Wo)[BEDINGUNG|Ausdruck];</text>
+      <sha1>2726cn2jhj4eai4t2akuftehwk5oq21</sha1>
+    </revision>
+    <revision>
+      <id>667</id>
+      <parentid>666</parentid>
+      <timestamp>2022-12-10T16:14:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>667</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="82" sha1="jgyp8czqse0zhzaporr98cs9c18eegg" xml:space="preserve">&lt;pre&gt;
+select(auswählen)spalen
+from(aus)Tabellename
+where(Wo)[BEDINGUNG|Ausdruck];</text>
+      <sha1>jgyp8czqse0zhzaporr98cs9c18eegg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datenbank:Operatoren</title>
+    <ns>0</ns>
+    <id>134</id>
+    <revision>
+      <id>669</id>
+      <timestamp>2022-12-10T18:34:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Rechenzeichen==“</comment>
+      <origin>669</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="17" sha1="81kv3hzh0y9n623ko3u0vva2q25w58q" xml:space="preserve">==Rechenzeichen==</text>
+      <sha1>81kv3hzh0y9n623ko3u0vva2q25w58q</sha1>
+    </revision>
+    <revision>
+      <id>670</id>
+      <parentid>669</parentid>
+      <timestamp>2022-12-10T18:37:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Rechenzeichen */</comment>
+      <origin>670</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="70" sha1="22ecgmikrgn0oahu3gdwkx4z3quo0ql" xml:space="preserve">==Rechenzeichen==
+* Plus	+
+* Minus	-
+* Malnehmen	*
+* Teilen	/
+* Rest	%</text>
+      <sha1>22ecgmikrgn0oahu3gdwkx4z3quo0ql</sha1>
+    </revision>
+    <revision>
+      <id>671</id>
+      <parentid>670</parentid>
+      <timestamp>2022-12-10T18:40:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>671</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="89" sha1="sftj3ctso764pj3jd76e83k8lo1rdak" xml:space="preserve">==Rechenzeichen==
+* Plus	+
+* Minus	-
+* Malnehmen	*
+* Teilen	/
+* Rest	%
+* Exponentiation ^</text>
+      <sha1>sftj3ctso764pj3jd76e83k8lo1rdak</sha1>
+    </revision>
+    <revision>
+      <id>672</id>
+      <parentid>671</parentid>
+      <timestamp>2022-12-10T19:01:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>672</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="140" sha1="sfsu3463eymqrvu1el7u960js9kpqb6" xml:space="preserve">==Rechenzeichen==
+* Plus	+
+* Minus	-
+* Malnehmen	*
+* Teilen	/
+* Rest	%
+* Exponentiation ^
+* Quadratwurzel |/
+* Kubikwurzel ||/
+* Fakultät !</text>
+      <sha1>sfsu3463eymqrvu1el7u960js9kpqb6</sha1>
+    </revision>
+    <revision>
+      <id>698</id>
+      <parentid>672</parentid>
+      <timestamp>2022-12-12T19:05:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Rechenzeichen */</comment>
+      <origin>698</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="263" sha1="1vbvdbv9dyr6e8sye8igf33lfhoultr" xml:space="preserve">==Rechenzeichen==
+* Plus	+
+* Minus	-
+* Malnehmen	*
+* Teilen	/
+* Rest	%
+* Exponentiation ^
+* Quadratwurzel |/
+* Kubikwurzel ||/
+* Fakultät !
+==Vergleichsoperatoren==
+* Ist gleich =
+* ungleich != &lt;&gt;
+* Kleiner &lt;
+* Kleiner gleich &lt;=
+* Größer &gt;
+* Größer gleich &gt;=</text>
+      <sha1>1vbvdbv9dyr6e8sye8igf33lfhoultr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Python:Listen</title>
+    <ns>0</ns>
+    <id>135</id>
+    <revision>
+      <id>677</id>
+      <timestamp>2022-12-11T10:32:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Python-Listen==“</comment>
+      <origin>677</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="17" sha1="j0v2gq6pqh32jjpj60dpdc5aaebowh5" xml:space="preserve">==Python-Listen==</text>
+      <sha1>j0v2gq6pqh32jjpj60dpdc5aaebowh5</sha1>
+    </revision>
+    <revision>
+      <id>678</id>
+      <parentid>677</parentid>
+      <timestamp>2022-12-11T10:34:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Python-Listen */</comment>
+      <origin>678</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="gw0ilxhqhi81j4nqaz0zjxjsn7nfxdb" xml:space="preserve">==Python-Listen==
+list = [wert]</text>
+      <sha1>gw0ilxhqhi81j4nqaz0zjxjsn7nfxdb</sha1>
+    </revision>
+    <revision>
+      <id>679</id>
+      <parentid>678</parentid>
+      <timestamp>2022-12-11T10:35:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Python-Listen */</comment>
+      <origin>679</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="dqb7doqu0oppy5j7ma3angg7v70tqz9" xml:space="preserve">==Python-Listen==
+&lt;pre&gt;
+list = [wert]
+&lt;/pre&gt;</text>
+      <sha1>dqb7doqu0oppy5j7ma3angg7v70tqz9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:String</title>
+    <ns>0</ns>
+    <id>136</id>
+    <revision>
+      <id>683</id>
+      <timestamp>2022-12-11T18:35:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;  strcpy(s1, s2);;  //Kopiert den String s2 in den String s1 strcat(s1, s2); // Verkettet die Zeichenfolge s2 mit dem Ende der Zeichenfolge s1. strlen(s1); // Gibt die Länge der Zeichenfolge s1 zurück. &lt;/pre&gt;“</comment>
+      <origin>683</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="215" sha1="lddreiev4ukcljz5lbpqyubbbixht2l" xml:space="preserve">&lt;pre&gt; 
+strcpy(s1, s2);;  //Kopiert den String s2 in den String s1
+strcat(s1, s2); // Verkettet die Zeichenfolge s2 mit dem Ende der Zeichenfolge s1.
+strlen(s1); // Gibt die Länge der Zeichenfolge s1 zurück.
+&lt;/pre&gt;</text>
+      <sha1>lddreiev4ukcljz5lbpqyubbbixht2l</sha1>
+    </revision>
+    <revision>
+      <id>684</id>
+      <parentid>683</parentid>
+      <timestamp>2022-12-11T19:02:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>684</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="214" sha1="5kmke5os1soapvmlylqn70ocko41uqe" xml:space="preserve">&lt;pre&gt; 
+strcpy(s1, s2);  //Kopiert den String s2 in den String s1
+strcat(s1, s2); // Verkettet die Zeichenfolge s2 mit dem Ende der Zeichenfolge s1.
+strlen(s1); // Gibt die Länge der Zeichenfolge s1 zurück.
+&lt;/pre&gt;</text>
+      <sha1>5kmke5os1soapvmlylqn70ocko41uqe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++:String</title>
+    <ns>0</ns>
+    <id>137</id>
+    <revision>
+      <id>686</id>
+      <timestamp>2022-12-11T21:52:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Kopieren== ==Verketten==“</comment>
+      <origin>686</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="26" sha1="2p8tqieosjxlbsa623fwdstj2wuv6lg" xml:space="preserve">==Kopieren==
+==Verketten==</text>
+      <sha1>2p8tqieosjxlbsa623fwdstj2wuv6lg</sha1>
+    </revision>
+    <revision>
+      <id>687</id>
+      <parentid>686</parentid>
+      <timestamp>2022-12-11T21:53:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>687</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="37" sha1="if884s274nn87ar4cni2htutxsf6jms" xml:space="preserve">==Kopieren==
+==Verketten==
+==Länge==</text>
+      <sha1>if884s274nn87ar4cni2htutxsf6jms</sha1>
+    </revision>
+    <revision>
+      <id>688</id>
+      <parentid>687</parentid>
+      <timestamp>2022-12-11T22:07:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Kopieren */</comment>
+      <origin>688</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="102" sha1="lubtugkeq9cw7a4t1lklmaqbn6hk3sp" xml:space="preserve">==Kopieren==
+&lt;pre&gt;
+std::string text = "Text";
+std::string text1=text;
+&lt;/pre&gt;
+
+==Verketten==
+==Länge==</text>
+      <sha1>lubtugkeq9cw7a4t1lklmaqbn6hk3sp</sha1>
+    </revision>
+    <revision>
+      <id>689</id>
+      <parentid>688</parentid>
+      <timestamp>2022-12-11T22:08:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Kopieren */</comment>
+      <origin>689</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="101" sha1="87quprr1kpbm8injezq0mg3mofp78nu" xml:space="preserve">==Kopieren==
+&lt;pre&gt;
+std::string text ="Text";
+std::string text1=text;
+&lt;/pre&gt;
+
+==Verketten==
+==Länge==</text>
+      <sha1>87quprr1kpbm8injezq0mg3mofp78nu</sha1>
+    </revision>
+    <revision>
+      <id>690</id>
+      <parentid>689</parentid>
+      <timestamp>2022-12-11T22:18:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Verketten */</comment>
+      <origin>690</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="207" sha1="gaf9a901i6miuvoh0hehrfu0rizmadi" xml:space="preserve">==Kopieren==
+&lt;pre&gt;
+std::string text ="Text";
+std::string text1=text;
+&lt;/pre&gt;
+
+==Verketten==
+&lt;pre&gt;
+  std::string text="text";
+    std::string text1="text1";
+    std::string text2=text+text1;
+&lt;/pre&gt;
+
+==Länge==</text>
+      <sha1>gaf9a901i6miuvoh0hehrfu0rizmadi</sha1>
+    </revision>
+    <revision>
+      <id>691</id>
+      <parentid>690</parentid>
+      <timestamp>2022-12-11T22:22:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Länge */</comment>
+      <origin>691</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="egag97ovc5rta8j6m0lc6me70vc2ajc" xml:space="preserve">==Kopieren==
+&lt;pre&gt;
+std::string text ="Text";
+std::string text1=text;
+&lt;/pre&gt;
+
+==Verketten==
+&lt;pre&gt;
+  std::string text="text";
+    std::string text1="text1";
+    std::string text2=text+text1;
+&lt;/pre&gt;
+
+==Länge==
+&lt;pre&gt;
+text.length()
+&lt;/pre&gt;</text>
+      <sha1>egag97ovc5rta8j6m0lc6me70vc2ajc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Go:Array</title>
+    <ns>0</ns>
+    <id>138</id>
+    <revision>
+      <id>693</id>
+      <timestamp>2022-12-12T12:25:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Arrays deklarieren== &lt;pre&gt; var array[Größe]datentypen &lt;/pre&gt;“</comment>
+      <origin>693</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="64" sha1="bi3pb83gj1blwliy5ifv5dnsmnio3z5" xml:space="preserve">==Arrays deklarieren==
+&lt;pre&gt;
+var array[Größe]datentypen
+&lt;/pre&gt;</text>
+      <sha1>bi3pb83gj1blwliy5ifv5dnsmnio3z5</sha1>
+    </revision>
+    <revision>
+      <id>694</id>
+      <parentid>693</parentid>
+      <timestamp>2022-12-12T12:45:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Arrays deklarieren */</comment>
+      <origin>694</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="140" sha1="egdbv8gnsazhjp70tgrdtel2mcacgrf" xml:space="preserve">==Arrays deklarieren==
+&lt;pre&gt;
+var array[Größe]datentypen
+&lt;/pre&gt;
+==Arrays initialisieren==
+&lt;pre&gt;
+var array = [Größe]Datntypen{wert}
+&lt;/pre&gt;</text>
+      <sha1>egdbv8gnsazhjp70tgrdtel2mcacgrf</sha1>
+    </revision>
+    <revision>
+      <id>695</id>
+      <parentid>694</parentid>
+      <timestamp>2022-12-12T12:46:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Arrays initialisieren */</comment>
+      <origin>695</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="138" sha1="cu8u5mf3znpepp42js21eu8ikpvng3g" xml:space="preserve">==Arrays deklarieren==
+&lt;pre&gt;
+var array[Größe]datentypen
+&lt;/pre&gt;
+==Arrays initialisieren==
+&lt;pre&gt;
+var array=[Größe]Datntypen{wert}
+&lt;/pre&gt;</text>
+      <sha1>cu8u5mf3znpepp42js21eu8ikpvng3g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rust:Array</title>
+    <ns>0</ns>
+    <id>139</id>
+    <revision>
+      <id>697</id>
+      <timestamp>2022-12-12T17:39:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; let array:[Datentypen;Größe]=[wert] &lt;/pre&gt;“</comment>
+      <origin>697</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="50" sha1="9s3qcvizupdsylyy5qai3dynz9hs91y" xml:space="preserve">&lt;pre&gt;
+let array:[Datentypen;Größe]=[wert]
+&lt;/pre&gt;</text>
+      <sha1>9s3qcvizupdsylyy5qai3dynz9hs91y</sha1>
     </revision>
   </page>
 </mediawiki>
