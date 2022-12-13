@@ -8174,6 +8174,30 @@ print("Hallo Welt")
 * https://www.tutorialspoint.com/javascript/index.htm</text>
       <sha1>qweonixqpy6e1m93ssim8x7isuplmyb</sha1>
     </revision>
+    <revision>
+      <id>699</id>
+      <parentid>637</parentid>
+      <timestamp>2022-12-13T18:36:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>699</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="315" sha1="m4pt3jbjbivp28mra7n4jnu3a510uqq" xml:space="preserve">* [[Javascript:Hallo Welt]]
+* [[Javascript:Variable]]
+* [[Javascript:Konstant]]
+* [[Javascript:Operatoren]]
+* [[Javascript:Entscheidungsfindung]]
+* [[Javascript:Schleife]]
+* [[Javascript:Funktion]]
+* [[Javascript:Objekt]]
+* [[Javascript:Ereignisse]]
+==Weblink==
+* https://www.tutorialspoint.com/javascript/index.htm</text>
+      <sha1>m4pt3jbjbivp28mra7n4jnu3a510uqq</sha1>
+    </revision>
   </page>
   <page>
     <title>Javascript:Hallo Welt</title>
