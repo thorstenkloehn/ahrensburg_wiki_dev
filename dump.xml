@@ -3708,6 +3708,46 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [https://w
 * [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
       <sha1>gt0ys567dy5ewc1het8q559ri2gv2g9</sha1>
     </revision>
+    <revision>
+      <id>700</id>
+      <parentid>390</parentid>
+      <timestamp>2022-12-15T21:52:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>700</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1239" sha1="6kv3apnxbe2oyw8x7demmi8gw82fad3" xml:space="preserve">==Projekte==
+* [https://ahrensburg.city/ ahrensburg.city] - [https://github.com/thorstenkloehn/ahrensburg.city Quellcode]
+==Backup==
+* [https://github.com/thorstenkloehn/ahrensburg_wiki_dev Backup]
+==Dokumente==
+* [https://thorstenkloehn.github.io/docs/ Dokument] - [https://github.com/thorstenkloehn/docs Quellcode]
+* [https://thorstenkloehn.github.io/Programmiersprachen/ Programmiersprachen] - [https://github.com/thorstenkloehn/Programmiersprachen Quellcode]
+* [https://thorstenkloehn.github.io/Datenbank/ Datenbank] - [https://github.com/thorstenkloehn/Datenbank Quellcode]
+==Programmiersprachen==
+* [[C]] - [[C++]] - [[Go]] - [[Rust]] - [[Datenbank]] - [[Javascript]] - [[nginx]] - [[Python]] - [[Java]]
+
+==Webprogrammieren==
+* [[C:Webprogrammieren]] - [[C++:Webprogrammieren]] - [[Go:Webprogrammieren]] - [[Rust:Webprogrammieren]] - [[Javascript:Webprogrammieren]] - [[Python:Webprogrammieren]]
+
+==Webassembly==
+* [[C:Webassembly]] - [[C++:Webassembly]]
+
+==Installieren==
+
+* [[Geoserver]] - [[Mapbender]]
+
+==Weblink==
+
+* [https://ahrensburg.city Kartendienst] - [[Probleme Kartendienst]]
+* [[Website]]
+==Literatur==
+* [Geodatenbanksysteme in Theorie und Praxis] [BIM &amp; GIS] - [3D-Stadtmodelle] - [Web-GIS] - [Online-Karten im Fokus]</text>
+      <sha1>6kv3apnxbe2oyw8x7demmi8gw82fad3</sha1>
+    </revision>
   </page>
   <page>
     <title>Ahrensburg.dev:Impressum</title>
@@ -5327,6 +5367,33 @@ sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.or
 ==Weblink==
 * https://www.tutorialspoint.com/cplusplus/index.htm</text>
       <sha1>szitm1tct1wr4oipsytnda4evrhcge0</sha1>
+    </revision>
+    <revision>
+      <id>728</id>
+      <parentid>685</parentid>
+      <timestamp>2022-12-17T20:51:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>728</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="302" sha1="835ig2x3pmbw62j0i9rw846uo3gqn69" xml:space="preserve">
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+* [[C++:Automatische Typableitung]]
+* [[C++:Operatoren]]
+* [[C++:Entscheidungsfindung]]
+* [[C++Schleife]]
+* [[C++Funktion]]
+* [[C++:Array]]
+* [[C++:String]]
+* [[C++:Zeiger]]
+==Weblink==
+* https://www.tutorialspoint.com/cplusplus/index.htm</text>
+      <sha1>835ig2x3pmbw62j0i9rw846uo3gqn69</sha1>
     </revision>
   </page>
   <page>
@@ -7572,6 +7639,32 @@ target_link_libraries((der Projekt name) fcgi)
 ==Weblink==
 * https://www.tutorialspoint.com/cprogramming/index.htm</text>
       <sha1>bw6gwa9nfd41dna3n1l4t2b778wmq5z</sha1>
+    </revision>
+    <revision>
+      <id>714</id>
+      <parentid>682</parentid>
+      <timestamp>2022-12-16T23:35:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>714</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="269" sha1="97cfs0iwxq3jb1bxnun1jptlk8hbuyr" xml:space="preserve">* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+* [[C:Konstanten]]
+* [[C:Operatoren]]
+* [[C:Entscheidungsfindung]]
+* [[C:Schleife]]
+* [[C:Funktion]]
+* [[C:Array]]
+* [[C:Zeiger]]
+* [[C:String]]
+* [[C:Strukturen]]
+==Weblink==
+* https://www.tutorialspoint.com/cprogramming/index.htm</text>
+      <sha1>97cfs0iwxq3jb1bxnun1jptlk8hbuyr</sha1>
     </revision>
   </page>
   <page>
@@ -19584,6 +19677,59 @@ text.length();
 &lt;/pre&gt;</text>
       <sha1>34c0qsg0cj95pgld67qegwrglh3k2wf</sha1>
     </revision>
+    <revision>
+      <id>712</id>
+      <parentid>681</parentid>
+      <timestamp>2022-12-16T22:32:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* String-Länge */</comment>
+      <origin>712</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="139" sha1="ieuppaq2h8swrh6r87zoc6wgdyjqher" xml:space="preserve">==Strings erstellen==
+&lt;pre&gt;
+String variable="Hallo Welt";
+&lt;/pre&gt;
+
+==String-Länge==
+&lt;pre&gt;
+text.length();
+&lt;/pre&gt;
+==Strings verketten==
+&lt;pre&gt;</text>
+      <sha1>ieuppaq2h8swrh6r87zoc6wgdyjqher</sha1>
+    </revision>
+    <revision>
+      <id>713</id>
+      <parentid>712</parentid>
+      <timestamp>2022-12-16T22:51:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Strings verketten */</comment>
+      <origin>713</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="203" sha1="4k676rhu43ncma5gujcn4x7mj9ml7p2" xml:space="preserve">==Strings erstellen==
+&lt;pre&gt;
+String variable="Hallo Welt";
+&lt;/pre&gt;
+
+==String-Länge==
+&lt;pre&gt;
+text.length();
+&lt;/pre&gt;
+==Strings verketten==
+&lt;pre&gt;
+String text2=text1.concat(text);
+String text2=text+text1
+&lt;/pre&gt;</text>
+      <sha1>4k676rhu43ncma5gujcn4x7mj9ml7p2</sha1>
+    </revision>
   </page>
   <page>
     <title>C:Zeiger</title>
@@ -20069,6 +20215,96 @@ list = [wert]
 &lt;/pre&gt;</text>
       <sha1>dqb7doqu0oppy5j7ma3angg7v70tqz9</sha1>
     </revision>
+    <revision>
+      <id>708</id>
+      <parentid>679</parentid>
+      <timestamp>2022-12-16T21:49:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>708</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="140" sha1="df79sg33t1mpvkdx9ii3dlw5xywjt5z" xml:space="preserve">==Python-Listen==
+&lt;pre&gt;
+list = [wert]
+&lt;/pre&gt;
+==Indizierung, Slicing und Matrizen==
+&lt;pre&gt;
+list=["Thorsten","Steffi","Andreas","Andrea"]
+/pre&gt;</text>
+      <sha1>df79sg33t1mpvkdx9ii3dlw5xywjt5z</sha1>
+    </revision>
+    <revision>
+      <id>709</id>
+      <parentid>708</parentid>
+      <timestamp>2022-12-16T21:50:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Indizierung, Slicing und Matrizen */</comment>
+      <origin>709</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="141" sha1="e5iwkka7fm2pd7f06map3vcw6hyi7zn" xml:space="preserve">==Python-Listen==
+&lt;pre&gt;
+list = [wert]
+&lt;/pre&gt;
+==Indizierung, Slicing und Matrizen==
+&lt;pre&gt;
+list=["Thorsten","Steffi","Andreas","Andrea"]
+&lt;/pre&gt;</text>
+      <sha1>e5iwkka7fm2pd7f06map3vcw6hyi7zn</sha1>
+    </revision>
+    <revision>
+      <id>710</id>
+      <parentid>709</parentid>
+      <timestamp>2022-12-16T21:55:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Indizierung, Slicing und Matrizen */</comment>
+      <origin>710</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="187" sha1="jm5bj5buaxd6tvcrlzlrvhgs8irs9tz" xml:space="preserve">==Python-Listen==
+&lt;pre&gt;
+list = [wert]
+&lt;/pre&gt;
+==Indizierung, Slicing und Matrizen==
+&lt;pre&gt;
+list=["Thorsten","Steffi","Andreas","Andrea"]
+list[2] == Andrea== Offsets beginnen bei Null
+&lt;/pre&gt;</text>
+      <sha1>jm5bj5buaxd6tvcrlzlrvhgs8irs9tz</sha1>
+    </revision>
+    <revision>
+      <id>711</id>
+      <parentid>710</parentid>
+      <timestamp>2022-12-16T22:05:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Indizierung, Slicing und Matrizen */</comment>
+      <origin>711</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="bsmorzib3ulnkq5fbywpe1f50nwoigg" xml:space="preserve">==Python-Listen==
+&lt;pre&gt;
+list = [wert]
+&lt;/pre&gt;
+==Indizierung, Slicing und Matrizen==
+&lt;pre&gt;
+list=["Thorsten","Steffi","Andreas","Andrea"]
+list[2] ==Andreas== Offsets beginnen bei Null
+list[-1]==Andrea==Negativ: von rechts zählen
+&lt;/pre&gt;</text>
+      <sha1>bsmorzib3ulnkq5fbywpe1f50nwoigg</sha1>
+    </revision>
   </page>
   <page>
     <title>C:String</title>
@@ -20335,6 +20571,481 @@ var array=[Größe]Datntypen{wert}
 let array:[Datentypen;Größe]=[wert]
 &lt;/pre&gt;</text>
       <sha1>9s3qcvizupdsylyy5qai3dynz9hs91y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Website</title>
+    <ns>0</ns>
+    <id>140</id>
+    <revision>
+      <id>701</id>
+      <timestamp>2022-12-15T22:02:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* https://freecodecamp“</comment>
+      <origin>701</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" sha1="0oyzpr2vin4q27uxrghiqr9admgmzen" xml:space="preserve">* https://freecodecamp</text>
+      <sha1>0oyzpr2vin4q27uxrghiqr9admgmzen</sha1>
+    </revision>
+    <revision>
+      <id>702</id>
+      <parentid>701</parentid>
+      <timestamp>2022-12-15T22:02:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>702</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="26" sha1="4bf6cvq1ydf6qeg6juypc75spag2suq" xml:space="preserve">* https://freecodecamp.org</text>
+      <sha1>4bf6cvq1ydf6qeg6juypc75spag2suq</sha1>
+    </revision>
+    <revision>
+      <id>703</id>
+      <parentid>702</parentid>
+      <timestamp>2022-12-15T22:05:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>703</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55" sha1="mgkc6nlwdqz5e5l5jn3kjqdx3e39frb" xml:space="preserve">* https://freecodecamp.org
+* https://www.w3schools.com/</text>
+      <sha1>mgkc6nlwdqz5e5l5jn3kjqdx3e39frb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Javascript:Ereignisse</title>
+    <ns>0</ns>
+    <id>141</id>
+    <revision>
+      <id>704</id>
+      <timestamp>2022-12-15T23:22:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; window.onload = function(){   Anweisung; }  &lt;/pre&gt;“</comment>
+      <origin>704</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="56" sha1="fcm3sguemmyqfyvkhq99a25tjz71kbz" xml:space="preserve">&lt;pre&gt;
+window.onload = function(){  
+Anweisung;
+}
+
+&lt;/pre&gt;</text>
+      <sha1>fcm3sguemmyqfyvkhq99a25tjz71kbz</sha1>
+    </revision>
+    <revision>
+      <id>705</id>
+      <parentid>704</parentid>
+      <timestamp>2022-12-15T23:23:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>705</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="54" sha1="g8xjbhfb0koztbn35s0e53e50yxus9w" xml:space="preserve">&lt;pre&gt;
+window.onload=function(){  
+Anweisung;
+}
+
+&lt;/pre&gt;</text>
+      <sha1>g8xjbhfb0koztbn35s0e53e50yxus9w</sha1>
+    </revision>
+    <revision>
+      <id>706</id>
+      <parentid>705</parentid>
+      <timestamp>2022-12-15T23:25:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>706</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="112" sha1="9woqo5qd8eww8u1opq5432t8prhiz81" xml:space="preserve">==JavaScript sofort aus, nachdem eine Seite geladen wurde:
+&lt;pre&gt;
+window.onload=function(){  
+Anweisung;
+}
+&lt;/pre&gt;</text>
+      <sha1>9woqo5qd8eww8u1opq5432t8prhiz81</sha1>
+    </revision>
+    <revision>
+      <id>707</id>
+      <parentid>706</parentid>
+      <timestamp>2022-12-15T23:25:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>707</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="113" sha1="sh9rxbqokdsb20cwplus3jf3m8plq93" xml:space="preserve">==JavaScript sofort aus, nachdem eine Seite geladen wurde==
+&lt;pre&gt;
+window.onload=function(){  
+Anweisung;
+}
+&lt;/pre&gt;</text>
+      <sha1>sh9rxbqokdsb20cwplus3jf3m8plq93</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:Strukturen</title>
+    <ns>0</ns>
+    <id>142</id>
+    <revision>
+      <id>715</id>
+      <timestamp>2022-12-17T18:37:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Definieren einer Struktur==“</comment>
+      <origin>715</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="8hewsgc6u47ffi2qeqlohna0rnafsm1" xml:space="preserve">==Definieren einer Struktur==</text>
+      <sha1>8hewsgc6u47ffi2qeqlohna0rnafsm1</sha1>
+    </revision>
+    <revision>
+      <id>716</id>
+      <parentid>715</parentid>
+      <timestamp>2022-12-17T19:22:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Definieren einer Struktur */</comment>
+      <origin>716</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="85" sha1="giiquqr754e68epn2p0pxi1y8hojste" xml:space="preserve">==Definieren einer Struktur==
+struct Struktur {
+   datentypen mitglieder;
+} struktur;</text>
+      <sha1>giiquqr754e68epn2p0pxi1y8hojste</sha1>
+    </revision>
+    <revision>
+      <id>717</id>
+      <parentid>716</parentid>
+      <timestamp>2022-12-17T19:22:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Definieren einer Struktur */</comment>
+      <origin>717</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="98" sha1="evskjbxd3dmx2f2yoj3utaqxgxcnmrr" xml:space="preserve">==Definieren einer Struktur==
+&lt;pre&gt;
+struct Struktur {
+   datentypen mitglieder;
+} struktur;
+&lt;/pre&gt;</text>
+      <sha1>evskjbxd3dmx2f2yoj3utaqxgxcnmrr</sha1>
+    </revision>
+    <revision>
+      <id>718</id>
+      <parentid>717</parentid>
+      <timestamp>2022-12-17T19:43:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>718</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="172" sha1="c3ym8g8616xtsvzy7ky3aspfw4kafzz" xml:space="preserve">==Definieren einer Struktur==
+&lt;pre&gt;
+struct Struktur {
+   datentypen mitglieder;
+} struktur;
+&lt;/pre&gt;
+==Zugriff auf Strukturmitglieder==
+&lt;pre&gt;
+struct Struktur variable;
+&lt;/pre&gt;</text>
+      <sha1>c3ym8g8616xtsvzy7ky3aspfw4kafzz</sha1>
+    </revision>
+    <revision>
+      <id>719</id>
+      <parentid>718</parentid>
+      <timestamp>2022-12-17T20:08:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Zugriff auf Strukturmitglieder */</comment>
+      <origin>719</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="210" sha1="55qswmy0tg1t6gh1njhc6dw67ou07w7" xml:space="preserve">==Definieren einer Struktur==
+&lt;pre&gt;
+struct Struktur {
+   datentypen mitglieder;
+} struktur;
+&lt;/pre&gt;
+==Zugriff auf Strukturmitglieder==
+&lt;pre&gt;
+struct Struktur variable;
+&lt;/pre&gt;
+==Strukturen als Funktionsargumente==</text>
+      <sha1>55qswmy0tg1t6gh1njhc6dw67ou07w7</sha1>
+    </revision>
+    <revision>
+      <id>720</id>
+      <parentid>719</parentid>
+      <timestamp>2022-12-17T20:10:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Strukturen als Funktionsargumente */</comment>
+      <origin>720</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="251" sha1="j6qvbufp3441pga4nbe9keucuf3qutd" xml:space="preserve">==Definieren einer Struktur==
+&lt;pre&gt;
+struct Struktur {
+   datentypen mitglieder;
+} struktur;
+&lt;/pre&gt;
+==Zugriff auf Strukturmitglieder==
+&lt;pre&gt;
+struct Struktur variable;
+&lt;/pre&gt;
+==Strukturen als Funktionsargumente==
+&lt;pre&gt;
+datentypen funktionname(struct  );</text>
+      <sha1>j6qvbufp3441pga4nbe9keucuf3qutd</sha1>
+    </revision>
+    <revision>
+      <id>721</id>
+      <parentid>720</parentid>
+      <timestamp>2022-12-17T20:11:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Zugriff auf Strukturmitglieder */</comment>
+      <origin>721</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="252" sha1="r5orjkea4c6d6r8zv2lpwqh6dbsz6d4" xml:space="preserve">==Definieren einer Struktur==
+&lt;pre&gt;
+struct Struktur {
+   datentypen mitglieder;
+} struktur;
+&lt;/pre&gt;
+==Zugriff auf Strukturmitglieder==
+&lt;pre&gt;
+struct Struktur variable;
+&lt;/pre&gt;
+
+==Strukturen als Funktionsargumente==
+&lt;pre&gt;
+datentypen funktionname(struct  );</text>
+      <sha1>r5orjkea4c6d6r8zv2lpwqh6dbsz6d4</sha1>
+    </revision>
+    <revision>
+      <id>722</id>
+      <parentid>721</parentid>
+      <timestamp>2022-12-17T20:11:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Strukturen als Funktionsargumente */</comment>
+      <origin>722</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="267" sha1="ivg6v2s50vkb44pjbrih7y3kyh5nlj1" xml:space="preserve">==Definieren einer Struktur==
+&lt;pre&gt;
+struct Struktur {
+   datentypen mitglieder;
+} struktur;
+&lt;/pre&gt;
+==Zugriff auf Strukturmitglieder==
+&lt;pre&gt;
+struct Struktur variable;
+&lt;/pre&gt;
+
+==Strukturen als Funktionsargumente==
+&lt;pre&gt;
+datentypen funktionname(struct Struktur variable)</text>
+      <sha1>ivg6v2s50vkb44pjbrih7y3kyh5nlj1</sha1>
+    </revision>
+    <revision>
+      <id>723</id>
+      <parentid>722</parentid>
+      <timestamp>2022-12-17T20:17:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Strukturen als Funktionsargumente */</comment>
+      <origin>723</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="293" sha1="jkdub6lztk84nycknoksniegxlksdox" xml:space="preserve">==Definieren einer Struktur==
+&lt;pre&gt;
+struct Struktur {
+   datentypen mitglieder;
+} struktur;
+&lt;/pre&gt;
+==Zugriff auf Strukturmitglieder==
+&lt;pre&gt;
+struct Struktur variable;
+&lt;/pre&gt;
+
+==Strukturen als Funktionsargumente==
+&lt;pre&gt;
+datentypen funktionname(struct Struktur variable)
+==Zeiger auf Strukturen==</text>
+      <sha1>jkdub6lztk84nycknoksniegxlksdox</sha1>
+    </revision>
+    <revision>
+      <id>724</id>
+      <parentid>723</parentid>
+      <timestamp>2022-12-17T20:17:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Strukturen als Funktionsargumente */</comment>
+      <origin>724</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="0lvq0s3lnlvlipfak8pwnmbb5ttv6jf" xml:space="preserve">==Definieren einer Struktur==
+&lt;pre&gt;
+struct Struktur {
+   datentypen mitglieder;
+} struktur;
+&lt;/pre&gt;
+==Zugriff auf Strukturmitglieder==
+&lt;pre&gt;
+struct Struktur variable;
+&lt;/pre&gt;
+
+==Strukturen als Funktionsargumente==
+&lt;pre&gt;
+datentypen funktionname(struct Struktur variable)
+
+==Zeiger auf Strukturen==</text>
+      <sha1>0lvq0s3lnlvlipfak8pwnmbb5ttv6jf</sha1>
+    </revision>
+    <revision>
+      <id>725</id>
+      <parentid>724</parentid>
+      <timestamp>2022-12-17T20:17:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Strukturen als Funktionsargumente */</comment>
+      <origin>725</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="301" sha1="fisbqo7vw6g5mx4rioiay8ovowz8h0o" xml:space="preserve">==Definieren einer Struktur==
+&lt;pre&gt;
+struct Struktur {
+   datentypen mitglieder;
+} struktur;
+&lt;/pre&gt;
+==Zugriff auf Strukturmitglieder==
+&lt;pre&gt;
+struct Struktur variable;
+&lt;/pre&gt;
+
+==Strukturen als Funktionsargumente==
+&lt;pre&gt;
+datentypen funktionname(struct Struktur variable)
+&lt;/pre&gt;
+
+==Zeiger auf Strukturen==</text>
+      <sha1>fisbqo7vw6g5mx4rioiay8ovowz8h0o</sha1>
+    </revision>
+    <revision>
+      <id>726</id>
+      <parentid>725</parentid>
+      <timestamp>2022-12-17T20:19:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Zeiger auf Strukturen */</comment>
+      <origin>726</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="344" sha1="eg4ydfwjorabs0gou7c8ms3ukgbclmq" xml:space="preserve">==Definieren einer Struktur==
+&lt;pre&gt;
+struct Struktur {
+   datentypen mitglieder;
+} struktur;
+&lt;/pre&gt;
+==Zugriff auf Strukturmitglieder==
+&lt;pre&gt;
+struct Struktur variable;
+&lt;/pre&gt;
+
+==Strukturen als Funktionsargumente==
+&lt;pre&gt;
+datentypen funktionname(struct Struktur variable)
+&lt;/pre&gt;
+
+==Zeiger auf Strukturen==
+&lt;pre&gt;
+struct Books *struct_pointer;
+&lt;/pre&gt;</text>
+      <sha1>eg4ydfwjorabs0gou7c8ms3ukgbclmq</sha1>
+    </revision>
+    <revision>
+      <id>727</id>
+      <parentid>726</parentid>
+      <timestamp>2022-12-17T20:20:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Zeiger auf Strukturen */</comment>
+      <origin>727</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="346" sha1="1rp80t408st5rtrl06edpt7gsc154x4" xml:space="preserve">==Definieren einer Struktur==
+&lt;pre&gt;
+struct Struktur {
+   datentypen mitglieder;
+} struktur;
+&lt;/pre&gt;
+==Zugriff auf Strukturmitglieder==
+&lt;pre&gt;
+struct Struktur variable;
+&lt;/pre&gt;
+
+==Strukturen als Funktionsargumente==
+&lt;pre&gt;
+datentypen funktionname(struct Struktur variable)
+&lt;/pre&gt;
+
+==Zeiger auf Strukturen==
+&lt;pre&gt;
+struct Struktur*StrukturZeiger;
+&lt;/pre&gt;</text>
+      <sha1>1rp80t408st5rtrl06edpt7gsc154x4</sha1>
     </revision>
   </page>
 </mediawiki>
