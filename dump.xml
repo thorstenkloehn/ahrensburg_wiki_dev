@@ -6196,6 +6196,33 @@ fun main() {
 * https://www.tutorialspoint.com/go/index.htm</text>
       <sha1>8t9v1geod1lcitmrvnzhavrhhrrf65s</sha1>
     </revision>
+    <revision>
+      <id>730</id>
+      <parentid>692</parentid>
+      <timestamp>2022-12-17T23:37:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>730</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="323" sha1="rwxpbijrq7zk49vav7aowrvcuzythe8" xml:space="preserve">* [[Go:Hallo Welt]]
+* [[Go:Datentypen]]
+* [[Go:Konstanten]]
+* [[Go:Automatische Typableitung]]
+* [[Go:Kurze Variablendeklarationen]]
+* [[Go:Operatoren]]
+* [[Go:Entscheidungsfindung]]
+* [[Go:Schleife]]
+* [[Go:Funktion]]
+* [[Go:String]]
+* [[Go:Array]]
+* [[Go:Zeiger]]
+==Weblink==
+* https://www.tutorialspoint.com/go/index.htm</text>
+      <sha1>rwxpbijrq7zk49vav7aowrvcuzythe8</sha1>
+    </revision>
   </page>
   <page>
     <title>Go:Hallo Welt</title>
@@ -6569,6 +6596,87 @@ func main() {
 ==Weblink==
 * https://www.tutorialspoint.com/rust/index.htm</text>
       <sha1>py9qoo6niovb8vkmfug3ki7j095xzk3</sha1>
+    </revision>
+    <revision>
+      <id>732</id>
+      <parentid>696</parentid>
+      <timestamp>2022-12-18T15:52:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>732</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="308" sha1="nuwkm44pzd4r3f1wojwyg7nuf9yautx" xml:space="preserve">* [[Rust:Hallo Welt]]
+* [[Rust:Datentypen]]
+* [[Rust:Konstanten]]
+* [[Rust:Automatische Typableitung]]
+* [[Rust:String]]
+* [[Rust:Operatoren]]
+* [[Rust:Entscheidungsfindung]]
+* [[Rust:Funktion]]
+* [[Rust:Tuple]]
+* [[Rust:Array]]
+* [[Rust:Eigentum]]
+==Weblink==
+* https://www.tutorialspoint.com/rust/index.htm</text>
+      <sha1>nuwkm44pzd4r3f1wojwyg7nuf9yautx</sha1>
+    </revision>
+    <revision>
+      <id>733</id>
+      <parentid>732</parentid>
+      <timestamp>2022-12-19T16:29:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>733</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="358" sha1="36yoyrzj5gf6dsnciv28a159sqn96wx" xml:space="preserve">* [[Rust:Hallo Welt]]
+* [[Rust:Datentypen]]
+* [[Rust:Konstanten]]
+* [[Rust:Automatische Typableitung]]
+* [[Rust:String]]
+* [[Rust:Operatoren]]
+* [[Rust:Entscheidungsfindung]]
+* [[Rust:Funktion]]
+* [[Rust:Tuple]]
+* [[Rust:Array]]
+* [[Rust:Eigentum]] kommt später
+* [[Rust:Ausleihen]] kommst später
+==Weblink==
+* https://www.tutorialspoint.com/rust/index.htm</text>
+      <sha1>36yoyrzj5gf6dsnciv28a159sqn96wx</sha1>
+    </revision>
+    <revision>
+      <id>734</id>
+      <parentid>733</parentid>
+      <timestamp>2022-12-19T20:26:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>734</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="378" sha1="s22knc1fx3njak7zdsujcxc9cojpeyi" xml:space="preserve">* [[Rust:Hallo Welt]]
+* [[Rust:Datentypen]]
+* [[Rust:Konstanten]]
+* [[Rust:Automatische Typableitung]]
+* [[Rust:String]]
+* [[Rust:Operatoren]]
+* [[Rust:Entscheidungsfindung]]
+* [[Rust:Funktion]]
+* [[Rust:Tuple]]
+* [[Rust:Array]]
+* [[Rust:Eigentum]] kommt später
+* [[Rust:Ausleihen]] kommst später
+* [[Rust:Scheiben]]
+==Weblink==
+* https://www.tutorialspoint.com/rust/index.htm</text>
+      <sha1>s22knc1fx3njak7zdsujcxc9cojpeyi</sha1>
     </revision>
   </page>
   <page>
@@ -21046,6 +21154,92 @@ datentypen funktionname(struct Struktur variable)
 struct Struktur*StrukturZeiger;
 &lt;/pre&gt;</text>
       <sha1>1rp80t408st5rtrl06edpt7gsc154x4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++:Zeiger</title>
+    <ns>0</ns>
+    <id>143</id>
+    <revision>
+      <id>729</id>
+      <timestamp>2022-12-17T23:30:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; datentypen variable=wert; datentypen*zeiger; zeiger=&amp;variable; &lt;/pre&gt;“</comment>
+      <origin>729</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="75" sha1="44gtf15bsunrjr7awk11nroiu604zf2" xml:space="preserve">&lt;pre&gt;
+datentypen variable=wert;
+datentypen*zeiger;
+zeiger=&amp;variable;
+&lt;/pre&gt;</text>
+      <sha1>44gtf15bsunrjr7awk11nroiu604zf2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Go:Zeiger</title>
+    <ns>0</ns>
+    <id>144</id>
+    <revision>
+      <id>731</id>
+      <timestamp>2022-12-18T14:33:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; var variable datentypen=wert 	var zeiger*datentypen 	zeiger=&amp;variable 	fmt.Println(*zeiger)   //Ausgabe &lt;/pre&gt;“</comment>
+      <origin>731</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="116" sha1="7f68rkxhl2jod6l1qb5bqsj4wia96ut" xml:space="preserve">&lt;pre&gt;
+var variable datentypen=wert
+	var zeiger*datentypen
+	zeiger=&amp;variable
+	fmt.Println(*zeiger)   //Ausgabe
+&lt;/pre&gt;</text>
+      <sha1>7f68rkxhl2jod6l1qb5bqsj4wia96ut</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rust:Scheiben</title>
+    <ns>0</ns>
+    <id>145</id>
+    <revision>
+      <id>735</id>
+      <timestamp>2022-12-19T21:02:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;  let variable=text.to_string();  let schreibe=&amp;variable[start index..ende index]; &lt;/pre&gt;“</comment>
+      <origin>735</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="94" sha1="mbkdzbproykhw1wypv1srdhh6uht3do" xml:space="preserve">&lt;pre&gt;
+ let variable=text.to_string();
+ let schreibe=&amp;variable[start index..ende index];
+&lt;/pre&gt;</text>
+      <sha1>mbkdzbproykhw1wypv1srdhh6uht3do</sha1>
+    </revision>
+    <revision>
+      <id>736</id>
+      <parentid>735</parentid>
+      <timestamp>2022-12-19T21:13:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>736</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="93" sha1="cubbr2fvqnttc9e2oatf2pk88a8u61i" xml:space="preserve">&lt;pre&gt;
+ let variable=text.to_string();
+ let scheibe=&amp;variable[start index..ende index];
+&lt;/pre&gt;</text>
+      <sha1>cubbr2fvqnttc9e2oatf2pk88a8u61i</sha1>
     </revision>
   </page>
 </mediawiki>
