@@ -5395,6 +5395,34 @@ sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.or
 * https://www.tutorialspoint.com/cplusplus/index.htm</text>
       <sha1>835ig2x3pmbw62j0i9rw846uo3gqn69</sha1>
     </revision>
+    <revision>
+      <id>741</id>
+      <parentid>728</parentid>
+      <timestamp>2023-01-01T20:42:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>741</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="330" sha1="i6rr9j6aa0hbp6bnj3qmk4a9ns1b1w1" xml:space="preserve">
+* [[C++:Hallo Welt]]
+* [[C++:Datentypen]]
+* [[C++:Konstanten]]
+* [[C++:Automatische Typableitung]]
+* [[C++:Operatoren]]
+* [[C++:Entscheidungsfindung]]
+* [[C++Schleife]]
+* [[C++Funktion]]
+* [[C++:Array]]
+* [[C++:String]]
+* [[C++:Zeiger]]
+* [[C++:Referenzen in C++]]
+==Weblink==
+* https://www.tutorialspoint.com/cplusplus/index.htm</text>
+      <sha1>i6rr9j6aa0hbp6bnj3qmk4a9ns1b1w1</sha1>
+    </revision>
   </page>
   <page>
     <title>C++:Hallo Welt</title>
@@ -7773,6 +7801,33 @@ target_link_libraries((der Projekt name) fcgi)
 ==Weblink==
 * https://www.tutorialspoint.com/cprogramming/index.htm</text>
       <sha1>97cfs0iwxq3jb1bxnun1jptlk8hbuyr</sha1>
+    </revision>
+    <revision>
+      <id>737</id>
+      <parentid>714</parentid>
+      <timestamp>2023-01-01T15:58:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>737</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="293" sha1="4sfk118c2uqgkpz1i3peeo64kcp8f59" xml:space="preserve">* [[C:Hallo Welt]]
+* [[C:Datentypen]]
+* [[C:Konstanten]]
+* [[C:Operatoren]]
+* [[C:Entscheidungsfindung]]
+* [[C:Schleife]]
+* [[C:Funktion]]
+* [[C:Array]]
+* [[C:Zeiger]]
+* [[C:String]]
+* [[C:Strukturen]]
+* [[C:Aufzählungstyp]]
+==Weblink==
+* https://www.tutorialspoint.com/cprogramming/index.htm</text>
+      <sha1>4sfk118c2uqgkpz1i3peeo64kcp8f59</sha1>
     </revision>
   </page>
   <page>
@@ -21240,6 +21295,131 @@ var variable datentypen=wert
  let scheibe=&amp;variable[start index..ende index];
 &lt;/pre&gt;</text>
       <sha1>cubbr2fvqnttc9e2oatf2pk88a8u61i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C:Aufzählungstyp</title>
+    <ns>0</ns>
+    <id>146</id>
+    <revision>
+      <id>738</id>
+      <timestamp>2023-01-01T16:11:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; enum aufzählungstyp{     konstanten1,     konstanten2 }; &lt;/pre&gt;“</comment>
+      <origin>738</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="70" sha1="9xe39n6gejgutb0azssd19zj72ltgfu" xml:space="preserve">&lt;pre&gt;
+enum aufzählungstyp{
+    konstanten1,
+    konstanten2
+};
+&lt;/pre&gt;</text>
+      <sha1>9xe39n6gejgutb0azssd19zj72ltgfu</sha1>
+    </revision>
+    <revision>
+      <id>739</id>
+      <parentid>738</parentid>
+      <timestamp>2023-01-01T16:12:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>739</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="128" sha1="n8hyds6fmlca0s4xbi0njoditsfz0xy" xml:space="preserve">&lt;pre&gt;
+enum aufzählungstyp{
+    konstanten1,
+    konstanten2
+};
+ enum aufzählungstyp variable;
+    variable=konstanten2;
+&lt;/pre&gt;</text>
+      <sha1>n8hyds6fmlca0s4xbi0njoditsfz0xy</sha1>
+    </revision>
+    <revision>
+      <id>740</id>
+      <parentid>739</parentid>
+      <timestamp>2023-01-01T16:13:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>740</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="128" sha1="d9xvunq0iawsf578398lo048uakyse0" xml:space="preserve">&lt;pre&gt;
+enum aufzählungstyp{
+    konstanten1,
+    konstanten2
+};
+ enum aufzählungstyp variable;
+    variable=konstanten1;
+&lt;/pre&gt;</text>
+      <sha1>d9xvunq0iawsf578398lo048uakyse0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>C++:Referenzen in C++</title>
+    <ns>0</ns>
+    <id>147</id>
+    <revision>
+      <id>742</id>
+      <timestamp>2023-01-02T20:54:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;  Datentypen variable;  Datentypen&amp; Referenzen=variable;  variable = 10; &lt;/pre&gt;“</comment>
+      <origin>742</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="84" sha1="ck5utouydi7qgbad6xggkwznvmsm9ah" xml:space="preserve">&lt;pre&gt;
+ Datentypen variable;
+ Datentypen&amp; Referenzen=variable;
+ variable = 10;
+&lt;/pre&gt;</text>
+      <sha1>ck5utouydi7qgbad6xggkwznvmsm9ah</sha1>
+    </revision>
+    <revision>
+      <id>743</id>
+      <parentid>742</parentid>
+      <timestamp>2023-01-02T20:56:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>743</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="86" sha1="blgkmn72msmqpk46vludfwvbrzsh9il" xml:space="preserve">&lt;pre&gt;
+ Datentypen variable;
+ Datentypen&amp; Referenzen=variable;
+ variable = wert;
+&lt;/pre&gt;</text>
+      <sha1>blgkmn72msmqpk46vludfwvbrzsh9il</sha1>
+    </revision>
+    <revision>
+      <id>744</id>
+      <parentid>743</parentid>
+      <timestamp>2023-01-02T20:58:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>744</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="84" sha1="nn4c2qfx6youytwvq7oofqphildvp2t" xml:space="preserve">&lt;pre&gt;
+ Datentypen variable;
+ Datentypen&amp; Referenzen=variable;
+ variable=wert;
+&lt;/pre&gt;</text>
+      <sha1>nn4c2qfx6youytwvq7oofqphildvp2t</sha1>
     </revision>
   </page>
 </mediawiki>
